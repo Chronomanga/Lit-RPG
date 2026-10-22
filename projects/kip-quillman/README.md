@@ -1,8 +1,8 @@
 # Kip Quillman persistent continuity mirror
 
-**Current state: Episode 1 has a recorded root final prose review; Episode 2 is next.** The same local workbook was updated and its before-Episode-2 checkpoint verified. The stopping point is **read the workbook and confirmed Episode 1 ending before writing Episode 2; resolve blocking issues first**. Refresh time and source hashes are in [metadata.json](metadata.json). Whole-book review remains pending; no real-reader approval, completed audio review, or publication is established.
+**Current state: Episodes 1 and 2 have recorded root final prose reviews; Episode 3 is next.** The same local workbook was updated and its before-Episode-3 checkpoint verified. The stopping point is **read the workbook and confirmed Episode 2 ending before writing Episode 3; resolve blocking issues first**. Refresh time and source hashes are in [metadata.json](metadata.json). Whole-book review remains pending; no real-reader approval, completed audio review, or publication is established.
 
-Use [continuity.xlsx](continuity.xlsx) as the persistent GitHub workbook path. Refresh that same file in place. [confirmed-state.csv](confirmed-state.csv) holds four confirmed resource rows for Episode 1. [actual-episodes.json](actual-episodes.json) is a state-only projection of the canonical actual ledger, with resources, ability versions, ownership, knowledge, injuries, fatigue, relationships, threats, events, practice, and source evidence. Keep [planned-state.json](planned-state.json) and its plan exports explicitly planned. Twenty planned novel chapters do not mean twenty completed episodes: actual Episode 1 stops before the planned Chapter 1 exit. A preplanned outline or numeric PASS is never a substitute for actual episode state. Metadata records both the canonical actual-ledger hash and the projection's different byte hash; Git retains prior file versions.
+Use [continuity.xlsx](continuity.xlsx) as the persistent GitHub workbook path. Refresh that same file in place. [confirmed-state.csv](confirmed-state.csv) holds eight confirmed resource rows across Episodes 1 and 2. [actual-episodes.json](actual-episodes.json) is a state-only projection of the canonical actual ledger, with resources, ability versions, ownership, knowledge, injuries, fatigue, relationships, threats, events, practice, and source evidence. Keep [planned-state.json](planned-state.json) and its plan exports explicitly planned. Twenty planned novel chapters are not episode completion counts; begin from the latest confirmed actual episode ending. A preplanned outline or numeric PASS is never a substitute for actual episode state. Metadata records both the canonical actual-ledger hash and the projection's different byte hash; Git retains prior file versions.
 
 ## Required before and after every episode
 
@@ -20,14 +20,14 @@ The owner explicitly authorized this project ledger mirror. It includes future e
 
 ## Persistent files
 
-The numerical replay and plan exports remain **planned**. The workbook separately holds confirmed Episode 1 state, and its carryover table includes explicitly labeled actual facts. Supporting rules, tools, and calculations do not establish completed scenes. The confirmed actual records cite the final reviewed source filename/version and SHA256; the private text stays local. Ability versions and unprinted companion values carry approved author rules/baselines reconciled with actual uses; they do not mean every cost or limit was narrated or disclosed. Knowledge fields separately track what Kip and the reader know.
+The numerical replay and plan exports remain **planned**. The workbook separately holds confirmed state through Episode 2, and its carryover table includes explicitly labeled actual facts. Supporting rules, tools, and calculations do not establish completed scenes. The confirmed actual records cite the final reviewed source filename/version and SHA256; the private text stays local. Ability versions and unprinted companion values carry approved author rules/baselines reconciled with actual uses; they do not mean every cost or limit was narrated or disclosed. Knowledge fields separately track what Kip and the reader know.
 
-The confirmed-state table and CSV use **EP** for actual episodes. The mixed carryover table/export retains its existing **Ch** column: for planned rows it means the planned novel chapter; for `ACT-*` record IDs it means the actual episode. Use the record ID, Topic, and Status together to distinguish them. The 120 ACT-001 facts concern Episode 1, not a completed planned Chapter 1. Do not combine the two timelines or interpret all Ch values as episodes.
+The confirmed-state table and CSV use **EP** for actual episodes. The mixed carryover table/export retains its existing **Ch** column: for planned rows it means the planned novel chapter; for `ACT-*` record IDs it means the actual episode. Use the record ID, Topic, and Status together to distinguish them. Its 284 actual facts use ACT-001 and ACT-002 IDs for Episodes 1 and 2, rather than planned chapter completions. Do not combine the two timelines or interpret all Ch values as episodes.
 
 | File | Purpose and evidence limit |
 | --- | --- |
-| [continuity.xlsx](continuity.xlsx) | Persistent workbook mirror, updated in place; planned chronology and separately confirmed Episode 1 state. |
-| [confirmed-state.csv](confirmed-state.csv) | Four actual Episode 1 resource rows with final-text evidence; EP identifies the episode. |
+| [continuity.xlsx](continuity.xlsx) | Persistent workbook mirror, updated in place; planned chronology and separately confirmed state through Episode 2. |
+| [confirmed-state.csv](confirmed-state.csv) | Eight actual resource rows across Episodes 1 and 2 with final-text evidence; EP identifies the episode. |
 | [actual-episodes.json](actual-episodes.json) | Approved factual state-only projection; canonical-source hash and projection hash are recorded separately. No manuscript body or editorial notes. |
 | [planned-state.json](planned-state.json) | Owning data record for the planned replay across 20 chapters; not final-text evidence. |
 | [verify_planned_state.py](verify_planned_state.py) | Replays declared costs, recovery, XP, timing, rank prerequisites, and recorded geometry. It does not read or validate prose. |
@@ -37,7 +37,7 @@ The confirmed-state table and CSV use **EP** for actual episodes. The mixed carr
 | [mana-events.csv](csv/mana-events.csv) | Planned resource replay and recorded/calculated differences. |
 | [xp-events.csv](csv/xp-events.csv) | Planned contributor awards, thresholds, and overflow. |
 | [event-details.csv](csv/event-details.csv) | Planned timing, prerequisites, and geometry declarations; check against each final scene. |
-| [story-carryover.csv](csv/story-carryover.csv) | Planned carryover plus 120 confirmed ACT-001 facts. Ch means planned chapter for plan rows and actual episode for ACT-* rows; inspect Topic and Status. |
+| [story-carryover.csv](csv/story-carryover.csv) | Planned carryover plus 284 confirmed ACT-001/ACT-002 facts. Ch means planned chapter for plan rows and actual episode for ACT-* rows; inspect Topic and Status. |
 | [rules.csv](csv/rules.csv) | Rule inputs used by this planning export. |
 | [confirmed-state-template.csv](csv/confirmed-state-template.csv) | Blank reusable EP template only. The populated actual record is the separate stable confirmed-state.csv above. |
 | [metadata.json](metadata.json) | Status, source hashes, refresh time, stopping point, and provenance. |

@@ -48,6 +48,6 @@ Use one step at a time by default. If the owner requests a complete episode, cha
 | Blank working documents | [templates](templates/) |
 | Full research notes and disagreements | [research index](research/README.md) |
 
-The owner-authorized [Kip Quillman continuity mirror](projects/kip-quillman/README.md) uses persistent workbook and data paths, refreshed in place with hashes and Git history. It separates the planned book chronology from confirmed Episode 1 facts. Its future plans must not be handed wholesale to a bounded prose writer or simulated reader; a complete private manuscript is not mirrored here.
+The owner-authorized [Kip Quillman continuity mirror](projects/kip-quillman/README.md) uses persistent workbook and data paths, refreshed in place with hashes and Git history. It separates the planned book chronology from confirmed facts through Episode 2. Its future plans must not be handed wholesale to a bounded prose writer or simulated reader; private manuscripts are not mirrored here.
 
 Research version: October 21, 2026; continuity workflow update: October 22, 2026. See [CHANGELOG.md](CHANGELOG.md). These are craft tools, not sales guarantees or current platform policy.

@@ -1571,3 +1571,167 @@ ACT-001-private_flags.002,1,Actual private_flags,private_flags.002,No one receiv
 ACT-001-private_flags.003,1,Actual private_flags,private_flags.003,"No new magic, claimed room, rest refill, weapon or inventory power established.",Confirmed from final text
 ACT-001-ending,1,Actual ending,ending,All five remain alive and in retreat beyond the junction. Kip and Owen carry Jory toward the service-door bend while the rearguard delays the living wounded hunter; no refuge or escape is secured.,Confirmed from final text
 ACT-001-open_issues,1,Actual open_issues,open_issues,None recorded,Confirmed from final text
+ACT-002-title,2,Actual title,title,Twenty Mana Left,Confirmed from final text
+ACT-002-source_file,2,Actual source_file,source_file,chapters/chapter-01/episode-002.txt,Confirmed from final text
+ACT-002-source_sha256,2,Actual source_sha256,source_sha256,be408ba46776ec799bef78564c6ba621f3193fc6bf9c10d2a66dd2e29f18202b,Confirmed from final text
+ACT-002-time,2,Actual time,time,"Same opening retreat, then protected wound treatment for twenty seconds and several minutes of active patient repositioning/room checks. No completed sitting/lying quiet recovery minute established.",Confirmed from final text
+ACT-002-location,2,Actual location,location,"All five inside the old service chamber, approximately twelve by ten metres. Entry door closed and barred; second service passage obstructed by fallen stone. Intact squat anchor near the middle of the floor, not yet inspected or claimed.",Confirmed from final text
+ACT-002-roster.001,2,Actual roster,roster.001,Kip Quillman,Confirmed from final text
+ACT-002-roster.002,2,Actual roster,roster.002,Tessa Ward,Confirmed from final text
+ACT-002-roster.003,2,Actual roster,roster.003,Owen Pike,Confirmed from final text
+ACT-002-roster.004,2,Actual roster,roster.004,Dane Mercer (now named to Kip),Confirmed from final text
+ACT-002-roster.005,2,Actual roster,roster.005,Jory Hale,Confirmed from final text
+ACT-002-abilities.Kip.Dominion Sight.rank,2,Actual abilities,abilities.Kip.Dominion Sight.rank,1,Confirmed from final text
+ACT-002-abilities.Kip.Dominion Sight.cost,2,Actual abilities,abilities.Kip.Dominion Sight.cost,0,Confirmed from final text
+ACT-002-abilities.Kip.Dominion Sight.inspection_seconds,2,Actual abilities,abilities.Kip.Dominion Sight.inspection_seconds,1,Confirmed from final text
+ACT-002-abilities.Kip.Dominion Sight.range_metres,2,Actual abilities,abilities.Kip.Dominion Sight.range_metres,10,Confirmed from final text
+ACT-002-abilities.Kip.Dominion Sight.targets,2,Actual abilities,abilities.Kip.Dominion Sight.targets,"Visible dungeon fixtures and Claim anchors; not people, hidden objects or private panels.",Confirmed from final text
+ACT-002-abilities.Kip.Override.rank,2,Actual abilities,abilities.Kip.Override.rank,1,Confirmed from final text
+ACT-002-abilities.Kip.Override.cost,2,Actual abilities,abilities.Kip.Override.cost,10,Confirmed from final text
+ACT-002-abilities.Kip.Override.range_metres,2,Actual abilities,abilities.Kip.Override.range_metres,10,Confirmed from final text
+ACT-002-abilities.Kip.Override.duration_seconds,2,Actual abilities,abilities.Kip.Override.duration_seconds,5,Confirmed from final text
+ACT-002-abilities.Kip.Override.same_fixture_cooldown_after_control_seconds,2,Actual abilities,abilities.Kip.Override.same_fixture_cooldown_after_control_seconds,15,Confirmed from final text
+ACT-002-abilities.Kip.Override.active_limit,2,Actual abilities,abilities.Kip.Override.active_limit,1,Confirmed from final text
+ACT-002-abilities.Kip.Override.limits,2,Actual abilities,abilities.Kip.Override.limits,"Available visible constructed defense; normal arc, fuel and reset. No creation, reload, repair or body control.",Confirmed from final text
+ACT-002-abilities.Kip.Override.actual_use,2,Actual abilities,abilities.Kip.Override.actual_use,Two paid uses since arrival: first launcher shot in Episode 1; second vent sweep in Episode 2. Both ended; no permanent fixture ownership.,Confirmed from final text
+ACT-002-abilities.Kip.Claim Room.rank,2,Actual abilities,abilities.Kip.Claim Room.rank,1,Confirmed from final text
+ACT-002-abilities.Kip.Claim Room.cost,2,Actual abilities,abilities.Kip.Claim Room.cost,20,Confirmed from final text
+ACT-002-abilities.Kip.Claim Room.touch_seconds,2,Actual abilities,abilities.Kip.Claim Room.touch_seconds,30,Confirmed from final text
+ACT-002-abilities.Kip.Claim Room.room_max_metres,2,Actual abilities,abilities.Kip.Claim Room.room_max_metres,20,Confirmed from final text
+ACT-002-abilities.Kip.Claim Room.capacity,2,Actual abilities,abilities.Kip.Claim Room.capacity,1,Confirmed from final text
+ACT-002-abilities.Kip.Claim Room.limits,2,Actual abilities,abilities.Kip.Claim Room.limits,"Intact Claimable anchor; guardian defeated, seal absent, no living hostiles inside. Interruptions spend paid Mana. No automatic healing or barrier.",Confirmed from final text
+ACT-002-abilities.Kip.Claim Room.actual_use,2,Actual abilities,abilities.Kip.Claim Room.actual_use,Available but unused.,Confirmed from final text
+ACT-002-abilities.Tessa.Quickstep.rank,2,Actual abilities,abilities.Tessa.Quickstep.rank,2,Confirmed from final text
+ACT-002-abilities.Tessa.Quickstep.cost,2,Actual abilities,abilities.Tessa.Quickstep.cost,10,Confirmed from final text
+ACT-002-abilities.Tessa.Quickstep.cooldown_seconds,2,Actual abilities,abilities.Tessa.Quickstep.cooldown_seconds,15,Confirmed from final text
+ACT-002-abilities.Tessa.Quickstep.distance_metres,2,Actual abilities,abilities.Tessa.Quickstep.distance_metres,12,Confirmed from final text
+ACT-002-abilities.Tessa.Quickstep.duration_seconds,2,Actual abilities,abilities.Tessa.Quickstep.duration_seconds,1,Confirmed from final text
+ACT-002-abilities.Tessa.Quickstep.limits,2,Actual abilities,abilities.Tessa.Quickstep.limits,"Traversable physical route; no teleport, impossible gap or carrying another adult.",Confirmed from final text
+ACT-002-abilities.Tessa.Quickstep.actual_use,2,Actual abilities,abilities.Tessa.Quickstep.actual_use,One paid use after Kip arrives.,Confirmed from final text
+ACT-002-abilities.Tessa.Trail Sight.rank,2,Actual abilities,abilities.Tessa.Trail Sight.rank,2,Confirmed from final text
+ACT-002-abilities.Tessa.Trail Sight.cost,2,Actual abilities,abilities.Tessa.Trail Sight.cost,15,Confirmed from final text
+ACT-002-abilities.Tessa.Trail Sight.cooldown_seconds,2,Actual abilities,abilities.Tessa.Trail Sight.cooldown_seconds,45,Confirmed from final text
+ACT-002-abilities.Tessa.Trail Sight.duration_seconds,2,Actual abilities,abilities.Tessa.Trail Sight.duration_seconds,30,Confirmed from final text
+ACT-002-abilities.Tessa.Trail Sight.range_metres,2,Actual abilities,abilities.Tessa.Trail Sight.range_metres,25,Confirmed from final text
+ACT-002-abilities.Tessa.Trail Sight.track_age_max_hours,2,Actual abilities,abilities.Tessa.Trail Sight.track_age_max_hours,2,Confirmed from final text
+ACT-002-abilities.Tessa.Trail Sight.limits,2,Actual abilities,abilities.Tessa.Trail Sight.limits,"Visible surviving traces from inspected source; no live location, thoughts or walls.",Confirmed from final text
+ACT-002-abilities.Tessa.Trail Sight.actual_use,2,Actual abilities,abilities.Tessa.Trail Sight.actual_use,Not used after Kip arrives.,Confirmed from final text
+ACT-002-abilities.Owen.Staunch.rank,2,Actual abilities,abilities.Owen.Staunch.rank,2,Confirmed from final text
+ACT-002-abilities.Owen.Staunch.cost,2,Actual abilities,abilities.Owen.Staunch.cost,10,Confirmed from final text
+ACT-002-abilities.Owen.Staunch.cooldown_seconds,2,Actual abilities,abilities.Owen.Staunch.cooldown_seconds,15,Confirmed from final text
+ACT-002-abilities.Owen.Staunch.touch_seconds,2,Actual abilities,abilities.Owen.Staunch.touch_seconds,5,Confirmed from final text
+ACT-002-abilities.Owen.Staunch.seal_minutes,2,Actual abilities,abilities.Owen.Staunch.seal_minutes,40,Confirmed from final text
+ACT-002-abilities.Owen.Staunch.limits,2,Actual abilities,abilities.Owen.Staunch.limits,"One external wound; no blood replacement, internal healing or revival; strain or blow can break seal.",Confirmed from final text
+ACT-002-abilities.Owen.Mend.rank,2,Actual abilities,abilities.Owen.Mend.rank,2,Confirmed from final text
+ACT-002-abilities.Owen.Mend.cost,2,Actual abilities,abilities.Owen.Mend.cost,20,Confirmed from final text
+ACT-002-abilities.Owen.Mend.cooldown_seconds,2,Actual abilities,abilities.Owen.Mend.cooldown_seconds,60,Confirmed from final text
+ACT-002-abilities.Owen.Mend.touch_seconds,2,Actual abilities,abilities.Owen.Mend.touch_seconds,20,Confirmed from final text
+ACT-002-abilities.Owen.Mend.wound_max_length_cm,2,Actual abilities,abilities.Owen.Mend.wound_max_length_cm,20,Confirmed from final text
+ACT-002-abilities.Owen.Mend.wound_max_depth_cm,2,Actual abilities,abilities.Owen.Mend.wound_max_depth_cm,1,Confirmed from final text
+ACT-002-abilities.Owen.Mend.limits,2,Actual abilities,abilities.Owen.Mend.limits,"Aligned present skin and shallow muscle; no bone, organs, major vessels, nerves, regrowth or lost blood.",Confirmed from final text
+ACT-002-abilities.Owen.Mend.actual_use,2,Actual abilities,abilities.Owen.Mend.actual_use,"One full twenty-second cast after arrival, closing Kip's shallow forearm cut. Jory's fracture remains.",Confirmed from final text
+ACT-002-abilities.Dane.Interpose.rank,2,Actual abilities,abilities.Dane.Interpose.rank,2,Confirmed from final text
+ACT-002-abilities.Dane.Interpose.cost,2,Actual abilities,abilities.Dane.Interpose.cost,15,Confirmed from final text
+ACT-002-abilities.Dane.Interpose.cooldown_seconds,2,Actual abilities,abilities.Dane.Interpose.cooldown_seconds,15,Confirmed from final text
+ACT-002-abilities.Dane.Interpose.distance_metres,2,Actual abilities,abilities.Dane.Interpose.distance_metres,8,Confirmed from final text
+ACT-002-abilities.Dane.Interpose.block_window_seconds,2,Actual abilities,abilities.Dane.Interpose.block_window_seconds,3,Confirmed from final text
+ACT-002-abilities.Dane.Interpose.block_strength_multiplier,2,Actual abilities,abilities.Dane.Interpose.block_strength_multiplier,2,Confirmed from final text
+ACT-002-abilities.Dane.Interpose.limits,2,Actual abilities,abilities.Dane.Interpose.limits,"Clear physical path to visible ally/threat; next deliberate block, not stronger bones or teleport.",Confirmed from final text
+ACT-002-abilities.Dane.Bulwark.rank,2,Actual abilities,abilities.Dane.Bulwark.rank,2,Confirmed from final text
+ACT-002-abilities.Dane.Bulwark.cost,2,Actual abilities,abilities.Dane.Bulwark.cost,20,Confirmed from final text
+ACT-002-abilities.Dane.Bulwark.cooldown_seconds,2,Actual abilities,abilities.Dane.Bulwark.cooldown_seconds,45,Confirmed from final text
+ACT-002-abilities.Dane.Bulwark.duration_seconds,2,Actual abilities,abilities.Dane.Bulwark.duration_seconds,8,Confirmed from final text
+ACT-002-abilities.Dane.Bulwark.front_width_metres,2,Actual abilities,abilities.Dane.Bulwark.front_width_metres,3,Confirmed from final text
+ACT-002-abilities.Dane.Bulwark.front_height_metres,2,Actual abilities,abilities.Dane.Bulwark.front_height_metres,2,Confirmed from final text
+ACT-002-abilities.Dane.Bulwark.physical_force_multiplier,2,Actual abilities,abilities.Dane.Bulwark.physical_force_multiplier,0.5,Confirmed from final text
+ACT-002-abilities.Dane.Bulwark.limits,2,Actual abilities,abilities.Dane.Bulwark.limits,"Raised weapon, concentration and facing; no heat, poison or rear protection. Mutually exclusive with own Interpose.",Confirmed from final text
+ACT-002-abilities.Dane.Bulwark.actual_use,2,Actual abilities,abilities.Dane.Bulwark.actual_use,One paid eight-second defense in Episode 2 while retreating at a walk; effect ended before Kip fired the vent.,Confirmed from final text
+ACT-002-owned_rooms.Kip,2,Actual owned_rooms,owned_rooms.Kip,None recorded,Confirmed from final text
+ACT-002-owned_rooms.Tessa,2,Actual owned_rooms,owned_rooms.Tessa,None recorded,Confirmed from final text
+ACT-002-owned_rooms.Owen,2,Actual owned_rooms,owned_rooms.Owen,None recorded,Confirmed from final text
+ACT-002-owned_rooms.Dane,2,Actual owned_rooms,owned_rooms.Dane,None recorded,Confirmed from final text
+ACT-002-fatigue.Kip,2,Actual fatigue,fatigue.Kip,Alert but shoulders still ache and fingers cramped from carrying; leveling did not remove fatigue.,Confirmed from final text
+ACT-002-fatigue.companions,2,Actual fatigue,fatigue.companions,Still alert and actively checking/caring for the group. No sleep or eligible Mana recovery credited.,Confirmed from final text
+ACT-002-relationships.Kip and Dane,2,Actual relationships,relationships.Kip and Dane,"Dane accepts a specific limited plan, credits Kip for the escape and asks him to admit uncertainty before making broad promises. Kip accepts the correction.",Confirmed from final text
+ACT-002-relationships.Kip and Owen,2,Actual relationships,relationships.Kip and Owen,Kip initially puts Jory first; Owen explains the treatable cut versus the persistent fracture and accepts thanks through practical help.,Confirmed from final text
+ACT-002-relationships.Kip and group,2,Actual relationships,relationships.Kip and group,"Cooperation strengthened through the retreat and aftercare; private origin, legendary class and deep trust remain unshared.",Confirmed from final text
+ACT-002-unresolved_threats.001,2,Actual unresolved_threats,unresolved_threats.001,The wounded hunter may return; its current location is unknown after its scraping faded.,Confirmed from final text
+ACT-002-unresolved_threats.002,2,Actual unresolved_threats,unresolved_threats.002,"The chamber is not claimed, the route onward is physically obstructed, and escape from Cinderwell remains unresolved.",Confirmed from final text
+ACT-002-unresolved_threats.003,2,Actual unresolved_threats,unresolved_threats.003,Kip must learn Claim Room's actual terms and evaluate the anchor before a valid activation.,Confirmed from final text
+ACT-002-resource_events.001.person,2,Actual resource_events,resource_events.001.person,Dane,Confirmed from final text
+ACT-002-resource_events.001.event,2,Actual resource_events,resource_events.001.event,Bulwark during protected litter retreat,Confirmed from final text
+ACT-002-resource_events.001.before,2,Actual resource_events,resource_events.001.before,45,Confirmed from final text
+ACT-002-resource_events.001.cost,2,Actual resource_events,resource_events.001.cost,20,Confirmed from final text
+ACT-002-resource_events.001.recovery,2,Actual resource_events,resource_events.001.recovery,0,Confirmed from final text
+ACT-002-resource_events.001.after,2,Actual resource_events,resource_events.001.after,25,Confirmed from final text
+ACT-002-resource_events.001.maximum,2,Actual resource_events,resource_events.001.maximum,80,Confirmed from final text
+ACT-002-resource_events.002.person,2,Actual resource_events,resource_events.002.person,Kip,Confirmed from final text
+ACT-002-resource_events.002.event,2,Actual resource_events,resource_events.002.event,Second Override: full five-second fire vent sweep,Confirmed from final text
+ACT-002-resource_events.002.before,2,Actual resource_events,resource_events.002.before,30,Confirmed from final text
+ACT-002-resource_events.002.cost,2,Actual resource_events,resource_events.002.cost,10,Confirmed from final text
+ACT-002-resource_events.002.recovery,2,Actual resource_events,resource_events.002.recovery,0,Confirmed from final text
+ACT-002-resource_events.002.after,2,Actual resource_events,resource_events.002.after,20,Confirmed from final text
+ACT-002-resource_events.002.maximum,2,Actual resource_events,resource_events.002.maximum,40,Confirmed from final text
+ACT-002-resource_events.003.person,2,Actual resource_events,resource_events.003.person,Owen,Confirmed from final text
+ACT-002-resource_events.003.event,2,Actual resource_events,resource_events.003.event,One full Mend on Kip forearm,Confirmed from final text
+ACT-002-resource_events.003.before,2,Actual resource_events,resource_events.003.before,50,Confirmed from final text
+ACT-002-resource_events.003.cost,2,Actual resource_events,resource_events.003.cost,20,Confirmed from final text
+ACT-002-resource_events.003.recovery,2,Actual resource_events,resource_events.003.recovery,0,Confirmed from final text
+ACT-002-resource_events.003.after,2,Actual resource_events,resource_events.003.after,30,Confirmed from final text
+ACT-002-resource_events.003.maximum,2,Actual resource_events,resource_events.003.maximum,80,Confirmed from final text
+ACT-002-xp_events.001.id,2,Actual xp_events,xp_events.001.id,retreat-001,Confirmed from final text
+ACT-002-xp_events.001.rating,2,Actual xp_events,xp_events.001.rating,significant,Confirmed from final text
+ACT-002-xp_events.001.award_per_eligible_person,2,Actual xp_events,xp_events.001.award_per_eligible_person,100,Confirmed from final text
+ACT-002-xp_events.001.completed_after,2,Actual xp_events,xp_events.001.completed_after,"Litter safe inside, injury aftercare completed, entrances checked",Confirmed from final text
+ACT-002-xp_events.001.contributors.Kip,2,Actual xp_events,xp_events.001.contributors.Kip,Carried litter and redirected two existing defenses.,Confirmed from final text
+ACT-002-xp_events.001.contributors.Tessa,2,Actual xp_events,xp_events.001.contributors.Tessa,"Scouted crossing/route, helped close door and checked chamber.",Confirmed from final text
+ACT-002-xp_events.001.contributors.Owen,2,Actual xp_events,xp_events.001.contributors.Owen,Carried litter and performed necessary aftercare.,Confirmed from final text
+ACT-002-xp_events.001.contributors.Dane,2,Actual xp_events,xp_events.001.contributors.Dane,"Held rearguard, protected movement, helped bar entrance and checked chamber.",Confirmed from final text
+ACT-002-xp_events.001.results.Kip.level,2,Actual xp_events,xp_events.001.results.Kip.level,2,Confirmed from final text
+ACT-002-xp_events.001.results.Kip.mana_current,2,Actual xp_events,xp_events.001.results.Kip.mana_current,20,Confirmed from final text
+ACT-002-xp_events.001.results.Kip.mana_max,2,Actual xp_events,xp_events.001.results.Kip.mana_max,45,Confirmed from final text
+ACT-002-xp_events.001.results.Kip.xp_in_bar,2,Actual xp_events,xp_events.001.results.Kip.xp_in_bar,0,Confirmed from final text
+ACT-002-xp_events.001.results.Kip.xp_to_next,2,Actual xp_events,xp_events.001.results.Kip.xp_to_next,200,Confirmed from final text
+ACT-002-xp_events.001.results.Tessa.level,2,Actual xp_events,xp_events.001.results.Tessa.level,5,Confirmed from final text
+ACT-002-xp_events.001.results.Tessa.mana_current,2,Actual xp_events,xp_events.001.results.Tessa.mana_current,25,Confirmed from final text
+ACT-002-xp_events.001.results.Tessa.mana_max,2,Actual xp_events,xp_events.001.results.Tessa.mana_max,60,Confirmed from final text
+ACT-002-xp_events.001.results.Tessa.xp_in_bar,2,Actual xp_events,xp_events.001.results.Tessa.xp_in_bar,100,Confirmed from final text
+ACT-002-xp_events.001.results.Tessa.xp_to_next,2,Actual xp_events,xp_events.001.results.Tessa.xp_to_next,500,Confirmed from final text
+ACT-002-xp_events.001.results.Owen.level,2,Actual xp_events,xp_events.001.results.Owen.level,9,Confirmed from final text
+ACT-002-xp_events.001.results.Owen.mana_current,2,Actual xp_events,xp_events.001.results.Owen.mana_current,30,Confirmed from final text
+ACT-002-xp_events.001.results.Owen.mana_max,2,Actual xp_events,xp_events.001.results.Owen.mana_max,80,Confirmed from final text
+ACT-002-xp_events.001.results.Owen.xp_in_bar,2,Actual xp_events,xp_events.001.results.Owen.xp_in_bar,100,Confirmed from final text
+ACT-002-xp_events.001.results.Owen.xp_to_next,2,Actual xp_events,xp_events.001.results.Owen.xp_to_next,900,Confirmed from final text
+ACT-002-xp_events.001.results.Dane.level,2,Actual xp_events,xp_events.001.results.Dane.level,9,Confirmed from final text
+ACT-002-xp_events.001.results.Dane.mana_current,2,Actual xp_events,xp_events.001.results.Dane.mana_current,25,Confirmed from final text
+ACT-002-xp_events.001.results.Dane.mana_max,2,Actual xp_events,xp_events.001.results.Dane.mana_max,80,Confirmed from final text
+ACT-002-xp_events.001.results.Dane.xp_in_bar,2,Actual xp_events,xp_events.001.results.Dane.xp_in_bar,100,Confirmed from final text
+ACT-002-xp_events.001.results.Dane.xp_to_next,2,Actual xp_events,xp_events.001.results.Dane.xp_to_next,900,Confirmed from final text
+ACT-002-xp_events.001.limits,2,Actual xp_events,xp_events.001.limits,One award per person for this resolved retreat; no Jory award or hunter kill award established.,Confirmed from final text
+ACT-002-practice,2,Actual practice,practice,"No focused practice, rank change or class milestone completed.",Confirmed from final text
+ACT-002-injuries.001,2,Actual injuries,injuries.001,Kip: superficial forearm cut closed by one complete Mend; residual tenderness and shoulder soreness remain. No blood replacement or general healing.,Confirmed from final text
+ACT-002-injuries.002,2,Actual injuries,injuries.002,Jory: splinted lower-leg fracture persists; previously closed shin cut remains closed.,Confirmed from final text
+ACT-002-injuries.003,2,Actual injuries,injuries.003,"Hunter: still wounded by the spent bolt, alive when driven back; scraping withdraws outside the barred door. No kill established.",Confirmed from final text
+ACT-002-objects.001,2,Actual objects,objects.001,Jory rests on his litter inside the chamber; splint retained and repositioned carefully.,Confirmed from final text
+ACT-002-objects.002,2,Actual objects,objects.002,Tessa retrieves/retains her short spear after using both hands at the door; Dane retains sword in right hand. No new weapon for Kip.,Confirmed from final text
+ACT-002-objects.003,2,Actual objects,objects.003,The first launcher remains empty; its single spent bolt was not recovered.,Confirmed from final text
+ACT-002-objects.004,2,Actual objects,objects.004,Fire vent used through one full five-second Override; control ended normally. No ownership or permanent suppression established.,Confirmed from final text
+ACT-002-objects.005,2,Actual objects,objects.005,Kip retains keys and wallet. His phone remains charging in the van on Earth.,Confirmed from final text
+ACT-002-knowledge.Kip.001,2,Actual knowledge,knowledge.Kip.001,Knows Dane Mercer is expedition leader and has a class; observed eight-second Bulwark reduce but not eliminate impacts.,Confirmed from final text
+ACT-002-knowledge.Kip.002,2,Actual knowledge,knowledge.Kip.002,Has demonstrated a second legal Override on a seven-metre visible fire vent with an ordinary pivot and safe firing arc.,Confirmed from final text
+ACT-002-knowledge.Kip.003,2,Actual knowledge,knowledge.Kip.003,Knows Mend takes twenty seconds and twenty Mana and cannot set Jory's broken bone. No full companion descriptions/private values learned.,Confirmed from final text
+ACT-002-knowledge.Kip.004,2,Actual knowledge,knowledge.Kip.004,"Knows his own level two, XP zero of two hundred, Mana twenty of forty-five; leveling increased maximum without refilling current Mana or removing fatigue.",Confirmed from final text
+ACT-002-knowledge.Kip.005,2,Actual knowledge,knowledge.Kip.005,"Knows Tessa, Owen and Dane received the same one-hundred XP reward after their linked retreat/rescue completed. No reward for Jory established.",Confirmed from final text
+ACT-002-knowledge.Kip.006,2,Actual knowledge,knowledge.Kip.006,"Knows the room has a floor anchor; Claim Room remains unread/unselected. Does not yet know its cost, obligations or result.",Confirmed from final text
+ACT-002-knowledge.Tessa/Owen/Dane.001,2,Actual knowledge,knowledge.Tessa/Owen/Dane.001,"Kip openly confirms he has a class and can turn/fire the vent for five seconds. He does not disclose class name, legendary rarity or private Mana maximum.",Confirmed from final text
+ACT-002-knowledge.Tessa/Owen/Dane.002,2,Actual knowledge,knowledge.Tessa/Owen/Dane.002,Kip has not yet introduced his own name or Earth biography aloud.,Confirmed from final text
+ACT-002-knowledge.Tessa/Owen/Dane.003,2,Actual knowledge,knowledge.Tessa/Owen/Dane.003,The four active contributors confirm the same retreat award; their different levels need not rise together.,Confirmed from final text
+ACT-002-knowledge.reader.001,2,Actual knowledge,knowledge.reader.001,"Noah is Kip's nineteen-year-old younger brother with his own life at home; this is Kip's private worry, not information shared with companions.",Confirmed from final text
+ACT-002-knowledge.reader.002,2,Actual knowledge,knowledge.reader.002,"The hunter withdrew audibly, not a confirmed kill; the room is temporary physical shelter with an untested anchor.",Confirmed from final text
+ACT-002-private_flags.001,2,Actual private_flags,private_flags.001,"Current companion levels, reserves and ability versions carry approved author baselines reconciled with actual paid uses; they are not all disclosed in dialogue.",Confirmed from final text
+ACT-002-private_flags.002,2,Actual private_flags,private_flags.002,Each of the four material contributors receives the retreat challenge award once. No kill award or second reward for patient repositioning.,Confirmed from final text
+ACT-002-private_flags.003,2,Actual private_flags,private_flags.003,Several minutes of active care/checks do not establish sitting/lying uninterrupted recovery; no rest credit is applied.,Confirmed from final text
+ACT-002-private_flags.004,2,Actual private_flags,private_flags.004,Kip's name remains to be introduced aloud before others can address him by it.,Confirmed from final text
+ACT-002-private_flags.005,2,Actual private_flags,private_flags.005,"Actual floor anchor and fallen-stone service blockage govern the next episode, overriding older planned inner-wall/bar wording.",Confirmed from final text
+ACT-002-ending,2,Actual ending,ending,"All five are physically sheltered in the barred service chamber, with the onward passage obstructed. Kip has twenty Mana and considers inspecting Claim Room before committing; no room claimed or new skill granted.",Confirmed from final text
+ACT-002-open_issues,2,Actual open_issues,open_issues,None recorded,Confirmed from final text

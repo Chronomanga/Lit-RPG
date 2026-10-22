@@ -2,12 +2,12 @@
   "schema": "kip-public-actual-state-projection-v1",
   "status": "State-only projection of canonical actual ledger; not manuscript text",
   "canonical_source_file": "plot/actual-episodes.json",
-  "canonical_source_sha256": "b86836f9ba9b3053d70519b2edac5cb54855e80c3cb676745a1738e141af6a61",
-  "source_updated_utc": "2026-10-22T05:49:23.422753+00:00",
-  "last_final_episode": 1,
-  "next_episode": 2,
+  "canonical_source_sha256": "bcbf915992e6ef8ad95342c305a3c6f74a64e8bf8885017c5fe638a2434b0a3d",
+  "source_updated_utc": "2026-10-22T06:01:43.835012+00:00",
+  "last_final_episode": 2,
+  "next_episode": 3,
   "persistent_workbook": "continuity.xlsx",
-  "stopping_point": "Episode 1 has a recorded root final review. Read back the same persistent workbook and actual ending before writing Episode 2; resolve blockers first.",
+  "stopping_point": "Episode 2 has a recorded root final review. Read back the same persistent workbook and actual ending before writing Episode 3; resolve blockers first.",
   "projection_omissions": [
     "Private manuscript body and quotations",
     "Root line-edit notes",
@@ -221,6 +221,281 @@
       ],
       "xp_events": [],
       "practice": "No focused practice or rank change established.",
+      "review": {
+        "root_full_final_read": true,
+        "whole_book_review": "pending",
+        "audio": "not generated",
+        "platform": "not uploaded",
+        "scope": "Root final prose review is recorded; simulated-reader feedback concerned an earlier draft. No real-reader, whole-book, audio, or release approval is claimed."
+      }
+    },
+    {
+      "episode": 2,
+      "title": "Twenty Mana Left",
+      "status": "final-reviewed",
+      "source_file": "chapters/chapter-01/episode-002.txt",
+      "source_sha256": "be408ba46776ec799bef78564c6ba621f3193fc6bf9c10d2a66dd2e29f18202b",
+      "source_version": "episode-002-final-review-1",
+      "resources": {
+        "Kip": {
+          "level": 2,
+          "mana_current": 20,
+          "mana_max": 45,
+          "xp_in_bar": 0,
+          "xp_to_next": 200
+        },
+        "Tessa": {
+          "level": 5,
+          "mana_current": 25,
+          "mana_max": 60,
+          "xp_in_bar": 100,
+          "xp_to_next": 500
+        },
+        "Owen": {
+          "level": 9,
+          "mana_current": 30,
+          "mana_max": 80,
+          "xp_in_bar": 100,
+          "xp_to_next": 900
+        },
+        "Dane": {
+          "level": 9,
+          "mana_current": 25,
+          "mana_max": 80,
+          "xp_in_bar": 100,
+          "xp_to_next": 900
+        }
+      },
+      "time": "Same opening retreat, then protected wound treatment for twenty seconds and several minutes of active patient repositioning/room checks. No completed sitting/lying quiet recovery minute established.",
+      "location": "All five inside the old service chamber, approximately twelve by ten metres. Entry door closed and barred; second service passage obstructed by fallen stone. Intact squat anchor near the middle of the floor, not yet inspected or claimed.",
+      "roster": [
+        "Kip Quillman",
+        "Tessa Ward",
+        "Owen Pike",
+        "Dane Mercer (now named to Kip)",
+        "Jory Hale"
+      ],
+      "injuries": [
+        "Kip: superficial forearm cut closed by one complete Mend; residual tenderness and shoulder soreness remain. No blood replacement or general healing.",
+        "Jory: splinted lower-leg fracture persists; previously closed shin cut remains closed.",
+        "Hunter: still wounded by the spent bolt, alive when driven back; scraping withdraws outside the barred door. No kill established."
+      ],
+      "objects": [
+        "Jory rests on his litter inside the chamber; splint retained and repositioned carefully.",
+        "Tessa retrieves/retains her short spear after using both hands at the door; Dane retains sword in right hand. No new weapon for Kip.",
+        "The first launcher remains empty; its single spent bolt was not recovered.",
+        "Fire vent used through one full five-second Override; control ended normally. No ownership or permanent suppression established.",
+        "Kip retains keys and wallet. His phone remains charging in the van on Earth."
+      ],
+      "knowledge": {
+        "Kip": [
+          "Knows Dane Mercer is expedition leader and has a class; observed eight-second Bulwark reduce but not eliminate impacts.",
+          "Has demonstrated a second legal Override on a seven-metre visible fire vent with an ordinary pivot and safe firing arc.",
+          "Knows Mend takes twenty seconds and twenty Mana and cannot set Jory's broken bone. No full companion descriptions/private values learned.",
+          "Knows his own level two, XP zero of two hundred, Mana twenty of forty-five; leveling increased maximum without refilling current Mana or removing fatigue.",
+          "Knows Tessa, Owen and Dane received the same one-hundred XP reward after their linked retreat/rescue completed. No reward for Jory established.",
+          "Knows the room has a floor anchor; Claim Room remains unread/unselected. Does not yet know its cost, obligations or result."
+        ],
+        "Tessa/Owen/Dane": [
+          "Kip openly confirms he has a class and can turn/fire the vent for five seconds. He does not disclose class name, legendary rarity or private Mana maximum.",
+          "Kip has not yet introduced his own name or Earth biography aloud.",
+          "The four active contributors confirm the same retreat award; their different levels need not rise together."
+        ],
+        "reader": [
+          "Noah is Kip's nineteen-year-old younger brother with his own life at home; this is Kip's private worry, not information shared with companions.",
+          "The hunter withdrew audibly, not a confirmed kill; the room is temporary physical shelter with an untested anchor."
+        ]
+      },
+      "ending": "All five are physically sheltered in the barred service chamber, with the onward passage obstructed. Kip has twenty Mana and considers inspecting Claim Room before committing; no room claimed or new skill granted.",
+      "open_issues": [],
+      "abilities": {
+        "Kip": {
+          "Dominion Sight": {
+            "rank": 1,
+            "cost": 0,
+            "inspection_seconds": 1,
+            "range_metres": 10,
+            "targets": "Visible dungeon fixtures and Claim anchors; not people, hidden objects or private panels."
+          },
+          "Override": {
+            "rank": 1,
+            "cost": 10,
+            "range_metres": 10,
+            "duration_seconds": 5,
+            "same_fixture_cooldown_after_control_seconds": 15,
+            "active_limit": 1,
+            "limits": "Available visible constructed defense; normal arc, fuel and reset. No creation, reload, repair or body control.",
+            "actual_use": "Two paid uses since arrival: first launcher shot in Episode 1; second vent sweep in Episode 2. Both ended; no permanent fixture ownership."
+          },
+          "Claim Room": {
+            "rank": 1,
+            "cost": 20,
+            "touch_seconds": 30,
+            "room_max_metres": 20,
+            "capacity": 1,
+            "limits": "Intact Claimable anchor; guardian defeated, seal absent, no living hostiles inside. Interruptions spend paid Mana. No automatic healing or barrier.",
+            "actual_use": "Available but unused."
+          }
+        },
+        "Tessa": {
+          "Quickstep": {
+            "rank": 2,
+            "cost": 10,
+            "cooldown_seconds": 15,
+            "distance_metres": 12,
+            "duration_seconds": 1,
+            "limits": "Traversable physical route; no teleport, impossible gap or carrying another adult.",
+            "actual_use": "One paid use after Kip arrives."
+          },
+          "Trail Sight": {
+            "rank": 2,
+            "cost": 15,
+            "cooldown_seconds": 45,
+            "duration_seconds": 30,
+            "range_metres": 25,
+            "track_age_max_hours": 2,
+            "limits": "Visible surviving traces from inspected source; no live location, thoughts or walls.",
+            "actual_use": "Not used after Kip arrives."
+          }
+        },
+        "Owen": {
+          "Staunch": {
+            "rank": 2,
+            "cost": 10,
+            "cooldown_seconds": 15,
+            "touch_seconds": 5,
+            "seal_minutes": 40,
+            "limits": "One external wound; no blood replacement, internal healing or revival; strain or blow can break seal."
+          },
+          "Mend": {
+            "rank": 2,
+            "cost": 20,
+            "cooldown_seconds": 60,
+            "touch_seconds": 20,
+            "wound_max_length_cm": 20,
+            "wound_max_depth_cm": 1,
+            "limits": "Aligned present skin and shallow muscle; no bone, organs, major vessels, nerves, regrowth or lost blood.",
+            "actual_use": "One full twenty-second cast after arrival, closing Kip's shallow forearm cut. Jory's fracture remains."
+          }
+        },
+        "Dane": {
+          "Interpose": {
+            "rank": 2,
+            "cost": 15,
+            "cooldown_seconds": 15,
+            "distance_metres": 8,
+            "block_window_seconds": 3,
+            "block_strength_multiplier": 2,
+            "limits": "Clear physical path to visible ally/threat; next deliberate block, not stronger bones or teleport."
+          },
+          "Bulwark": {
+            "rank": 2,
+            "cost": 20,
+            "cooldown_seconds": 45,
+            "duration_seconds": 8,
+            "front_width_metres": 3,
+            "front_height_metres": 2,
+            "physical_force_multiplier": 0.5,
+            "limits": "Raised weapon, concentration and facing; no heat, poison or rear protection. Mutually exclusive with own Interpose.",
+            "actual_use": "One paid eight-second defense in Episode 2 while retreating at a walk; effect ended before Kip fired the vent."
+          }
+        }
+      },
+      "owned_rooms": {
+        "Kip": [],
+        "Tessa": [],
+        "Owen": [],
+        "Dane": []
+      },
+      "fatigue": {
+        "Kip": "Alert but shoulders still ache and fingers cramped from carrying; leveling did not remove fatigue.",
+        "companions": "Still alert and actively checking/caring for the group. No sleep or eligible Mana recovery credited."
+      },
+      "relationships": {
+        "Kip and Dane": "Dane accepts a specific limited plan, credits Kip for the escape and asks him to admit uncertainty before making broad promises. Kip accepts the correction.",
+        "Kip and Owen": "Kip initially puts Jory first; Owen explains the treatable cut versus the persistent fracture and accepts thanks through practical help.",
+        "Kip and group": "Cooperation strengthened through the retreat and aftercare; private origin, legendary class and deep trust remain unshared."
+      },
+      "unresolved_threats": [
+        "The wounded hunter may return; its current location is unknown after its scraping faded.",
+        "The chamber is not claimed, the route onward is physically obstructed, and escape from Cinderwell remains unresolved.",
+        "Kip must learn Claim Room's actual terms and evaluate the anchor before a valid activation."
+      ],
+      "resource_events": [
+        {
+          "person": "Dane",
+          "event": "Bulwark during protected litter retreat",
+          "before": 45,
+          "cost": 20,
+          "recovery": 0,
+          "after": 25,
+          "maximum": 80
+        },
+        {
+          "person": "Kip",
+          "event": "Second Override: full five-second fire vent sweep",
+          "before": 30,
+          "cost": 10,
+          "recovery": 0,
+          "after": 20,
+          "maximum": 40
+        },
+        {
+          "person": "Owen",
+          "event": "One full Mend on Kip forearm",
+          "before": 50,
+          "cost": 20,
+          "recovery": 0,
+          "after": 30,
+          "maximum": 80
+        }
+      ],
+      "xp_events": [
+        {
+          "id": "retreat-001",
+          "rating": "significant",
+          "award_per_eligible_person": 100,
+          "completed_after": "Litter safe inside, injury aftercare completed, entrances checked",
+          "contributors": {
+            "Kip": "Carried litter and redirected two existing defenses.",
+            "Tessa": "Scouted crossing/route, helped close door and checked chamber.",
+            "Owen": "Carried litter and performed necessary aftercare.",
+            "Dane": "Held rearguard, protected movement, helped bar entrance and checked chamber."
+          },
+          "results": {
+            "Kip": {
+              "level": 2,
+              "mana_current": 20,
+              "mana_max": 45,
+              "xp_in_bar": 0,
+              "xp_to_next": 200
+            },
+            "Tessa": {
+              "level": 5,
+              "mana_current": 25,
+              "mana_max": 60,
+              "xp_in_bar": 100,
+              "xp_to_next": 500
+            },
+            "Owen": {
+              "level": 9,
+              "mana_current": 30,
+              "mana_max": 80,
+              "xp_in_bar": 100,
+              "xp_to_next": 900
+            },
+            "Dane": {
+              "level": 9,
+              "mana_current": 25,
+              "mana_max": 80,
+              "xp_in_bar": 100,
+              "xp_to_next": 900
+            }
+          },
+          "limits": "One award per person for this resolved retreat; no Jory award or hunter kill award established."
+        }
+      ],
+      "practice": "No focused practice, rank change or class milestone completed.",
       "review": {
         "root_full_final_read": true,
         "whole_book_review": "pending",
