@@ -1,0 +1,233 @@
+{
+  "schema": "kip-public-actual-state-projection-v1",
+  "status": "State-only projection of canonical actual ledger; not manuscript text",
+  "canonical_source_file": "plot/actual-episodes.json",
+  "canonical_source_sha256": "b86836f9ba9b3053d70519b2edac5cb54855e80c3cb676745a1738e141af6a61",
+  "source_updated_utc": "2026-10-22T05:49:23.422753+00:00",
+  "last_final_episode": 1,
+  "next_episode": 2,
+  "persistent_workbook": "continuity.xlsx",
+  "stopping_point": "Episode 1 has a recorded root final review. Read back the same persistent workbook and actual ending before writing Episode 2; resolve blockers first.",
+  "projection_omissions": [
+    "Private manuscript body and quotations",
+    "Root line-edit notes",
+    "Private flags"
+  ],
+  "episodes": [
+    {
+      "episode": 1,
+      "title": "Legendary, Level One",
+      "status": "final-reviewed",
+      "source_file": "chapters/chapter-01/episode-001.txt",
+      "source_sha256": "26d994aecffe589453af10fc671aa841f0f8738d856e785ac164147e7267da4c",
+      "source_version": "episode-001-final-review-1",
+      "resources": {
+        "Kip": {
+          "level": 1,
+          "mana_current": 30,
+          "mana_max": 40,
+          "xp_in_bar": 0,
+          "xp_to_next": 100
+        },
+        "Tessa": {
+          "level": 5,
+          "mana_current": 25,
+          "mana_max": 60,
+          "xp_in_bar": 0,
+          "xp_to_next": 500
+        },
+        "Owen": {
+          "level": 9,
+          "mana_current": 50,
+          "mana_max": 80,
+          "xp_in_bar": 0,
+          "xp_to_next": 900
+        },
+        "Dane": {
+          "level": 9,
+          "mana_current": 45,
+          "mana_max": 80,
+          "xp_in_bar": 0,
+          "xp_to_next": 900
+        }
+      },
+      "time": "Same opening retreat, immediately after first launcher use and crossing. No exact clock printed; no eligible quiet recovery or XP award yet.",
+      "location": "Beyond the marked junction, moving north along the near wall toward the bend/service door. Kip and Owen carry Jory; Tessa ahead; rearguard between litter and live hunter.",
+      "roster": [
+        "Kip Quillman",
+        "Tessa Ward",
+        "Owen Pike",
+        "Dane Mercer (not yet named to Kip)",
+        "Jory Hale"
+      ],
+      "injuries": [
+        "Kip: open superficial palm-length forearm cut from broken stone, bleeding toward cuff; shoulder soreness from arrival; no healing yet.",
+        "Jory: splinted lower-leg fracture persists; earlier shin skin cut already closed.",
+        "Hunter: bolt embedded in exposed foreleg, still alive and following."
+      ],
+      "objects": [
+        "One launcher bolt discharged; empty channel observed; bolt remains in hunter.",
+        "Jory remains on litter carried by Kip/Owen.",
+        "Tessa retains short spear; Dane retains sword in right hand.",
+        "Kip retains work clothing, keys and wallet; phone remains on Earth in van, not recovered."
+      ],
+      "knowledge": {
+        "Kip": [
+          "Knows own legendary Dungeon Sovereign class, level one, initial forty Mana and current thirty.",
+          "Knows Dominion Sight inspection and Override ten-Mana/ten-metre/five-second existing-fixture limit; Claim Room remains unused.",
+          "Knows names/roles Tessa scout, Owen field healer, Jory porter; rearguard name not learned yet.",
+          "Heard Cinderwell; saw Quickstep as rapid physical movement; has no full companion class descriptions."
+        ],
+        "Tessa/Owen/Dane": [
+          "Saw Kip help carry and trigger one launcher after warning allies; private class, rarity, level and Mana not disclosed.",
+          "Kip has not yet introduced his name or Earth biography aloud."
+        ],
+        "reader": [
+          "Saw immediate private legendary class panel, choice to carry Jory, one legal paid power use, live wounded pursuer and no final escape."
+        ]
+      },
+      "ending": "All five remain alive and in retreat beyond the junction. Kip and Owen carry Jory toward the service-door bend while the rearguard delays the living wounded hunter; no refuge or escape is secured.",
+      "open_issues": [],
+      "abilities": {
+        "Kip": {
+          "Dominion Sight": {
+            "rank": 1,
+            "cost": 0,
+            "inspection_seconds": 1,
+            "range_metres": 10,
+            "targets": "Visible dungeon fixtures and Claim anchors; not people, hidden objects or private panels."
+          },
+          "Override": {
+            "rank": 1,
+            "cost": 10,
+            "range_metres": 10,
+            "duration_seconds": 5,
+            "same_fixture_cooldown_after_control_seconds": 15,
+            "active_limit": 1,
+            "limits": "Available visible constructed defense; normal arc, fuel and reset. No creation, reload, repair or body control.",
+            "actual_use": "One launcher activation; one bolt spent. Control ended; exact elapsed cooldown is not printed."
+          },
+          "Claim Room": {
+            "rank": 1,
+            "cost": 20,
+            "touch_seconds": 30,
+            "room_max_metres": 20,
+            "capacity": 1,
+            "limits": "Intact Claimable anchor; guardian defeated, seal absent, no living hostiles inside. Interruptions spend paid Mana. No automatic healing or barrier.",
+            "actual_use": "Available but unused."
+          }
+        },
+        "Tessa": {
+          "Quickstep": {
+            "rank": 2,
+            "cost": 10,
+            "cooldown_seconds": 15,
+            "distance_metres": 12,
+            "duration_seconds": 1,
+            "limits": "Traversable physical route; no teleport, impossible gap or carrying another adult.",
+            "actual_use": "One paid use after Kip arrives."
+          },
+          "Trail Sight": {
+            "rank": 2,
+            "cost": 15,
+            "cooldown_seconds": 45,
+            "duration_seconds": 30,
+            "range_metres": 25,
+            "track_age_max_hours": 2,
+            "limits": "Visible surviving traces from inspected source; no live location, thoughts or walls.",
+            "actual_use": "Not used after Kip arrives."
+          }
+        },
+        "Owen": {
+          "Staunch": {
+            "rank": 2,
+            "cost": 10,
+            "cooldown_seconds": 15,
+            "touch_seconds": 5,
+            "seal_minutes": 40,
+            "limits": "One external wound; no blood replacement, internal healing or revival; strain or blow can break seal."
+          },
+          "Mend": {
+            "rank": 2,
+            "cost": 20,
+            "cooldown_seconds": 60,
+            "touch_seconds": 20,
+            "wound_max_length_cm": 20,
+            "wound_max_depth_cm": 1,
+            "limits": "Aligned present skin and shallow muscle; no bone, organs, major vessels, nerves, regrowth or lost blood.",
+            "actual_use": "No cast after Kip arrives. Jory fracture persists."
+          }
+        },
+        "Dane": {
+          "Interpose": {
+            "rank": 2,
+            "cost": 15,
+            "cooldown_seconds": 15,
+            "distance_metres": 8,
+            "block_window_seconds": 3,
+            "block_strength_multiplier": 2,
+            "limits": "Clear physical path to visible ally/threat; next deliberate block, not stronger bones or teleport."
+          },
+          "Bulwark": {
+            "rank": 2,
+            "cost": 20,
+            "cooldown_seconds": 45,
+            "duration_seconds": 8,
+            "front_width_metres": 3,
+            "front_height_metres": 2,
+            "physical_force_multiplier": 0.5,
+            "limits": "Raised weapon, concentration and facing; no heat, poison or rear protection. Mutually exclusive with own Interpose.",
+            "actual_use": "No cast after Kip arrives."
+          }
+        }
+      },
+      "owned_rooms": {
+        "Kip": [],
+        "Tessa": [],
+        "Owen": [],
+        "Dane": []
+      },
+      "fatigue": {
+        "Kip": "Arrival soreness and untrained litter carrying; alert and mobile. No completed quiet recovery minute.",
+        "companions": "Already retreating from danger; no new quantified fatigue or rest benefit established."
+      },
+      "relationships": {
+        "Kip and group": "Kip chose to help carry Jory, warned allies before using the launcher and accepted practical guidance. Cooperation has begun; no earned deep trust or disclosed class rarity.",
+        "Dane and Jory": "Rearguard stays between the live hunter and the litter. His name has not yet been given to Kip."
+      },
+      "unresolved_threats": [
+        "The live wounded hunter still follows; the rearguard needs a safe retreat.",
+        "No secured refuge or exit established; Kip remains stranded in Cinderwell."
+      ],
+      "resource_events": [
+        {
+          "person": "Kip",
+          "event": "First legal launcher Override",
+          "before": 40,
+          "cost": 10,
+          "recovery": 0,
+          "after": 30,
+          "maximum": 40
+        },
+        {
+          "person": "Tessa",
+          "event": "Quickstep during retreat after Kip arrives",
+          "before": 35,
+          "cost": 10,
+          "recovery": 0,
+          "after": 25,
+          "maximum": 60
+        }
+      ],
+      "xp_events": [],
+      "practice": "No focused practice or rank change established.",
+      "review": {
+        "root_full_final_read": true,
+        "whole_book_review": "pending",
+        "audio": "not generated",
+        "platform": "not uploaded",
+        "scope": "Root final prose review is recorded; simulated-reader feedback concerned an earlier draft. No real-reader, whole-book, audio, or release approval is claimed."
+      }
+    }
+  ]
+}

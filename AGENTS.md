@@ -8,6 +8,7 @@
 - Preserve one authoritative project registry and canon. Mark proposed changes; trace approved retcons through dependent chapters, rules, and ledgers.
 - Keep full future plans away from bounded drafting and simulated-reader contexts. Report simulated feedback honestly.
 - Keep raw source downloads, transcripts, tool logs, account data, and private manuscripts out of this public repository. Publish original synthesis, original examples, and source links only.
+- An explicit owner authorization may also cover a named project ledger mirror under `projects/`. Record its source, version/hash, planned/confirmed status, stopping point, review status, and refresh method while retaining one local canon. Refresh the same workbook and mirror paths in place. This exception does not authorize public manuscripts, raw research, account data, credentials, or unrelated project records.
 - Do not copy a source's passages, examples, story, characters, or commercial course into the playbook. Source links remain the place to consult the originals.
 - New local project work belongs on D: when supported. Do not modify unrelated stories, skills, memories, or host configuration.
 - Research and writing do not by themselves authorize voice-generation spending, account changes, submission, or release. Reuse explicit authorization when it exists.

@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-22 — Continuity tables and planning mirror
+
+- Added a planned-versus-confirmed continuity method and portable resource, level, knowledge, and issue tables, linked into Steps 3, 5, and 8–11.
+- Required reading the same persistent Excel workbook before every episode, then updating and verifying its existing sheets from final revised prose before continuing; preserve history, stopping point, and review status.
+- Added the explicitly owner-authorized Kip Quillman continuity mirror, checker, CSV exports, and workbook at stable paths refreshed in place; retained one local canon and separated planned chronology from confirmed Episode 1 state without mirroring the manuscript.
+- Preserved all twelve steps, full-prose and whole-book review, bounded writer/reader contexts, natural language, and separate audio/publication evidence.
+
 ## 2026-10-21 — Initial Lit RPG playbook
 
 - Created a novel-first, twelve-step workflow with a later Pocket FM adaptation stage.

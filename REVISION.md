@@ -2,6 +2,10 @@
 
 Read the actual complete prose before declaring a chapter finished. A checklist organizes judgment; it cannot replace reading.
 
+Before each next chapter/episode, open and read the same persistent Excel workbook and relevant final manuscript ending. Check confirmed actual resources, knowledge, injuries, rule versions, current stopping point, review status, and blocking issues. Resolve blockers before writing. Preplanned numbers and outlines do not substitute for this read.
+
+Apply the loop to each episode even when several share one novel chapter. For a new project without a workbook, create one from approved opening conditions before Episode 1; report an inaccessible existing workbook and resolve access before dependent drafting.
+
 ## Pass 1 — Cause, character, and comprehension
 
 - Can the reader picture the place and follow the important movement?
@@ -22,6 +26,8 @@ Recalculate current and maximum resources separately. Check XP thresholds, overf
 
 Confirm the physical sequence around the decisive action: approach, object or person reached, attack or ability used, reaction, movement, and result. A character cannot use a weapon still left in another room or know a conversation they did not hear.
 
+Use [CONTINUITY.md](CONTINUITY.md) to replay relevant [resource](templates/RESOURCE-EVENTS.csv) and [level](templates/LEVEL-EVENTS.csv) events in time order. Track who learned each consequential fact in [templates/KNOWLEDGE.csv](templates/KNOWLEDGE.csv). Planned geometry, safety, or contributor flags must be checked against the actual scene; their presence in a table is not evidence that the prose established them.
+
 ## Pass 3 — Flow and explanation
 
 Use common words without flattening emotion. Read dialogue for clear speakers and individual voice. Remove explanations that repeat an already visible result. Keep the rule, history, clue, or emotional detail that makes the next choice understandable.
@@ -40,7 +46,7 @@ Ask a fresh reader focused questions: What does the hero want? What can the powe
 
 A simulated reader receives the text and audience brief only. Label the feedback as simulated. If the reviewer already knows future plans, do not call the read blind. Real audience feedback is a different kind of evidence.
 
-After edits, reread the final text, check the affected calculations and dependencies, and then update the authoritative state and progression ledger. Keep a concise record of material changes and open questions. Do not update canon from an abandoned draft.
+After full prose and edits, reread the final text, check the affected calculations and dependencies, and then append or update confirmed actual facts in that same persistent Excel workbook's existing sheets and authoritative backing records, with that final source/version or hash. Record all affected checks, the current stopping point, review status, material changes, and open questions in [templates/CONTINUITY-ISSUES.csv](templates/CONTINUITY-ISSUES.csv); close an issue with recheck evidence. Preserve prior notes and history. Do not create a new workbook or sheets per episode. Verify the saved workbook against the final text and calculations, and resolve blocking mismatches before the next episode. Do not update canon from an abandoned draft or promote a planned row merely because its arithmetic passes. Refresh authorized GitHub mirrors at their same paths in place, with hash and Git provenance.
 
 ## Whole-book pass
 

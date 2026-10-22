@@ -1,0 +1,122 @@
+{
+  "schema": "kip-persistent-continuity-mirror-v1",
+  "refreshed_utc": "2026-10-22T05:56:24.986566+00:00",
+  "canonical_project": "D:\\AI\\Projects\\Kip Quillman - New LitRPG",
+  "persistent_local_workbook": "outputs/continuity-20261022/Kip-Quillman-Continuity.xlsx",
+  "persistent_github_workbook": "projects/kip-quillman/continuity.xlsx",
+  "last_final_episode": 1,
+  "next_episode": 2,
+  "stopping_point": "Read the same workbook and latest confirmed actual ending before drafting Episode 2; resolve blocking issues first.",
+  "review_status": "Episode 1 final-reviewed by root; same workbook updated and before-Episode-2 checkpoint verified by root. Repeat the actual-state read before drafting. Whole-book review remains pending; audio and platform stages are not completed.",
+  "planned_scope": "20 chapter plans; plans are not confirmed actual episodes and do not map one-to-one to episode completions.",
+  "actual_source_hashes": [
+    "26d994aecffe589453af10fc671aa841f0f8738d856e785ac164147e7267da4c"
+  ],
+  "carryover_column_semantics": "Ch means planned novel chapter for plan rows, and actual episode for ACT-* record IDs; use Record ID, Topic and Status together. Confirmed-state table/CSV use EP.",
+  "authorization": "Named project continuity ledger mirror only; no manuscript/research/account content.",
+  "bounded_worker_rule": "Do not provide the whole future ledger/workbook/exports to a bounded writer or simulated reader.",
+  "refresh_method": "Reconcile canonical records and same persistent workbook; refresh these same mirror paths in place, then verify source hashes and actual stopping point.",
+  "commit_provenance": "The containing Git commit identifies this mirror revision; source hashes identify local artifacts.",
+  "files": [
+    {
+      "mirror": "actual-episodes.json",
+      "source": "plot/actual-episodes.json",
+      "source_sha256": "b86836f9ba9b3053d70519b2edac5cb54855e80c3cb676745a1738e141af6a61",
+      "sha256": "47b7f14801a636b4d48ff1f803af6cbeb1411cb9e18af469fcd6fc784a522a96",
+      "identical": false,
+      "transformation": "Approved state-only projection; manuscript quotation/editorial notes/private flags omitted",
+      "status": "confirmed actual episode ledger from root final prose review"
+    },
+    {
+      "mirror": "confirmed-state.csv",
+      "source": "work/continuity-export/confirmed-state.csv",
+      "sha256": "ead56e7aa69212bcba9ff8b9bc3116625b2e7a2a8bfa87b502a7c30b4633ee1e",
+      "identical": true,
+      "status": "confirmed actual episode view"
+    },
+    {
+      "mirror": "continuity.xlsx",
+      "source": "outputs/continuity-20261022/Kip-Quillman-Continuity.xlsx",
+      "sha256": "68c5b03bf3d9647800fd13266023cbe2647003179d4a9f864080eaedaef38355",
+      "identical": true,
+      "status": "mixed: planned data and separately confirmed actual episode sheet"
+    },
+    {
+      "mirror": "csv/confirmed-state-template.csv",
+      "source": "work/continuity-export/confirmed-state-template.csv",
+      "sha256": "d415f8a82a1da8991f832aa8e7da54d7209a00adcb9356c06805ab0629c29b64",
+      "identical": true,
+      "status": "blank template; not confirmed history"
+    },
+    {
+      "mirror": "csv/event-details.csv",
+      "source": "work/continuity-export/event-details.csv",
+      "sha256": "ad96eb51d07c95a6d33273c932c6a93878ea559da28fdcba96d68c398142b535",
+      "identical": true,
+      "status": "planned"
+    },
+    {
+      "mirror": "csv/mana-events.csv",
+      "source": "work/continuity-export/mana-events.csv",
+      "sha256": "3cd773bb66a586c349b1003b575b94f32e17fc55bd732c6cb64d2f6c0d2768f3",
+      "identical": true,
+      "status": "planned"
+    },
+    {
+      "mirror": "csv/planned-state.csv",
+      "source": "work/continuity-export/planned-state.csv",
+      "sha256": "63fdeea47c9cc007bba8feb4049f234e5683b641b6daeaf83d21ba161afaa34b",
+      "identical": true,
+      "status": "planned"
+    },
+    {
+      "mirror": "csv/rules.csv",
+      "source": "work/continuity-export/rules.csv",
+      "sha256": "8c3be365a98a310bbfae95d5ad85f3b3aa273d7c643e800e6c698cb00d4c5764",
+      "identical": true,
+      "status": "planned"
+    },
+    {
+      "mirror": "csv/story-carryover.csv",
+      "source": "work/continuity-export/story-carryover.csv",
+      "sha256": "258fce8f7bc57d1b41bcecadba102043fd72d4233ad9a76bf9f5eb544a65c52a",
+      "identical": true,
+      "status": "mixed: planned carryover and separately labeled confirmed ACT episode facts"
+    },
+    {
+      "mirror": "csv/xp-events.csv",
+      "source": "work/continuity-export/xp-events.csv",
+      "sha256": "a077f708148acdda63f67c96967128290462d0156559f6c86353d652cd79c38e",
+      "identical": true,
+      "status": "planned"
+    },
+    {
+      "mirror": "planned-state-validation.json",
+      "source": "plot/planned-state-validation.json",
+      "sha256": "4a9fa0a5eb33d4192f7157a840f8177fb84dfc0cc015e7766eb7ccd27b42a668",
+      "identical": true,
+      "status": "planned"
+    },
+    {
+      "mirror": "planned-state.json",
+      "source": "plot/planned-state.json",
+      "sha256": "e948f0bcb8df0ea03f5ed2bf929603f5293bd568eb52b3984ed9d64474199a81",
+      "identical": true,
+      "status": "planned"
+    },
+    {
+      "mirror": "progression.csv",
+      "source": "plot/progression.csv",
+      "sha256": "51c6a44874084a0a9b3205091c1736cd64e84de37abcf91cfebf74415596f489",
+      "identical": true,
+      "status": "planned"
+    },
+    {
+      "mirror": "verify_planned_state.py",
+      "source": "plot/verify_planned_state.py",
+      "sha256": "ba30e3ae544f66c2c7134542e11f052c028039175702fc3a88a9713ae4635d22",
+      "identical": true,
+      "status": "planning checker; not prose QA"
+    }
+  ]
+}

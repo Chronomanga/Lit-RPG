@@ -1,0 +1,2 @@
+status,chapter,event_id,time_seconds,person,resource,rule_id,rule_version,event_kind,target,before_current,before_max,cost,recovery_conditions,completed_recovery_seconds,gain,after_current,after_max,setup_seconds,effect_end_seconds,cooldown_end_seconds,eligibility_or_failure,source_file,source_version_or_sha256
+

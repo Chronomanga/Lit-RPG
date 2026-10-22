@@ -1,0 +1,1179 @@
+﻿Event ID,Ch,Person,Field,Recorded detail
+PRE01,0,Tessa,target,fresh pursuit tracks
+PRE01,0,Tessa,seconds_before_arrival,105
+PRE02,0,Owen,target,Jory shallow leg cut
+PRE02,0,Owen,seconds_before_arrival,95
+PRE03,0,Dane,target,Jory
+PRE03,0,Dane,seconds_before_arrival,90
+PRE04,0,Tessa,target,clear retreat path
+PRE04,0,Tessa,seconds_before_arrival,80
+PRE05,0,Owen,target,same Jory leg cut
+PRE05,0,Owen,note,20 seconds; permanent closure completes at -50s; fracture remains.
+PRE05,0,Owen,seconds_before_arrival,70
+PRE06,0,Dane,target,frontal retreat lane
+PRE06,0,Dane,note,Interpose bonus has ended; no own multiplier stack.
+PRE06,0,Dane,seconds_before_arrival,60
+C01E01,1,Tessa,target,visible clear path; never carries Jory
+C01E01,1,Tessa,geometry.path_length_m,8
+C01E01,1,Tessa,geometry.visible_traversable_physical_path,true
+C01E01,1,Tessa,geometry.passes_through_creature_wall_or_restraint,false
+C01E01,1,Tessa,geometry.carries_another_adult,false
+C01E01,1,Tessa,geometry.crosses_otherwise_impossible_gap,false
+C01E01,1,Tessa,geometry.hazard_immunity_assumed,false
+C01E02,1,Kip,target,retreat dart launcher
+C01E02,1,Kip,note,Inspected at 8m; Tessa clears normal 25-degree firing arc.
+C01E02,1,Kip,control_seconds,1
+C01E02,1,Kip,geometry.distance_m,8
+C01E02,1,Kip,geometry.prior_sight_distance_m,8
+C01E02,1,Kip,geometry.prior_sight_attention_seconds,1
+C01E02,1,Kip,geometry.visible_at_start,true
+C01E02,1,Kip,geometry.available_at_start,true
+C01E02,1,Kip,geometry.within_normal_mechanical_arc,true
+C01E02,1,Kip,geometry.ready_at_start,true
+C01E02,1,Kip,geometry.target_is_constructed_fixture,true
+C01E02,1,Kip,geometry.shield_removed_physically_if_any,true
+C01E02,1,Kip,outcome,"ordinary legal fixture function, no strengthened output"
+C01E03,1,Dane,target,front of litter retreat
+C01E03,1,Dane,geometry.weapon_raised_in_right_hand,true
+C01E03,1,Dane,geometry.effect_seconds,8
+C01E03,1,Dane,geometry.physical_attack_crosses_front,true
+C01E03,1,Dane,geometry.runs_or_attacks_during_effect,false
+C01E03,1,Dane,geometry.blocks_heat_poison_or_suffocation,false
+C01E03,1,Dane,geometry.reduced_force_still_can_hurt,true
+C01E04,1,Kip,target,retreat pivot fire vent
+C01E04,1,Kip,note,"At 7m; ordinary aiming fan; heat is offense, never Ward protection."
+C01E04,1,Kip,control_seconds,5
+C01E04,1,Kip,geometry.distance_m,7
+C01E04,1,Kip,geometry.prior_sight_distance_m,7
+C01E04,1,Kip,geometry.prior_sight_attention_seconds,1
+C01E04,1,Kip,geometry.visible_at_start,true
+C01E04,1,Kip,geometry.available_at_start,true
+C01E04,1,Kip,geometry.within_normal_mechanical_arc,true
+C01E04,1,Kip,geometry.ready_at_start,true
+C01E04,1,Kip,geometry.target_is_constructed_fixture,true
+C01E04,1,Kip,geometry.shield_removed_physically_if_any,true
+C01E04,1,Kip,outcome,"ordinary legal fixture function, no strengthened output"
+C01E05,1,Owen,target,"Kip 8cm-long, 0.4cm-deep forearm cut"
+C01E05,1,Owen,note,After fire and physical door closure: twenty seconds of protected contact through08:02:30. Tissue present/aligned. No seated recovery is taken.
+C01E05,1,Owen,geometry.wound_length_cm,8
+C01E05,1,Owen,geometry.wound_depth_cm,0.4
+C01E05,1,Owen,geometry.external_wound,true
+C01E05,1,Owen,geometry.tissue_present_and_aligned,true
+C01E05,1,Owen,geometry.uninterrupted_touch_seconds,20
+C01E05,1,Owen,geometry.repairs_bone_blood_organs_or_nerves,false
+C01E05,1,Owen,geometry.protected_position_for_channel_required_in_prose,true
+C02E01,2,Kip,target,A: service chamber anchor
+C02E01,2,Kip,note,Cleared chamber 12m across; seal absent; all hostiles out; touch uninterrupted to 08:06:40.
+C02E01,2,Kip,geometry.enclosed_room_max_width_m,12
+C02E01,2,Kip,geometry.intact_anchor,true
+C02E01,2,Kip,geometry.guardian_defeated_or_none_assigned,true
+C02E01,2,Kip,geometry.protective_seal_removed_or_absent,true
+C02E01,2,Kip,geometry.living_hostiles_inside_at_start,0
+C02E01,2,Kip,geometry.boss_chamber,false
+C02E01,2,Kip,channel_seconds,30
+C02E01,2,Kip,outcome,success after uninterrupted30seconds
+C02E02,2,Kip,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C02E02,2,Kip,ends,Day 1 08:09:50
+C02E03,2,Tessa,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C02E03,2,Tessa,ends,Day 1 08:13:50
+C02E04,2,Owen,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C02E04,2,Owen,ends,Day 1 08:16:50
+C02E05,2,Kip,target,clear floor facing cloth-weight test
+C02E05,2,Kip,note,"First Claim grants ability only after valid claim; two-second setup, bundle crosses front."
+C02E05,2,Kip,setup_seconds,2
+C02E05,2,Kip,physical_impact_seconds_after_start,8
+C02E05,2,Kip,geometry.clear_ground,true
+C02E05,2,Kip,geometry.within_3m,true
+C02E05,2,Kip,geometry.upright_2m_square,true
+C02E05,2,Kip,geometry.stationary,true
+C02E05,2,Kip,geometry.physical_impact_crosses_front,true
+C02E05,2,Kip,geometry.blocks_heat_or_water,false
+C02E06,2,Kip,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C02E06,2,Kip,ends,Day 1 08:20:00
+C02E07,2,Dane,note,Tessa now watches while Dane sits; no immediate attack.
+C02E07,2,Dane,ends,Day 1 08:29:00
+C03E01,3,Tessa,target,fresh physical tracks toward main passage
+C03E01,3,Tessa,geometry.physical_track_inspected,true
+C03E01,3,Tessa,geometry.oldest_trace_minutes,60
+C03E01,3,Tessa,geometry.radius_m,25
+C03E01,3,Tessa,geometry.trace_visible_line_of_sight,true
+C03E01,3,Tessa,geometry.reveals_current_person_location_or_mind,false
+C03E02,3,Kip,target,clear ground facing downhill debris
+C03E02,3,Kip,note,Two seconds setup; rolling stone crosses upright front within ten seconds; half force still hazardous.
+C03E02,3,Kip,setup_seconds,2
+C03E02,3,Kip,physical_impact_seconds_after_start,8
+C03E02,3,Kip,geometry.clear_ground,true
+C03E02,3,Kip,geometry.within_3m,true
+C03E02,3,Kip,geometry.upright_2m_square,true
+C03E02,3,Kip,geometry.stationary,true
+C03E02,3,Kip,geometry.physical_impact_crosses_front,true
+C03E02,3,Kip,geometry.blocks_heat_or_water,false
+C03E03,3,Dane,target,litter on visible clear 6m path
+C03E03,3,Dane,note, Separate small rock parried at09:30:04; the larger rolling stone reaches Ward at09:30:08.
+C03E03,3,Dane,geometry.path_length_m,6
+C03E03,3,Dane,geometry.visible_ally,true
+C03E03,3,Dane,geometry.clear_physical_path,true
+C03E03,3,Dane,geometry.functional_weapon_in_right_hand,true
+C03E03,3,Dane,geometry.uses_enhanced_block,true
+C03E03,3,Dane,geometry.block_seconds_after_activation,1
+C03E03,3,Dane,geometry.parryable_physical_attack,true
+C03E03,3,Dane,geometry.all_direction_protection_assumed,false
+C03E04,3,Owen,target,Jory new 12cm/0.5cm forearm cut
+C03E04,3,Owen,note,Five seconds contact; seal ends 10:25:05 unless strain breaks it; next chapter Mend before expiry.
+C03E04,3,Owen,geometry.wound_length_cm,12
+C03E04,3,Owen,geometry.wound_depth_cm,0.5
+C03E04,3,Owen,geometry.external_wound,true
+C03E04,3,Owen,geometry.tissue_present_and_aligned,true
+C03E04,3,Owen,geometry.uninterrupted_touch_seconds,5
+C03E04,3,Owen,geometry.repairs_bone_blood_organs_or_nerves,false
+C03E04,3,Owen,geometry.protected_position_for_channel_required_in_prose,true
+C04E01,4,Owen,target,Jory sealed forearm cut
+C04E01,4,Owen,note,Repairs eligible shallow tissue before Staunch expires; fracture remains.
+C04E01,4,Owen,geometry.wound_length_cm,12
+C04E01,4,Owen,geometry.wound_depth_cm,0.5
+C04E01,4,Owen,geometry.external_wound,true
+C04E01,4,Owen,geometry.tissue_present_and_aligned,true
+C04E01,4,Owen,geometry.uninterrupted_touch_seconds,20
+C04E01,4,Owen,geometry.repairs_bone_blood_organs_or_nerves,false
+C04E01,4,Owen,geometry.protected_position_for_channel_required_in_prose,true
+C04E02,4,Tessa,target,fresh guard traces
+C04E02,4,Tessa,geometry.physical_track_inspected,true
+C04E02,4,Tessa,geometry.oldest_trace_minutes,60
+C04E02,4,Tessa,geometry.radius_m,25
+C04E02,4,Tessa,geometry.trace_visible_line_of_sight,true
+C04E02,4,Tessa,geometry.reveals_current_person_location_or_mind,false
+C04E03,4,Kip,target,gate-gallery rotating dart launcher
+C04E03,4,Kip,note,Available launcher suppression only five seconds; separate gate brake remains Shielded.
+C04E03,4,Kip,control_seconds,5
+C04E03,4,Kip,geometry.distance_m,10
+C04E03,4,Kip,geometry.prior_sight_distance_m,10
+C04E03,4,Kip,geometry.prior_sight_attention_seconds,1
+C04E03,4,Kip,geometry.visible_at_start,true
+C04E03,4,Kip,geometry.available_at_start,true
+C04E03,4,Kip,geometry.within_normal_mechanical_arc,true
+C04E03,4,Kip,geometry.ready_at_start,true
+C04E03,4,Kip,geometry.target_is_constructed_fixture,true
+C04E03,4,Kip,geometry.shield_removed_physically_if_any,true
+C04E03,4,Kip,outcome,"ordinary legal fixture function, no strengthened output"
+C04E04,4,Tessa,target,open retreat path
+C04E04,4,Tessa,geometry.path_length_m,8
+C04E04,4,Tessa,geometry.visible_traversable_physical_path,true
+C04E04,4,Tessa,geometry.passes_through_creature_wall_or_restraint,false
+C04E04,4,Tessa,geometry.carries_another_adult,false
+C04E04,4,Tessa,geometry.crosses_otherwise_impossible_gap,false
+C04E04,4,Tessa,geometry.hazard_immunity_assumed,false
+C04E05,4,Dane,target,frontal withdrawal
+C04E05,4,Dane,geometry.weapon_raised_in_right_hand,true
+C04E05,4,Dane,geometry.effect_seconds,8
+C04E05,4,Dane,geometry.physical_attack_crosses_front,true
+C04E05,4,Dane,geometry.runs_or_attacks_during_effect,false
+C04E05,4,Dane,geometry.blocks_heat_poison_or_suffocation,false
+C04E05,4,Dane,geometry.reduced_force_still_can_hurt,true
+C04E06,4,Kip,target,physical barb lane
+C04E06,4,Kip,note,Setup complete before barb arrives; no heat/water protection.
+C04E06,4,Kip,setup_seconds,2
+C04E06,4,Kip,physical_impact_seconds_after_start,8
+C04E06,4,Kip,geometry.clear_ground,true
+C04E06,4,Kip,geometry.within_3m,true
+C04E06,4,Kip,geometry.upright_2m_square,true
+C04E06,4,Kip,geometry.stationary,true
+C04E06,4,Kip,geometry.physical_impact_crosses_front,true
+C04E06,4,Kip,geometry.blocks_heat_or_water,false
+C04E08,4,Kip,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C04E08,4,Kip,ends,Day 1 10:44:00
+C04E09,4,Tessa,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C04E09,4,Tessa,ends,Day 1 10:44:00
+C04E10,4,Owen,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C04E10,4,Owen,ends,Day 1 10:41:00
+C04E11,4,Dane,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C04E11,4,Dane,ends,Day 1 10:52:00
+C05E01,5,Tessa,target,fresh grazer trail
+C05E01,5,Tessa,geometry.physical_track_inspected,true
+C05E01,5,Tessa,geometry.oldest_trace_minutes,60
+C05E01,5,Tessa,geometry.radius_m,25
+C05E01,5,Tessa,geometry.trace_visible_line_of_sight,true
+C05E01,5,Tessa,geometry.reveals_current_person_location_or_mind,false
+C05E02,5,Tessa,target,visible safe path
+C05E02,5,Tessa,geometry.path_length_m,8
+C05E02,5,Tessa,geometry.visible_traversable_physical_path,true
+C05E02,5,Tessa,geometry.passes_through_creature_wall_or_restraint,false
+C05E02,5,Tessa,geometry.carries_another_adult,false
+C05E02,5,Tessa,geometry.crosses_otherwise_impossible_gap,false
+C05E02,5,Tessa,geometry.hazard_immunity_assumed,false
+C05E03,5,Kip,target,physical predator lunge lane
+C05E03,5,Kip,setup_seconds,2
+C05E03,5,Kip,physical_impact_seconds_after_start,8
+C05E03,5,Kip,geometry.clear_ground,true
+C05E03,5,Kip,geometry.within_3m,true
+C05E03,5,Kip,geometry.upright_2m_square,true
+C05E03,5,Kip,geometry.stationary,true
+C05E03,5,Kip,geometry.physical_impact_crosses_front,true
+C05E03,5,Kip,geometry.blocks_heat_or_water,false
+C05E04,5,Dane,target,stranded worker within 8m
+C05E04,5,Dane,geometry.path_length_m,6
+C05E04,5,Dane,geometry.visible_ally,true
+C05E04,5,Dane,geometry.clear_physical_path,true
+C05E04,5,Dane,geometry.functional_weapon_in_right_hand,true
+C05E04,5,Dane,geometry.uses_enhanced_block,true
+C05E04,5,Dane,geometry.block_seconds_after_activation,2
+C05E04,5,Dane,geometry.parryable_physical_attack,true
+C05E04,5,Dane,geometry.all_direction_protection_assumed,false
+C05E05,5,Kip,target,garden-exit portcullis
+C05E05,5,Kip,note,Ready existing defensive gate; hold closed five seconds during last worker extraction; ordinary master control resumes afterward.
+C05E05,5,Kip,control_seconds,5
+C05E05,5,Kip,geometry.distance_m,6
+C05E05,5,Kip,geometry.prior_sight_distance_m,6
+C05E05,5,Kip,geometry.prior_sight_attention_seconds,1
+C05E05,5,Kip,geometry.visible_at_start,true
+C05E05,5,Kip,geometry.available_at_start,true
+C05E05,5,Kip,geometry.within_normal_mechanical_arc,true
+C05E05,5,Kip,geometry.ready_at_start,true
+C05E05,5,Kip,geometry.target_is_constructed_fixture,true
+C05E05,5,Kip,geometry.shield_removed_physically_if_any,true
+C05E05,5,Kip,outcome,"ordinary legal fixture function, no strengthened output"
+C05E06,5,Owen,target,rope-hauler 10cm/0.5cm shoulder cut
+C05E06,5,Owen,geometry.wound_length_cm,10
+C05E06,5,Owen,geometry.wound_depth_cm,0.5
+C05E06,5,Owen,geometry.external_wound,true
+C05E06,5,Owen,geometry.tissue_present_and_aligned,true
+C05E06,5,Owen,geometry.uninterrupted_touch_seconds,20
+C05E06,5,Owen,geometry.repairs_bone_blood_organs_or_nerves,false
+C05E06,5,Owen,geometry.protected_position_for_channel_required_in_prose,true
+C05E08,5,Kip,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C05E08,5,Kip,ends,Day 1 13:06:00
+C05E09,5,Tessa,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C05E09,5,Tessa,ends,Day 1 13:05:00
+C05E10,5,Owen,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C05E10,5,Owen,ends,Day 1 13:04:00
+C05E11,5,Dane,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C05E11,5,Dane,ends,Day 1 13:03:00
+C06E01,6,Tessa,target,clear shore path to physical protective rune
+C06E01,6,Tessa,geometry.path_length_m,8
+C06E01,6,Tessa,geometry.visible_traversable_physical_path,true
+C06E01,6,Tessa,geometry.passes_through_creature_wall_or_restraint,false
+C06E01,6,Tessa,geometry.carries_another_adult,false
+C06E01,6,Tessa,geometry.crosses_otherwise_impossible_gap,false
+C06E01,6,Tessa,geometry.hazard_immunity_assumed,false
+C06E02,6,Dane,target,guardian charge lane
+C06E02,6,Dane,geometry.weapon_raised_in_right_hand,true
+C06E02,6,Dane,geometry.effect_seconds,8
+C06E02,6,Dane,geometry.physical_attack_crosses_front,true
+C06E02,6,Dane,geometry.runs_or_attacks_during_effect,false
+C06E02,6,Dane,geometry.blocks_heat_poison_or_suffocation,false
+C06E02,6,Dane,geometry.reduced_force_still_can_hurt,true
+C06E03,6,Kip,target,cistern defense waterjet
+C06E03,6,Kip,note,"Shield physically removed; within10m, normal aiming arc; physical jet redirects mineral-feeder."
+C06E03,6,Kip,control_seconds,5
+C06E03,6,Kip,geometry.distance_m,9
+C06E03,6,Kip,geometry.prior_sight_distance_m,9
+C06E03,6,Kip,geometry.prior_sight_attention_seconds,1
+C06E03,6,Kip,geometry.visible_at_start,true
+C06E03,6,Kip,geometry.available_at_start,true
+C06E03,6,Kip,geometry.within_normal_mechanical_arc,true
+C06E03,6,Kip,geometry.ready_at_start,true
+C06E03,6,Kip,geometry.target_is_constructed_fixture,true
+C06E03,6,Kip,geometry.shield_removed_physically_if_any,true
+C06E03,6,Kip,outcome,"ordinary legal fixture function, no strengthened output"
+C06E05,6,Kip,target,B: cistern anchor
+C06E05,6,Kip,note,Guardian defeated; seal gone; all hostiles out; 18m enclosed chamber; success releases A.
+C06E05,6,Kip,geometry.enclosed_room_max_width_m,18
+C06E05,6,Kip,geometry.intact_anchor,true
+C06E05,6,Kip,geometry.guardian_defeated_or_none_assigned,true
+C06E05,6,Kip,geometry.protective_seal_removed_or_absent,true
+C06E05,6,Kip,geometry.living_hostiles_inside_at_start,0
+C06E05,6,Kip,geometry.boss_chamber,false
+C06E05,6,Kip,channel_seconds,30
+C06E05,6,Kip,outcome,success after uninterrupted30seconds
+C06E06,6,Kip,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C06E06,6,Kip,ends,Day 1 15:07:00
+C06E07,6,Tessa,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C06E07,6,Tessa,ends,Day 1 15:03:00
+C06E08,6,Owen,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C06E08,6,Owen,ends,Day 1 15:01:00
+C06E09,6,Dane,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C06E09,6,Dane,ends,Day 1 15:05:00
+C07E01,7,Kip,target,cistern training waterjet
+C07E01,7,Kip,note,Ordinary fixed-output aiming control into a physically safe empty catch within its normal arc; no invented low-power setting and no XP.
+C07E01,7,Kip,control_seconds,5
+C07E01,7,Kip,geometry.distance_m,6
+C07E01,7,Kip,geometry.prior_sight_distance_m,6
+C07E01,7,Kip,geometry.prior_sight_attention_seconds,1
+C07E01,7,Kip,geometry.visible_at_start,true
+C07E01,7,Kip,geometry.available_at_start,true
+C07E01,7,Kip,geometry.within_normal_mechanical_arc,true
+C07E01,7,Kip,geometry.ready_at_start,true
+C07E01,7,Kip,geometry.target_is_constructed_fixture,true
+C07E01,7,Kip,geometry.shield_removed_physically_if_any,true
+C07E01,7,Kip,outcome,"ordinary legal fixture function, no strengthened output"
+C07E02,7,Kip,target,cistern training waterjet
+C07E02,7,Kip,note,Ordinary fixed-output aiming control into a physically safe empty catch within its normal arc; no invented low-power setting and no XP.
+C07E02,7,Kip,control_seconds,5
+C07E02,7,Kip,geometry.distance_m,6
+C07E02,7,Kip,geometry.prior_sight_distance_m,6
+C07E02,7,Kip,geometry.prior_sight_attention_seconds,1
+C07E02,7,Kip,geometry.visible_at_start,true
+C07E02,7,Kip,geometry.available_at_start,true
+C07E02,7,Kip,geometry.within_normal_mechanical_arc,true
+C07E02,7,Kip,geometry.ready_at_start,true
+C07E02,7,Kip,geometry.target_is_constructed_fixture,true
+C07E02,7,Kip,geometry.shield_removed_physically_if_any,true
+C07E02,7,Kip,outcome,"ordinary legal fixture function, no strengthened output"
+C07E03,7,Kip,target,cistern training waterjet
+C07E03,7,Kip,note,Ordinary fixed-output aiming control into a physically safe empty catch within its normal arc; no invented low-power setting and no XP.
+C07E03,7,Kip,control_seconds,5
+C07E03,7,Kip,geometry.distance_m,6
+C07E03,7,Kip,geometry.prior_sight_distance_m,6
+C07E03,7,Kip,geometry.prior_sight_attention_seconds,1
+C07E03,7,Kip,geometry.visible_at_start,true
+C07E03,7,Kip,geometry.available_at_start,true
+C07E03,7,Kip,geometry.within_normal_mechanical_arc,true
+C07E03,7,Kip,geometry.ready_at_start,true
+C07E03,7,Kip,geometry.target_is_constructed_fixture,true
+C07E03,7,Kip,geometry.shield_removed_physically_if_any,true
+C07E03,7,Kip,outcome,"ordinary legal fixture function, no strengthened output"
+C07E04,7,Kip,target,cistern training waterjet
+C07E04,7,Kip,note,Ordinary fixed-output aiming control into a physically safe empty catch within its normal arc; no invented low-power setting and no XP.
+C07E04,7,Kip,control_seconds,5
+C07E04,7,Kip,geometry.distance_m,6
+C07E04,7,Kip,geometry.prior_sight_distance_m,6
+C07E04,7,Kip,geometry.prior_sight_attention_seconds,1
+C07E04,7,Kip,geometry.visible_at_start,true
+C07E04,7,Kip,geometry.available_at_start,true
+C07E04,7,Kip,geometry.within_normal_mechanical_arc,true
+C07E04,7,Kip,geometry.ready_at_start,true
+C07E04,7,Kip,geometry.target_is_constructed_fixture,true
+C07E04,7,Kip,geometry.shield_removed_physically_if_any,true
+C07E04,7,Kip,outcome,"ordinary legal fixture function, no strengthened output"
+C07E05,7,Kip,target,cistern training waterjet
+C07E05,7,Kip,note,Ordinary fixed-output aiming control into a physically safe empty catch within its normal arc; no invented low-power setting and no XP.
+C07E05,7,Kip,control_seconds,5
+C07E05,7,Kip,geometry.distance_m,6
+C07E05,7,Kip,geometry.prior_sight_distance_m,6
+C07E05,7,Kip,geometry.prior_sight_attention_seconds,1
+C07E05,7,Kip,geometry.visible_at_start,true
+C07E05,7,Kip,geometry.available_at_start,true
+C07E05,7,Kip,geometry.within_normal_mechanical_arc,true
+C07E05,7,Kip,geometry.ready_at_start,true
+C07E05,7,Kip,geometry.target_is_constructed_fixture,true
+C07E05,7,Kip,geometry.shield_removed_physically_if_any,true
+C07E05,7,Kip,outcome,"ordinary legal fixture function, no strengthened output"
+C07E06,7,Kip,target,cistern training waterjet
+C07E06,7,Kip,note,Ordinary fixed-output aiming control into a physically safe empty catch within its normal arc; no invented low-power setting and no XP.
+C07E06,7,Kip,control_seconds,5
+C07E06,7,Kip,geometry.distance_m,6
+C07E06,7,Kip,geometry.prior_sight_distance_m,6
+C07E06,7,Kip,geometry.prior_sight_attention_seconds,1
+C07E06,7,Kip,geometry.visible_at_start,true
+C07E06,7,Kip,geometry.available_at_start,true
+C07E06,7,Kip,geometry.within_normal_mechanical_arc,true
+C07E06,7,Kip,geometry.ready_at_start,true
+C07E06,7,Kip,geometry.target_is_constructed_fixture,true
+C07E06,7,Kip,geometry.shield_removed_physically_if_any,true
+C07E06,7,Kip,outcome,"ordinary legal fixture function, no strengthened output"
+C07E07,7,Kip,note,Dedicated quiet recovery interval excluded from focused training time; Tessa holds watch.
+C07E07,7,Kip,ends,Day 1 18:12:00
+C08E01,8,Kip,target,cistern west dart fixture
+C08E01,8,Kip,note,Within9m; currentRank1 proof succeeds before Rank2 granted.
+C08E01,8,Kip,control_seconds,1
+C08E01,8,Kip,geometry.distance_m,9
+C08E01,8,Kip,geometry.prior_sight_distance_m,9
+C08E01,8,Kip,geometry.prior_sight_attention_seconds,1
+C08E01,8,Kip,geometry.visible_at_start,true
+C08E01,8,Kip,geometry.available_at_start,true
+C08E01,8,Kip,geometry.within_normal_mechanical_arc,true
+C08E01,8,Kip,geometry.ready_at_start,true
+C08E01,8,Kip,geometry.target_is_constructed_fixture,true
+C08E01,8,Kip,geometry.shield_removed_physically_if_any,true
+C08E01,8,Kip,outcome,"ordinary legal fixture function, no strengthened output"
+C08E02,8,Tessa,target,patient evacuation route
+C08E02,8,Tessa,geometry.path_length_m,8
+C08E02,8,Tessa,geometry.visible_traversable_physical_path,true
+C08E02,8,Tessa,geometry.passes_through_creature_wall_or_restraint,false
+C08E02,8,Tessa,geometry.carries_another_adult,false
+C08E02,8,Tessa,geometry.crosses_otherwise_impossible_gap,false
+C08E02,8,Tessa,geometry.hazard_immunity_assumed,false
+C08E03,8,Dane,target,front of evacuation
+C08E03,8,Dane,geometry.weapon_raised_in_right_hand,true
+C08E03,8,Dane,geometry.effect_seconds,8
+C08E03,8,Dane,geometry.physical_attack_crosses_front,true
+C08E03,8,Dane,geometry.runs_or_attacks_during_effect,false
+C08E03,8,Dane,geometry.blocks_heat_poison_or_suffocation,false
+C08E03,8,Dane,geometry.reduced_force_still_can_hurt,true
+C08E04,8,Kip,target,cistern south dart fixture
+C08E04,8,Kip,note,Earlier inspected at8m; now visible14m Rank2 use. No Sight range increase.
+C08E04,8,Kip,control_seconds,1
+C08E04,8,Kip,geometry.distance_m,14
+C08E04,8,Kip,geometry.prior_sight_distance_m,8
+C08E04,8,Kip,geometry.prior_sight_attention_seconds,1
+C08E04,8,Kip,geometry.visible_at_start,true
+C08E04,8,Kip,geometry.available_at_start,true
+C08E04,8,Kip,geometry.within_normal_mechanical_arc,true
+C08E04,8,Kip,geometry.ready_at_start,true
+C08E04,8,Kip,geometry.target_is_constructed_fixture,true
+C08E04,8,Kip,geometry.shield_removed_physically_if_any,true
+C08E04,8,Kip,outcome,"ordinary legal fixture function, no strengthened output"
+C08E05,8,Kip,target,second physical attack lane
+C08E05,8,Kip,setup_seconds,2
+C08E05,8,Kip,physical_impact_seconds_after_start,8
+C08E05,8,Kip,geometry.clear_ground,true
+C08E05,8,Kip,geometry.within_3m,true
+C08E05,8,Kip,geometry.upright_2m_square,true
+C08E05,8,Kip,geometry.stationary,true
+C08E05,8,Kip,geometry.physical_impact_crosses_front,true
+C08E05,8,Kip,geometry.blocks_heat_or_water,false
+C08E06,8,Dane,target,worker behind flank
+C08E06,8,Dane,note,Earlier Bulwark ended; no overlapping own bonus. Ward impact at09:01:38 leaves reduced force for deliberate block within three-second bonus.
+C08E06,8,Dane,geometry.path_length_m,6
+C08E06,8,Dane,geometry.visible_ally,true
+C08E06,8,Dane,geometry.clear_physical_path,true
+C08E06,8,Dane,geometry.functional_weapon_in_right_hand,true
+C08E06,8,Dane,geometry.uses_enhanced_block,true
+C08E06,8,Dane,geometry.block_seconds_after_activation,2
+C08E06,8,Dane,geometry.parryable_physical_attack,true
+C08E06,8,Dane,geometry.all_direction_protection_assumed,false
+C08E07,8,Owen,target,rope-hauler 8cm/0.4cm flank cut
+C08E07,8,Owen,note,Five-second contact; clean dressing supports seal through retreat.
+C08E07,8,Owen,geometry.wound_length_cm,8
+C08E07,8,Owen,geometry.wound_depth_cm,0.4
+C08E07,8,Owen,geometry.external_wound,true
+C08E07,8,Owen,geometry.tissue_present_and_aligned,true
+C08E07,8,Owen,geometry.uninterrupted_touch_seconds,5
+C08E07,8,Owen,geometry.repairs_bone_blood_organs_or_nerves,false
+C08E07,8,Owen,geometry.protected_position_for_channel_required_in_prose,true
+C09E01,9,Tessa,target,fresh shelter approach traces
+C09E01,9,Tessa,geometry.physical_track_inspected,true
+C09E01,9,Tessa,geometry.oldest_trace_minutes,60
+C09E01,9,Tessa,geometry.radius_m,25
+C09E01,9,Tessa,geometry.trace_visible_line_of_sight,true
+C09E01,9,Tessa,geometry.reveals_current_person_location_or_mind,false
+C09E02,9,Kip,target,horizontal waterborne beam lane
+C09E02,9,Kip,note,Beam hits front while worker crosses; water itself is not blocked.
+C09E02,9,Kip,setup_seconds,2
+C09E02,9,Kip,physical_impact_seconds_after_start,8
+C09E02,9,Kip,geometry.clear_ground,true
+C09E02,9,Kip,geometry.within_3m,true
+C09E02,9,Kip,geometry.upright_2m_square,true
+C09E02,9,Kip,geometry.stationary,true
+C09E02,9,Kip,geometry.physical_impact_crosses_front,true
+C09E02,9,Kip,geometry.blocks_heat_or_water,false
+C09E03,9,Dane,target,worker beside crossing
+C09E03,9,Dane,note,Enhanced deliberate parry at09:30:08 meets the already Ward-slowed broken branch within three seconds. No parry of the whole stream.
+C09E03,9,Dane,geometry.path_length_m,6
+C09E03,9,Dane,geometry.visible_ally,true
+C09E03,9,Dane,geometry.clear_physical_path,true
+C09E03,9,Dane,geometry.functional_weapon_in_right_hand,true
+C09E03,9,Dane,geometry.uses_enhanced_block,true
+C09E03,9,Dane,geometry.block_seconds_after_activation,2
+C09E03,9,Dane,geometry.parryable_physical_attack,true
+C09E03,9,Dane,geometry.all_direction_protection_assumed,false
+C09E04,9,Owen,target,rope-hauler flank cut from chapter8
+C09E04,9,Owen,note,Repair before40-minute Staunch expiry; no repeatXP for individual wound.
+C09E04,9,Owen,geometry.wound_length_cm,8
+C09E04,9,Owen,geometry.wound_depth_cm,0.4
+C09E04,9,Owen,geometry.external_wound,true
+C09E04,9,Owen,geometry.tissue_present_and_aligned,true
+C09E04,9,Owen,geometry.uninterrupted_touch_seconds,20
+C09E04,9,Owen,geometry.repairs_bone_blood_organs_or_nerves,false
+C09E04,9,Owen,geometry.protected_position_for_channel_required_in_prose,true
+C09E06,9,Kip,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C09E06,9,Kip,ends,Day 2 10:11:00
+C09E07,9,Tessa,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C09E07,9,Tessa,ends,Day 2 10:05:00
+C09E08,9,Owen,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C09E08,9,Owen,ends,Day 2 10:06:00
+C09E09,9,Dane,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C09E09,9,Dane,ends,Day 2 10:22:00
+C10E01,10,Tessa,target,swimming scavenger traces above waterline
+C10E01,10,Tessa,geometry.physical_track_inspected,true
+C10E01,10,Tessa,geometry.oldest_trace_minutes,60
+C10E01,10,Tessa,geometry.radius_m,25
+C10E01,10,Tessa,geometry.trace_visible_line_of_sight,true
+C10E01,10,Tessa,geometry.reveals_current_person_location_or_mind,false
+C10E02,10,Tessa,target,visible dry ledge
+C10E02,10,Tessa,geometry.path_length_m,8
+C10E02,10,Tessa,geometry.visible_traversable_physical_path,true
+C10E02,10,Tessa,geometry.passes_through_creature_wall_or_restraint,false
+C10E02,10,Tessa,geometry.carries_another_adult,false
+C10E02,10,Tessa,geometry.crosses_otherwise_impossible_gap,false
+C10E02,10,Tessa,geometry.hazard_immunity_assumed,false
+C10E03,10,Kip,target,archive defensive bolt fixture
+C10E03,10,Kip,note,Inspected earlier at8m; maintained sight while withdrawing to14m; normal firing arc.
+C10E03,10,Kip,control_seconds,1
+C10E03,10,Kip,geometry.distance_m,14
+C10E03,10,Kip,geometry.prior_sight_distance_m,8
+C10E03,10,Kip,geometry.prior_sight_attention_seconds,1
+C10E03,10,Kip,geometry.visible_at_start,true
+C10E03,10,Kip,geometry.available_at_start,true
+C10E03,10,Kip,geometry.within_normal_mechanical_arc,true
+C10E03,10,Kip,geometry.ready_at_start,true
+C10E03,10,Kip,geometry.target_is_constructed_fixture,true
+C10E03,10,Kip,geometry.shield_removed_physically_if_any,true
+C10E03,10,Kip,outcome,"ordinary legal fixture function, no strengthened output"
+C10E04,10,Dane,target,guardian lunge lane
+C10E04,10,Dane,geometry.weapon_raised_in_right_hand,true
+C10E04,10,Dane,geometry.effect_seconds,8
+C10E04,10,Dane,geometry.physical_attack_crosses_front,true
+C10E04,10,Dane,geometry.runs_or_attacks_during_effect,false
+C10E04,10,Dane,geometry.blocks_heat_poison_or_suffocation,false
+C10E04,10,Dane,geometry.reduced_force_still_can_hurt,true
+C10E05,10,Kip,target,same guardian lunge lane
+C10E05,10,Kip,note,"Forms20:08, impact20:10 through Bulwark then Ward. Quarter force still knocks Dane down."
+C10E05,10,Kip,setup_seconds,2
+C10E05,10,Kip,physical_impact_seconds_after_start,4
+C10E05,10,Kip,geometry.clear_ground,true
+C10E05,10,Kip,geometry.within_3m,true
+C10E05,10,Kip,geometry.upright_2m_square,true
+C10E05,10,Kip,geometry.stationary,true
+C10E05,10,Kip,geometry.physical_impact_crosses_front,true
+C10E05,10,Kip,geometry.blocks_heat_or_water,false
+C10E06,10,Owen,target,Dane 10cm/0.4cm right upper-arm cut
+C10E06,10,Owen,geometry.wound_length_cm,10
+C10E06,10,Owen,geometry.wound_depth_cm,0.4
+C10E06,10,Owen,geometry.external_wound,true
+C10E06,10,Owen,geometry.tissue_present_and_aligned,true
+C10E06,10,Owen,geometry.uninterrupted_touch_seconds,20
+C10E06,10,Owen,geometry.repairs_bone_blood_organs_or_nerves,false
+C10E06,10,Owen,geometry.protected_position_for_channel_required_in_prose,true
+C10E08,10,Kip,target,C: archive anchor
+C10E08,10,Kip,note,16m chamber cleared; defended doorway holds all new hostiles outside for30sec. Announced Rank1 proof completes before capacity2 earned.
+C10E08,10,Kip,geometry.enclosed_room_max_width_m,16
+C10E08,10,Kip,geometry.intact_anchor,true
+C10E08,10,Kip,geometry.guardian_defeated_or_none_assigned,true
+C10E08,10,Kip,geometry.protective_seal_removed_or_absent,true
+C10E08,10,Kip,geometry.living_hostiles_inside_at_start,0
+C10E08,10,Kip,geometry.boss_chamber,false
+C10E08,10,Kip,channel_seconds,30
+C10E08,10,Kip,outcome,success after uninterrupted30seconds
+C10E09,10,Kip,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C10E09,10,Kip,ends,Day 2 13:09:00
+C10E10,10,Tessa,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C10E10,10,Tessa,ends,Day 2 13:06:00
+C10E11,10,Owen,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C10E11,10,Owen,ends,Day 2 13:04:00
+C10E12,10,Dane,note,The other three recover first; Dane sits13:10–13:14 while Tessa watches. No Mana recovery during the return walk.
+C10E12,10,Dane,ends,Day 2 13:14:00
+C11E01,11,Dane,target,Jory litter within8m
+C11E01,11,Dane,note,Fractures left wrist catching litter after this maneuver; right sword arm intact. Movement gets him to Jory; catching litter is ordinary bodily action. The weapon-block bonus is unused and does not protect his left wrist.
+C11E01,11,Dane,geometry.path_length_m,6
+C11E01,11,Dane,geometry.visible_ally,true
+C11E01,11,Dane,geometry.clear_physical_path,true
+C11E01,11,Dane,geometry.functional_weapon_in_right_hand,true
+C11E01,11,Dane,geometry.uses_enhanced_block,false
+C11E01,11,Dane,geometry.block_seconds_after_activation,null
+C11E01,11,Dane,geometry.parryable_physical_attack,true
+C11E01,11,Dane,geometry.all_direction_protection_assumed,false
+C11E02,11,Kip,target,predator charge lane
+C11E02,11,Kip,setup_seconds,2
+C11E02,11,Kip,physical_impact_seconds_after_start,8
+C11E02,11,Kip,geometry.clear_ground,true
+C11E02,11,Kip,geometry.within_3m,true
+C11E02,11,Kip,geometry.upright_2m_square,true
+C11E02,11,Kip,geometry.stationary,true
+C11E02,11,Kip,geometry.physical_impact_crosses_front,true
+C11E02,11,Kip,geometry.blocks_heat_or_water,false
+C11E03,11,Tessa,target,clear exit ahead of litter
+C11E03,11,Tessa,geometry.path_length_m,8
+C11E03,11,Tessa,geometry.visible_traversable_physical_path,true
+C11E03,11,Tessa,geometry.passes_through_creature_wall_or_restraint,false
+C11E03,11,Tessa,geometry.carries_another_adult,false
+C11E03,11,Tessa,geometry.crosses_otherwise_impossible_gap,false
+C11E03,11,Tessa,geometry.hazard_immunity_assumed,false
+C11E04,11,Tessa,target,fresh predator approach traces
+C11E04,11,Tessa,geometry.physical_track_inspected,true
+C11E04,11,Tessa,geometry.oldest_trace_minutes,60
+C11E04,11,Tessa,geometry.radius_m,25
+C11E04,11,Tessa,geometry.trace_visible_line_of_sight,true
+C11E04,11,Tessa,geometry.reveals_current_person_location_or_mind,false
+C11E05,11,Dane,target,right-hand sword raised in front of evacuees
+C11E05,11,Dane,geometry.weapon_raised_in_right_hand,true
+C11E05,11,Dane,geometry.effect_seconds,8
+C11E05,11,Dane,geometry.physical_attack_crosses_front,true
+C11E05,11,Dane,geometry.runs_or_attacks_during_effect,false
+C11E05,11,Dane,geometry.blocks_heat_poison_or_suffocation,false
+C11E05,11,Dane,geometry.reduced_force_still_can_hurt,true
+C11E07,11,Kip,target,D: lever-hall anchor
+C11E07,11,Kip,note,18m room cleared by team; all hostiles outside; full30sec guarded contact; capacity2 retains C.
+C11E07,11,Kip,geometry.enclosed_room_max_width_m,18
+C11E07,11,Kip,geometry.intact_anchor,true
+C11E07,11,Kip,geometry.guardian_defeated_or_none_assigned,true
+C11E07,11,Kip,geometry.protective_seal_removed_or_absent,true
+C11E07,11,Kip,geometry.living_hostiles_inside_at_start,0
+C11E07,11,Kip,geometry.boss_chamber,false
+C11E07,11,Kip,channel_seconds,30
+C11E07,11,Kip,outcome,success after uninterrupted30seconds
+C11E08,11,Kip,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C11E08,11,Kip,ends,Day 2 15:38:00
+C11E09,11,Tessa,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C11E09,11,Tessa,ends,Day 2 15:35:00
+C11E10,11,Owen,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C11E10,11,Owen,ends,Day 2 15:31:00
+C11E11,11,Dane,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C11E11,11,Dane,ends,Day 2 15:38:00
+C12E01,12,Tessa,target,conditioned hunter traces
+C12E01,12,Tessa,geometry.physical_track_inspected,true
+C12E01,12,Tessa,geometry.oldest_trace_minutes,60
+C12E01,12,Tessa,geometry.radius_m,25
+C12E01,12,Tessa,geometry.trace_visible_line_of_sight,true
+C12E01,12,Tessa,geometry.reveals_current_person_location_or_mind,false
+C12E02,12,Tessa,target,clear garden path
+C12E02,12,Tessa,geometry.path_length_m,8
+C12E02,12,Tessa,geometry.visible_traversable_physical_path,true
+C12E02,12,Tessa,geometry.passes_through_creature_wall_or_restraint,false
+C12E02,12,Tessa,geometry.carries_another_adult,false
+C12E02,12,Tessa,geometry.crosses_otherwise_impossible_gap,false
+C12E02,12,Tessa,geometry.hazard_immunity_assumed,false
+C12E03,12,Kip,target,garden first defensive jet
+C12E03,12,Kip,note,"Available, visible at9m."
+C12E03,12,Kip,control_seconds,5
+C12E03,12,Kip,geometry.distance_m,9
+C12E03,12,Kip,geometry.prior_sight_distance_m,9
+C12E03,12,Kip,geometry.prior_sight_attention_seconds,1
+C12E03,12,Kip,geometry.visible_at_start,true
+C12E03,12,Kip,geometry.available_at_start,true
+C12E03,12,Kip,geometry.within_normal_mechanical_arc,true
+C12E03,12,Kip,geometry.ready_at_start,true
+C12E03,12,Kip,geometry.target_is_constructed_fixture,true
+C12E03,12,Kip,geometry.shield_removed_physically_if_any,true
+C12E03,12,Kip,outcome,"ordinary legal fixture function, no strengthened output"
+C12E04,12,Dane,target,Owen within8m
+C12E04,12,Dane,geometry.path_length_m,6
+C12E04,12,Dane,geometry.visible_ally,true
+C12E04,12,Dane,geometry.clear_physical_path,true
+C12E04,12,Dane,geometry.functional_weapon_in_right_hand,true
+C12E04,12,Dane,geometry.uses_enhanced_block,true
+C12E04,12,Dane,geometry.block_seconds_after_activation,1
+C12E04,12,Dane,geometry.parryable_physical_attack,true
+C12E04,12,Dane,geometry.all_direction_protection_assumed,false
+C12E05,12,Kip,target,physical hunter lunge lane
+C12E05,12,Kip,setup_seconds,2
+C12E05,12,Kip,physical_impact_seconds_after_start,8
+C12E05,12,Kip,geometry.clear_ground,true
+C12E05,12,Kip,geometry.within_3m,true
+C12E05,12,Kip,geometry.upright_2m_square,true
+C12E05,12,Kip,geometry.stationary,true
+C12E05,12,Kip,geometry.physical_impact_crosses_front,true
+C12E05,12,Kip,geometry.blocks_heat_or_water,false
+C12E06,12,Dane,target,front of retreat
+C12E06,12,Dane,note,Own earlier bonus ended.
+C12E06,12,Dane,geometry.weapon_raised_in_right_hand,true
+C12E06,12,Dane,geometry.effect_seconds,8
+C12E06,12,Dane,geometry.physical_attack_crosses_front,true
+C12E06,12,Dane,geometry.runs_or_attacks_during_effect,false
+C12E06,12,Dane,geometry.blocks_heat_poison_or_suffocation,false
+C12E06,12,Dane,geometry.reduced_force_still_can_hurt,true
+C12E07,12,Kip,target,garden second defensive bolt
+C12E07,12,Kip,note,Separate fixture previously inspected within10m; now12m.
+C12E07,12,Kip,control_seconds,1
+C12E07,12,Kip,geometry.distance_m,12
+C12E07,12,Kip,geometry.prior_sight_distance_m,9
+C12E07,12,Kip,geometry.prior_sight_attention_seconds,1
+C12E07,12,Kip,geometry.visible_at_start,true
+C12E07,12,Kip,geometry.available_at_start,true
+C12E07,12,Kip,geometry.within_normal_mechanical_arc,true
+C12E07,12,Kip,geometry.ready_at_start,true
+C12E07,12,Kip,geometry.target_is_constructed_fixture,true
+C12E07,12,Kip,geometry.shield_removed_physically_if_any,true
+C12E07,12,Kip,outcome,"ordinary legal fixture function, no strengthened output"
+C13E01,13,Kip,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C13E01,13,Kip,ends,Day 2 19:07:00
+C13E02,13,Tessa,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C13E02,13,Tessa,ends,Day 2 19:05:00
+C13E03,13,Dane,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C13E03,13,Dane,ends,Day 2 19:07:00
+C13E04,13,Kip,target,safe practice lane one
+C13E04,13,Kip,setup_seconds,2
+C13E04,13,Kip,physical_impact_seconds_after_start,8
+C13E04,13,Kip,geometry.clear_ground,true
+C13E04,13,Kip,geometry.within_3m,true
+C13E04,13,Kip,geometry.upright_2m_square,true
+C13E04,13,Kip,geometry.stationary,true
+C13E04,13,Kip,geometry.physical_impact_crosses_front,true
+C13E04,13,Kip,geometry.blocks_heat_or_water,false
+C13E05,13,Kip,target,safe practice lane two
+C13E05,13,Kip,setup_seconds,2
+C13E05,13,Kip,physical_impact_seconds_after_start,8
+C13E05,13,Kip,geometry.clear_ground,true
+C13E05,13,Kip,geometry.within_3m,true
+C13E05,13,Kip,geometry.upright_2m_square,true
+C13E05,13,Kip,geometry.stationary,true
+C13E05,13,Kip,geometry.physical_impact_crosses_front,true
+C13E05,13,Kip,geometry.blocks_heat_or_water,false
+C13E06,13,Kip,target,safe practice lane three
+C13E06,13,Kip,setup_seconds,2
+C13E06,13,Kip,physical_impact_seconds_after_start,8
+C13E06,13,Kip,geometry.clear_ground,true
+C13E06,13,Kip,geometry.within_3m,true
+C13E06,13,Kip,geometry.upright_2m_square,true
+C13E06,13,Kip,geometry.stationary,true
+C13E06,13,Kip,geometry.physical_impact_crosses_front,true
+C13E06,13,Kip,geometry.blocks_heat_or_water,false
+C13E07,13,Kip,note,Quiet interval after focused Ward block; not counted as practice.
+C13E07,13,Kip,ends,Day 2 20:54:00
+C14E01,14,Tessa,target,fresh clearance-worker tracks
+C14E01,14,Tessa,geometry.physical_track_inspected,true
+C14E01,14,Tessa,geometry.oldest_trace_minutes,60
+C14E01,14,Tessa,geometry.radius_m,25
+C14E01,14,Tessa,geometry.trace_visible_line_of_sight,true
+C14E01,14,Tessa,geometry.reveals_current_person_location_or_mind,false
+C14E02,14,Kip,target,hot-cavern first bolt fixture
+C14E02,14,Kip,note,Physical strike at territorial hunter; no Ward heat protection.
+C14E02,14,Kip,control_seconds,1
+C14E02,14,Kip,geometry.distance_m,10
+C14E02,14,Kip,geometry.prior_sight_distance_m,10
+C14E02,14,Kip,geometry.prior_sight_attention_seconds,1
+C14E02,14,Kip,geometry.visible_at_start,true
+C14E02,14,Kip,geometry.available_at_start,true
+C14E02,14,Kip,geometry.within_normal_mechanical_arc,true
+C14E02,14,Kip,geometry.ready_at_start,true
+C14E02,14,Kip,geometry.target_is_constructed_fixture,true
+C14E02,14,Kip,geometry.shield_removed_physically_if_any,true
+C14E02,14,Kip,outcome,"ordinary legal fixture function, no strengthened output"
+C14E03,14,Tessa,target,visible stone rib path
+C14E03,14,Tessa,geometry.path_length_m,8
+C14E03,14,Tessa,geometry.visible_traversable_physical_path,true
+C14E03,14,Tessa,geometry.passes_through_creature_wall_or_restraint,false
+C14E03,14,Tessa,geometry.carries_another_adult,false
+C14E03,14,Tessa,geometry.crosses_otherwise_impossible_gap,false
+C14E03,14,Tessa,geometry.hazard_immunity_assumed,false
+C14E04,14,Dane,target,clearance worker within8m
+C14E04,14,Dane,geometry.path_length_m,6
+C14E04,14,Dane,geometry.visible_ally,true
+C14E04,14,Dane,geometry.clear_physical_path,true
+C14E04,14,Dane,geometry.functional_weapon_in_right_hand,true
+C14E04,14,Dane,geometry.uses_enhanced_block,true
+C14E04,14,Dane,geometry.block_seconds_after_activation,1
+C14E04,14,Dane,geometry.parryable_physical_attack,true
+C14E04,14,Dane,geometry.all_direction_protection_assumed,false
+C14E05,14,Kip,target,physical hunter lunge lane
+C14E05,14,Kip,setup_seconds,2
+C14E05,14,Kip,physical_impact_seconds_after_start,8
+C14E05,14,Kip,geometry.clear_ground,true
+C14E05,14,Kip,geometry.within_3m,true
+C14E05,14,Kip,geometry.upright_2m_square,true
+C14E05,14,Kip,geometry.stationary,true
+C14E05,14,Kip,geometry.physical_impact_crosses_front,true
+C14E05,14,Kip,geometry.blocks_heat_or_water,false
+C14E06,14,Dane,target,front of worker evacuation
+C14E06,14,Dane,geometry.weapon_raised_in_right_hand,true
+C14E06,14,Dane,geometry.effect_seconds,8
+C14E06,14,Dane,geometry.physical_attack_crosses_front,true
+C14E06,14,Dane,geometry.runs_or_attacks_during_effect,false
+C14E06,14,Dane,geometry.blocks_heat_poison_or_suffocation,false
+C14E06,14,Dane,geometry.reduced_force_still_can_hurt,true
+C14E07,14,Kip,target,hot-cavern second gate fixture
+C14E07,14,Kip,note,Existing5-second suppression at previously inspected fixture.
+C14E07,14,Kip,control_seconds,5
+C14E07,14,Kip,geometry.distance_m,13
+C14E07,14,Kip,geometry.prior_sight_distance_m,9
+C14E07,14,Kip,geometry.prior_sight_attention_seconds,1
+C14E07,14,Kip,geometry.visible_at_start,true
+C14E07,14,Kip,geometry.available_at_start,true
+C14E07,14,Kip,geometry.within_normal_mechanical_arc,true
+C14E07,14,Kip,geometry.ready_at_start,true
+C14E07,14,Kip,geometry.target_is_constructed_fixture,true
+C14E07,14,Kip,geometry.shield_removed_physically_if_any,true
+C14E07,14,Kip,outcome,"ordinary legal fixture function, no strengthened output"
+C14E08,14,Owen,target,first rescued workers 11cm/0.5cm cut
+C14E08,14,Owen,geometry.wound_length_cm,11
+C14E08,14,Owen,geometry.wound_depth_cm,0.5
+C14E08,14,Owen,geometry.external_wound,true
+C14E08,14,Owen,geometry.tissue_present_and_aligned,true
+C14E08,14,Owen,geometry.uninterrupted_touch_seconds,5
+C14E08,14,Owen,geometry.repairs_bone_blood_organs_or_nerves,false
+C14E08,14,Owen,geometry.protected_position_for_channel_required_in_prose,true
+C14E09,14,Owen,target,same eligible wound
+C14E09,14,Owen,geometry.wound_length_cm,11
+C14E09,14,Owen,geometry.wound_depth_cm,0.5
+C14E09,14,Owen,geometry.external_wound,true
+C14E09,14,Owen,geometry.tissue_present_and_aligned,true
+C14E09,14,Owen,geometry.uninterrupted_touch_seconds,20
+C14E09,14,Owen,geometry.repairs_bone_blood_organs_or_nerves,false
+C14E09,14,Owen,geometry.protected_position_for_channel_required_in_prose,true
+C14E10,14,Owen,target,second rescued workers 14cm/0.6cm cut
+C14E10,14,Owen,geometry.wound_length_cm,14
+C14E10,14,Owen,geometry.wound_depth_cm,0.6
+C14E10,14,Owen,geometry.external_wound,true
+C14E10,14,Owen,geometry.tissue_present_and_aligned,true
+C14E10,14,Owen,geometry.uninterrupted_touch_seconds,5
+C14E10,14,Owen,geometry.repairs_bone_blood_organs_or_nerves,false
+C14E10,14,Owen,geometry.protected_position_for_channel_required_in_prose,true
+C14E11,14,Owen,target,same eligible wound
+C14E11,14,Owen,note,Mend starts3min after previous; no bone/blood/heatstroke cure.
+C14E11,14,Owen,geometry.wound_length_cm,14
+C14E11,14,Owen,geometry.wound_depth_cm,0.6
+C14E11,14,Owen,geometry.external_wound,true
+C14E11,14,Owen,geometry.tissue_present_and_aligned,true
+C14E11,14,Owen,geometry.uninterrupted_touch_seconds,20
+C14E11,14,Owen,geometry.repairs_bone_blood_organs_or_nerves,false
+C14E11,14,Owen,geometry.protected_position_for_channel_required_in_prose,true
+C14E13,14,Kip,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C14E13,14,Kip,ends,Day 3 09:07:00
+C14E14,14,Tessa,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C14E14,14,Tessa,ends,Day 3 09:06:00
+C14E15,14,Owen,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C14E15,14,Owen,ends,Day 3 09:12:00
+C14E16,14,Dane,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C14E16,14,Dane,ends,Day 3 09:07:00
+C15E01,15,Tessa,target,clear annex scout route
+C15E01,15,Tessa,geometry.path_length_m,8
+C15E01,15,Tessa,geometry.visible_traversable_physical_path,true
+C15E01,15,Tessa,geometry.passes_through_creature_wall_or_restraint,false
+C15E01,15,Tessa,geometry.carries_another_adult,false
+C15E01,15,Tessa,geometry.crosses_otherwise_impossible_gap,false
+C15E01,15,Tessa,geometry.hazard_immunity_assumed,false
+C15E02,15,Kip,target,annex defensive fixture
+C15E02,15,Kip,note,Valid available target10m; line of sight lost after1sec; paid10 remains.
+C15E02,15,Kip,control_seconds,1
+C15E02,15,Kip,geometry.distance_m,10
+C15E02,15,Kip,geometry.prior_sight_distance_m,10
+C15E02,15,Kip,geometry.prior_sight_attention_seconds,1
+C15E02,15,Kip,geometry.visible_at_start,true
+C15E02,15,Kip,geometry.available_at_start,true
+C15E02,15,Kip,geometry.within_normal_mechanical_arc,true
+C15E02,15,Kip,geometry.ready_at_start,true
+C15E02,15,Kip,geometry.target_is_constructed_fixture,true
+C15E02,15,Kip,geometry.shield_removed_physically_if_any,true
+C15E02,15,Kip,outcome,paid control interrupted by loss of sight after1second
+C15E03,15,Dane,target,Kip within8m
+C15E03,15,Dane,geometry.path_length_m,6
+C15E03,15,Dane,geometry.visible_ally,true
+C15E03,15,Dane,geometry.clear_physical_path,true
+C15E03,15,Dane,geometry.functional_weapon_in_right_hand,true
+C15E03,15,Dane,geometry.uses_enhanced_block,true
+C15E03,15,Dane,geometry.block_seconds_after_activation,1
+C15E03,15,Dane,geometry.parryable_physical_attack,true
+C15E03,15,Dane,geometry.all_direction_protection_assumed,false
+C15E04,15,Kip,target,annex anchor
+C15E04,15,Kip,note,"Room genuinely cleared at start; new hostile crosses doorway20sec later. Paid20; interruption no claim, C/D retained until physicaldestructionC."
+C15E04,15,Kip,geometry.enclosed_room_max_width_m,14
+C15E04,15,Kip,geometry.intact_anchor,true
+C15E04,15,Kip,geometry.guardian_defeated_or_none_assigned,true
+C15E04,15,Kip,geometry.protective_seal_removed_or_absent,true
+C15E04,15,Kip,geometry.living_hostiles_inside_at_start,0
+C15E04,15,Kip,geometry.boss_chamber,false
+C15E04,15,Kip,channel_seconds,20
+C15E04,15,Kip,outcome,interrupted by new hostile entering at20seconds; no refund or new ownership
+C15E05,15,Dane,target,withdrawal front
+C15E05,15,Dane,note,Interpose bonus ended long ago.
+C15E05,15,Dane,geometry.weapon_raised_in_right_hand,true
+C15E05,15,Dane,geometry.effect_seconds,8
+C15E05,15,Dane,geometry.physical_attack_crosses_front,true
+C15E05,15,Dane,geometry.runs_or_attacks_during_effect,false
+C15E05,15,Dane,geometry.blocks_heat_poison_or_suffocation,false
+C15E05,15,Dane,geometry.reduced_force_still_can_hurt,true
+C15E06,15,Kip,target,physical strike retreat lane
+C15E06,15,Kip,setup_seconds,2
+C15E06,15,Kip,physical_impact_seconds_after_start,8
+C15E06,15,Kip,geometry.clear_ground,true
+C15E06,15,Kip,geometry.within_3m,true
+C15E06,15,Kip,geometry.upright_2m_square,true
+C15E06,15,Kip,geometry.stationary,true
+C15E06,15,Kip,geometry.physical_impact_crosses_front,true
+C15E06,15,Kip,geometry.blocks_heat_or_water,false
+C15E07,15,Owen,target,Kip new 10cm/0.5cm flank cut
+C15E07,15,Owen,geometry.wound_length_cm,10
+C15E07,15,Owen,geometry.wound_depth_cm,0.5
+C15E07,15,Owen,geometry.external_wound,true
+C15E07,15,Owen,geometry.tissue_present_and_aligned,true
+C15E07,15,Owen,geometry.uninterrupted_touch_seconds,20
+C15E07,15,Owen,geometry.repairs_bone_blood_organs_or_nerves,false
+C15E07,15,Owen,geometry.protected_position_for_channel_required_in_prose,true
+C16E01,16,Kip,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C16E01,16,Kip,ends,Day 3 11:09:00
+C16E02,16,Tessa,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C16E02,16,Tessa,ends,Day 3 11:02:00
+C16E03,16,Owen,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C16E03,16,Owen,ends,Day 3 11:04:00
+C16E04,16,Dane,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C16E04,16,Dane,ends,Day 3 11:07:00
+C16E05,16,Kip,target,safe practice lane four
+C16E05,16,Kip,setup_seconds,2
+C16E05,16,Kip,physical_impact_seconds_after_start,8
+C16E05,16,Kip,geometry.clear_ground,true
+C16E05,16,Kip,geometry.within_3m,true
+C16E05,16,Kip,geometry.upright_2m_square,true
+C16E05,16,Kip,geometry.stationary,true
+C16E05,16,Kip,geometry.physical_impact_crosses_front,true
+C16E05,16,Kip,geometry.blocks_heat_or_water,false
+C16E06,16,Kip,note,Quiet recovery excluded from the thirty focused Ward minutes.
+C16E06,16,Kip,ends,Day 3 11:58:00
+C17E01,17,Kip,target,drainage defense lane
+C17E01,17,Kip,note,Rank1forms20:02; feint20:03; real physicalhit20:08 inside10s lifetime. Correct stationary facing retained; then Rank2earned.
+C17E01,17,Kip,setup_seconds,2
+C17E01,17,Kip,physical_impact_seconds_after_start,8
+C17E01,17,Kip,geometry.clear_ground,true
+C17E01,17,Kip,geometry.within_3m,true
+C17E01,17,Kip,geometry.upright_2m_square,true
+C17E01,17,Kip,geometry.stationary,true
+C17E01,17,Kip,geometry.physical_impact_crosses_front,true
+C17E01,17,Kip,geometry.blocks_heat_or_water,false
+C17E02,17,Tessa,target,fresh guardian approach traces
+C17E02,17,Tessa,geometry.physical_track_inspected,true
+C17E02,17,Tessa,geometry.oldest_trace_minutes,60
+C17E02,17,Tessa,geometry.radius_m,25
+C17E02,17,Tessa,geometry.trace_visible_line_of_sight,true
+C17E02,17,Tessa,geometry.reveals_current_person_location_or_mind,false
+C17E03,17,Tessa,target,clear approach to conduit support
+C17E03,17,Tessa,geometry.path_length_m,8
+C17E03,17,Tessa,geometry.visible_traversable_physical_path,true
+C17E03,17,Tessa,geometry.passes_through_creature_wall_or_restraint,false
+C17E03,17,Tessa,geometry.carries_another_adult,false
+C17E03,17,Tessa,geometry.crosses_otherwise_impossible_gap,false
+C17E03,17,Tessa,geometry.hazard_immunity_assumed,false
+C17E04,17,Dane,target,front of workers sealing hostile conduit
+C17E04,17,Dane,geometry.weapon_raised_in_right_hand,true
+C17E04,17,Dane,geometry.effect_seconds,8
+C17E04,17,Dane,geometry.physical_attack_crosses_front,true
+C17E04,17,Dane,geometry.runs_or_attacks_during_effect,false
+C17E04,17,Dane,geometry.blocks_heat_poison_or_suffocation,false
+C17E04,17,Dane,geometry.reduced_force_still_can_hurt,true
+C17E05,17,Kip,target,drainage defense first jet
+C17E05,17,Kip,note,"Available physical fixture, not the core or livingroot."
+C17E05,17,Kip,control_seconds,5
+C17E05,17,Kip,geometry.distance_m,9
+C17E05,17,Kip,geometry.prior_sight_distance_m,9
+C17E05,17,Kip,geometry.prior_sight_attention_seconds,1
+C17E05,17,Kip,geometry.visible_at_start,true
+C17E05,17,Kip,geometry.available_at_start,true
+C17E05,17,Kip,geometry.within_normal_mechanical_arc,true
+C17E05,17,Kip,geometry.ready_at_start,true
+C17E05,17,Kip,geometry.target_is_constructed_fixture,true
+C17E05,17,Kip,geometry.shield_removed_physically_if_any,true
+C17E05,17,Kip,outcome,"ordinary legal fixture function, no strengthened output"
+C17E06,17,Dane,target,front of safe outlet crew
+C17E06,17,Dane,note,"50sec since previousstart; first8sec effect ended, legal45secCD."
+C17E06,17,Dane,geometry.weapon_raised_in_right_hand,true
+C17E06,17,Dane,geometry.effect_seconds,8
+C17E06,17,Dane,geometry.physical_attack_crosses_front,true
+C17E06,17,Dane,geometry.runs_or_attacks_during_effect,false
+C17E06,17,Dane,geometry.blocks_heat_poison_or_suffocation,false
+C17E06,17,Dane,geometry.reduced_force_still_can_hurt,true
+C17E07,17,Kip,target,drainage defense second gate
+C17E07,17,Kip,note,Separate ready fixture; ordinary mechanism5sec.
+C17E07,17,Kip,control_seconds,5
+C17E07,17,Kip,geometry.distance_m,12
+C17E07,17,Kip,geometry.prior_sight_distance_m,9
+C17E07,17,Kip,geometry.prior_sight_attention_seconds,1
+C17E07,17,Kip,geometry.visible_at_start,true
+C17E07,17,Kip,geometry.available_at_start,true
+C17E07,17,Kip,geometry.within_normal_mechanical_arc,true
+C17E07,17,Kip,geometry.ready_at_start,true
+C17E07,17,Kip,geometry.target_is_constructed_fixture,true
+C17E07,17,Kip,geometry.shield_removed_physically_if_any,true
+C17E07,17,Kip,outcome,"ordinary legal fixture function, no strengthened output"
+C17E09,17,Kip,target,E: gatewalk anchor
+C17E09,17,Kip,note,"18m cleared room; allhostilesout;30sec contact; D retained, C destroyed."
+C17E09,17,Kip,geometry.enclosed_room_max_width_m,18
+C17E09,17,Kip,geometry.intact_anchor,true
+C17E09,17,Kip,geometry.guardian_defeated_or_none_assigned,true
+C17E09,17,Kip,geometry.protective_seal_removed_or_absent,true
+C17E09,17,Kip,geometry.living_hostiles_inside_at_start,0
+C17E09,17,Kip,geometry.boss_chamber,false
+C17E09,17,Kip,channel_seconds,30
+C17E09,17,Kip,outcome,success after uninterrupted30seconds
+C17E10,17,Kip,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C17E10,17,Kip,ends,Day 4 07:12:00
+C17E11,17,Tessa,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C17E11,17,Tessa,ends,Day 4 07:05:00
+C17E12,17,Owen,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C17E12,17,Owen,ends,Day 4 07:01:00
+C17E13,17,Dane,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C17E13,17,Dane,ends,Day 4 07:09:00
+C18E01,18,Tessa,target,visible guardian flank route
+C18E01,18,Tessa,geometry.path_length_m,8
+C18E01,18,Tessa,geometry.visible_traversable_physical_path,true
+C18E01,18,Tessa,geometry.passes_through_creature_wall_or_restraint,false
+C18E01,18,Tessa,geometry.carries_another_adult,false
+C18E01,18,Tessa,geometry.crosses_otherwise_impossible_gap,false
+C18E01,18,Tessa,geometry.hazard_immunity_assumed,false
+C18E02,18,Dane,target,Tessa within8m
+C18E02,18,Dane,note, Separate early deliberate block at08:10:03; Ward takes the later physical strike at08:10:13.
+C18E02,18,Dane,geometry.path_length_m,6
+C18E02,18,Dane,geometry.visible_ally,true
+C18E02,18,Dane,geometry.clear_physical_path,true
+C18E02,18,Dane,geometry.functional_weapon_in_right_hand,true
+C18E02,18,Dane,geometry.uses_enhanced_block,true
+C18E02,18,Dane,geometry.block_seconds_after_activation,1
+C18E02,18,Dane,geometry.parryable_physical_attack,true
+C18E02,18,Dane,geometry.all_direction_protection_assumed,false
+C18E03,18,Kip,target,physical guardian strike lane
+C18E03,18,Kip,setup_seconds,2
+C18E03,18,Kip,physical_impact_seconds_after_start,8
+C18E03,18,Kip,geometry.clear_ground,true
+C18E03,18,Kip,geometry.within_3m,true
+C18E03,18,Kip,geometry.upright_2m_square,true
+C18E03,18,Kip,geometry.stationary,true
+C18E03,18,Kip,geometry.physical_impact_crosses_front,true
+C18E03,18,Kip,geometry.blocks_heat_or_water,false
+C18E04,18,Kip,target,approach defensive bolt
+C18E04,18,Kip,note,"Previouslyinspected at9m, availableat12m; no bossbodytarget."
+C18E04,18,Kip,control_seconds,1
+C18E04,18,Kip,geometry.distance_m,12
+C18E04,18,Kip,geometry.prior_sight_distance_m,9
+C18E04,18,Kip,geometry.prior_sight_attention_seconds,1
+C18E04,18,Kip,geometry.visible_at_start,true
+C18E04,18,Kip,geometry.available_at_start,true
+C18E04,18,Kip,geometry.within_normal_mechanical_arc,true
+C18E04,18,Kip,geometry.ready_at_start,true
+C18E04,18,Kip,geometry.target_is_constructed_fixture,true
+C18E04,18,Kip,geometry.shield_removed_physically_if_any,true
+C18E04,18,Kip,outcome,"ordinary legal fixture function, no strengthened output"
+C18E05,18,Dane,target,front of withdrawal
+C18E05,18,Dane,geometry.weapon_raised_in_right_hand,true
+C18E05,18,Dane,geometry.effect_seconds,8
+C18E05,18,Dane,geometry.physical_attack_crosses_front,true
+C18E05,18,Dane,geometry.runs_or_attacks_during_effect,false
+C18E05,18,Dane,geometry.blocks_heat_poison_or_suffocation,false
+C18E05,18,Dane,geometry.reduced_force_still_can_hurt,true
+C18E07,18,Kip,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C18E07,18,Kip,ends,Day 4 08:35:00
+C18E08,18,Tessa,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C18E08,18,Tessa,ends,Day 4 08:32:00
+C18E09,18,Dane,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C18E09,18,Dane,ends,Day 4 08:37:00
+C19E01,19,Kip,target,boss first strike lane
+C19E01,19,Kip,note,Forms09:00:02; physicalimpact09:00:04; Wardshatters.
+C19E01,19,Kip,setup_seconds,2
+C19E01,19,Kip,physical_impact_seconds_after_start,4
+C19E01,19,Kip,geometry.clear_ground,true
+C19E01,19,Kip,geometry.within_3m,true
+C19E01,19,Kip,geometry.upright_2m_square,true
+C19E01,19,Kip,geometry.stationary,true
+C19E01,19,Kip,geometry.physical_impact_crosses_front,true
+C19E01,19,Kip,geometry.blocks_heat_or_water,false
+C19E02,19,Dane,target,Kip within8m
+C19E02,19,Dane,note, Separate deliberate block at09:00:02; Ward takes a different later physical strike at09:00:04.
+C19E02,19,Dane,geometry.path_length_m,6
+C19E02,19,Dane,geometry.visible_ally,true
+C19E02,19,Dane,geometry.clear_physical_path,true
+C19E02,19,Dane,geometry.functional_weapon_in_right_hand,true
+C19E02,19,Dane,geometry.uses_enhanced_block,true
+C19E02,19,Dane,geometry.block_seconds_after_activation,1
+C19E02,19,Dane,geometry.parryable_physical_attack,true
+C19E02,19,Dane,geometry.all_direction_protection_assumed,false
+C19E03,19,Tessa,target,clear flank route; physicalshieldbreak by spear
+C19E03,19,Tessa,geometry.path_length_m,8
+C19E03,19,Tessa,geometry.visible_traversable_physical_path,true
+C19E03,19,Tessa,geometry.passes_through_creature_wall_or_restraint,false
+C19E03,19,Tessa,geometry.carries_another_adult,false
+C19E03,19,Tessa,geometry.crosses_otherwise_impossible_gap,false
+C19E03,19,Tessa,geometry.hazard_immunity_assumed,false
+C19E04,19,Kip,target,boss fixture A
+C19E04,19,Kip,note,"PreviouslySightinspectedwithin10m, shieldphysicallybroken; visiblewithin15m; ordinaryarc."
+C19E04,19,Kip,control_seconds,1
+C19E04,19,Kip,geometry.distance_m,13
+C19E04,19,Kip,geometry.prior_sight_distance_m,9
+C19E04,19,Kip,geometry.prior_sight_attention_seconds,1
+C19E04,19,Kip,geometry.visible_at_start,true
+C19E04,19,Kip,geometry.available_at_start,true
+C19E04,19,Kip,geometry.within_normal_mechanical_arc,true
+C19E04,19,Kip,geometry.ready_at_start,true
+C19E04,19,Kip,geometry.target_is_constructed_fixture,true
+C19E04,19,Kip,geometry.shield_removed_physically_if_any,true
+C19E04,19,Kip,outcome,"ordinary legal fixture function, no strengthened output"
+C19E05,19,Kip,target,boss fixture B
+C19E05,19,Kip,note,Separate previouslyinspected readyfixture; sameeligibilityrules.
+C19E05,19,Kip,control_seconds,1
+C19E05,19,Kip,geometry.distance_m,14
+C19E05,19,Kip,geometry.prior_sight_distance_m,9
+C19E05,19,Kip,geometry.prior_sight_attention_seconds,1
+C19E05,19,Kip,geometry.visible_at_start,true
+C19E05,19,Kip,geometry.available_at_start,true
+C19E05,19,Kip,geometry.within_normal_mechanical_arc,true
+C19E05,19,Kip,geometry.ready_at_start,true
+C19E05,19,Kip,geometry.target_is_constructed_fixture,true
+C19E05,19,Kip,geometry.shield_removed_physically_if_any,true
+C19E05,19,Kip,outcome,"ordinary legal fixture function, no strengthened output"
+C19E06,19,Kip,target,boss second strike lane
+C19E06,19,Kip,note,Forms14sec; realimpact29sec usesRank2 twenty-secondlifetime; onlyoneimpacthalf.
+C19E06,19,Kip,setup_seconds,2
+C19E06,19,Kip,physical_impact_seconds_after_start,17
+C19E06,19,Kip,geometry.clear_ground,true
+C19E06,19,Kip,geometry.within_3m,true
+C19E06,19,Kip,geometry.upright_2m_square,true
+C19E06,19,Kip,geometry.stationary,true
+C19E06,19,Kip,geometry.physical_impact_crosses_front,true
+C19E06,19,Kip,geometry.blocks_heat_or_water,false
+C19E07,19,Owen,target,Dane new 8cm/0.5cm right forearm cut
+C19E07,19,Owen,note,Five seconds uninterrupted contact at17–22sec; Dane does not block or cast during this interval. Seal lasts after contact; left wrist not repaired.
+C19E07,19,Owen,geometry.wound_length_cm,8
+C19E07,19,Owen,geometry.wound_depth_cm,0.5
+C19E07,19,Owen,geometry.external_wound,true
+C19E07,19,Owen,geometry.tissue_present_and_aligned,true
+C19E07,19,Owen,geometry.uninterrupted_touch_seconds,5
+C19E07,19,Owen,geometry.repairs_bone_blood_organs_or_nerves,false
+C19E07,19,Owen,geometry.protected_position_for_channel_required_in_prose,true
+C19E08,19,Tessa,target,secondclearflankroute
+C19E08,19,Tessa,note,18secgap>=15secCD; nocarryinganotheradult.
+C19E08,19,Tessa,geometry.path_length_m,8
+C19E08,19,Tessa,geometry.visible_traversable_physical_path,true
+C19E08,19,Tessa,geometry.passes_through_creature_wall_or_restraint,false
+C19E08,19,Tessa,geometry.carries_another_adult,false
+C19E08,19,Tessa,geometry.crosses_otherwise_impossible_gap,false
+C19E08,19,Tessa,geometry.hazard_immunity_assumed,false
+C19E09,19,Dane,target,frontofsecondWardlane
+C19E09,19,Dane,note,"Interposeended; effect22–30sec, impact29sec crossesbothpanels. Half×half=quarterphysicalforce, stillinjurious."
+C19E09,19,Dane,geometry.weapon_raised_in_right_hand,true
+C19E09,19,Dane,geometry.effect_seconds,8
+C19E09,19,Dane,geometry.physical_attack_crosses_front,true
+C19E09,19,Dane,geometry.runs_or_attacks_during_effect,false
+C19E09,19,Dane,geometry.blocks_heat_poison_or_suffocation,false
+C19E09,19,Dane,geometry.reduced_force_still_can_hurt,true
+C19E10,19,Kip,target,boss fixture C
+C19E10,19,Kip,note,Separate inspectedfixture; finalphysicalstrike at29sec afterRavelrefusesstop; noOverrideofbody/core.
+C19E10,19,Kip,control_seconds,1
+C19E10,19,Kip,geometry.distance_m,11.5
+C19E10,19,Kip,geometry.prior_sight_distance_m,9
+C19E10,19,Kip,geometry.prior_sight_attention_seconds,1
+C19E10,19,Kip,geometry.visible_at_start,true
+C19E10,19,Kip,geometry.available_at_start,true
+C19E10,19,Kip,geometry.within_normal_mechanical_arc,true
+C19E10,19,Kip,geometry.ready_at_start,true
+C19E10,19,Kip,geometry.target_is_constructed_fixture,true
+C19E10,19,Kip,geometry.shield_removed_physically_if_any,true
+C19E10,19,Kip,geometry.prior_sight_at,Day 4 09:00:23
+C19E10,19,Kip,outcome,"ordinary legal fixture function, no strengthened output"
+C19E11,19,Owen,target,same eligible right forearm cut
+C19E11,19,Owen,note,Twenty seconds of protected aftercare after the fight; no instant battle healing.
+C19E11,19,Owen,geometry.wound_length_cm,8
+C19E11,19,Owen,geometry.wound_depth_cm,0.5
+C19E11,19,Owen,geometry.external_wound,true
+C19E11,19,Owen,geometry.tissue_present_and_aligned,true
+C19E11,19,Owen,geometry.uninterrupted_touch_seconds,20
+C19E11,19,Owen,geometry.repairs_bone_blood_organs_or_nerves,false
+C19E11,19,Owen,geometry.protected_position_for_channel_required_in_prose,true
+C20E01,20,Kip,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C20E01,20,Kip,ends,Day 4 09:44:00
+C20E02,20,Tessa,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C20E02,20,Tessa,ends,Day 4 09:36:00
+C20E03,20,Owen,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C20E03,20,Owen,ends,Day 4 09:37:00
+C20E04,20,Dane,note,"Protected, seated, no casting/movement/attack; another awake person keeps watch."
+C20E04,20,Dane,ends,Day 4 09:38:00
+C20E05,20,Tessa,target,visible gatewalkroute; runephysicallybrokenwithspear
+C20E05,20,Tessa,geometry.path_length_m,8
+C20E05,20,Tessa,geometry.visible_traversable_physical_path,true
+C20E05,20,Tessa,geometry.passes_through_creature_wall_or_restraint,false
+C20E05,20,Tessa,geometry.carries_another_adult,false
+C20E05,20,Tessa,geometry.crosses_otherwise_impossible_gap,false
+C20E05,20,Tessa,geometry.hazard_immunity_assumed,false
+C20E06,20,Dane,target,frontofworkerswithgate-loadrig
+C20E06,20,Dane,geometry.weapon_raised_in_right_hand,true
+C20E06,20,Dane,geometry.effect_seconds,8
+C20E06,20,Dane,geometry.physical_attack_crosses_front,true
+C20E06,20,Dane,geometry.runs_or_attacks_during_effect,false
+C20E06,20,Dane,geometry.blocks_heat_poison_or_suffocation,false
+C20E06,20,Dane,geometry.reduced_force_still_can_hurt,true
+C20E07,20,Kip,target,main gate brake
+C20E07,20,Kip,note,Waterlevelalreadydropped17; runephysicallybroken20; Sightwithin10mreportsAvailable; ordinaryrelease5sec whileJoryrigcarriesload.
+C20E07,20,Kip,control_seconds,5
+C20E07,20,Kip,geometry.distance_m,8
+C20E07,20,Kip,geometry.prior_sight_distance_m,8
+C20E07,20,Kip,geometry.prior_sight_attention_seconds,1
+C20E07,20,Kip,geometry.visible_at_start,true
+C20E07,20,Kip,geometry.available_at_start,true
+C20E07,20,Kip,geometry.within_normal_mechanical_arc,true
+C20E07,20,Kip,geometry.ready_at_start,true
+C20E07,20,Kip,geometry.target_is_constructed_fixture,true
+C20E07,20,Kip,geometry.shield_removed_physically_if_any,true
+C20E07,20,Kip,outcome,"ordinary legal fixture function, no strengthened output"

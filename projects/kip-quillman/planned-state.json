@@ -1,0 +1,5180 @@
+{
+  "schema": "kip-book1-planned-state-ledger-v1",
+  "status": "AUTHOR PLAN adopted for drafting after root arithmetic/chronology review; not manuscript-established events",
+  "sources": [
+    "story.md",
+    "worldbuilding/system.md",
+    "work/world-design-proposal.md",
+    "work/book1-architecture-proposal.md"
+  ],
+  "time_origin": "Day1 08:00:00 = Kip arrival; total76hours through Day4noon",
+  "opening_inventory": {
+    "Kip": [
+      "Work jacket",
+      "T-shirt",
+      "Trousers",
+      "Trainers",
+      "House keys",
+      "Wallet"
+    ],
+    "Earth_only": [
+      "Phone left charging in delivery van",
+      "Delivery package outside crossing"
+    ],
+    "limits": "No initial weapon, enchanted inventory or phone. Track any later finite ordinary loan. Source recording is Earth curb/van/location, never Noah."
+  },
+  "sleep_constraints": {
+    "Kip": [
+      "Day1 22:00–Day2 05:30",
+      "Day2 23:00–Day3 06:30",
+      "Day3 22:00–Day4 05:30"
+    ],
+    "companions": "Protected sleep rotates with Lena/Ben and later Eda/Cal after their injuries are treated. Companions need at least6hours overnight plus90minutes of separate afternoon/evening sleep opportunity. Never describe everyone sleeping while no one watches.",
+    "scope": "Future time allowances, not prose-established scenes or proof that rest was safe."
+  },
+  "opening_prearrival_history": [
+    {
+      "kind": "cast",
+      "person": "Tessa",
+      "ability": "Trail Sight",
+      "target": "fresh pursuit tracks",
+      "note": "",
+      "control_seconds": null,
+      "seconds_before_arrival": 105,
+      "cost": 15
+    },
+    {
+      "kind": "cast",
+      "person": "Owen",
+      "ability": "Staunch",
+      "target": "Jory shallow leg cut",
+      "note": "",
+      "control_seconds": null,
+      "seconds_before_arrival": 95,
+      "cost": 10
+    },
+    {
+      "kind": "cast",
+      "person": "Dane",
+      "ability": "Interpose",
+      "target": "Jory",
+      "note": "",
+      "control_seconds": null,
+      "seconds_before_arrival": 90,
+      "cost": 15
+    },
+    {
+      "kind": "cast",
+      "person": "Tessa",
+      "ability": "Quickstep",
+      "target": "clear retreat path",
+      "note": "",
+      "control_seconds": null,
+      "seconds_before_arrival": 80,
+      "cost": 10
+    },
+    {
+      "kind": "cast",
+      "person": "Owen",
+      "ability": "Mend",
+      "target": "same Jory leg cut",
+      "note": "20 seconds; permanent closure completes at -50s; fracture remains.",
+      "control_seconds": null,
+      "seconds_before_arrival": 70,
+      "cost": 20
+    },
+    {
+      "kind": "cast",
+      "person": "Dane",
+      "ability": "Bulwark",
+      "target": "frontal retreat lane",
+      "note": "Interpose bonus has ended; no own multiplier stack.",
+      "control_seconds": null,
+      "seconds_before_arrival": 60,
+      "cost": 20
+    }
+  ],
+  "skill_acquisition_events": [
+    {
+      "skill": "Sovereign Ward",
+      "rank": 1,
+      "at": "Day 1 08:06:40",
+      "reason": "First successful Claim after level2; once only."
+    },
+    {
+      "skill": "Override",
+      "rank": 2,
+      "at": "Day 2 09:01:01",
+      "proof": "Current Rank1 fixture use at9m clears allied escape lane under realattack; successful physical shot at09:01:01.",
+      "practice_minutes_required": 120,
+      "minimum_level": 5
+    },
+    {
+      "skill": "Claim Room",
+      "rank": 2,
+      "at": "Day 2 12:35:30",
+      "proof": "Current Rank1 valid30sec guarded Claim completes; no hostile crosses doorway.",
+      "practice_minutes_required": 120,
+      "minimum_level": 5
+    },
+    {
+      "skill": "Sovereign Ward",
+      "rank": 2,
+      "at": "Day 4 06:20:08",
+      "proof": "Current Rank1 stationary Ward takes real impact at8sec after start,6sec after formation, after ignored feint.",
+      "practice_minutes_required": 120,
+      "minimum_level": 5
+    }
+  ],
+  "physical_room_losses": [
+    {
+      "room": "B",
+      "at": "Day 2 09:10:00",
+      "cause": "Patrol physically destroys cistern anchor."
+    },
+    {
+      "room": "C",
+      "at": "Day 3 10:25:00",
+      "cause": "Local attackers physically destroy archive anchor during failed annex retreat."
+    }
+  ],
+  "practice_totals_minutes": {
+    "Override": 120,
+    "Claim Room": 120,
+    "Sovereign Ward": 120
+  },
+  "roster": {
+    "arrival": 5,
+    "after_ch5": 7,
+    "after_ch12": 7,
+    "after_ch14": 9,
+    "escaped_ch20": 9,
+    "identities": [
+      "Kip Quillman",
+      "Tessa Ward",
+      "Owen Pike",
+      "Dane Mercer",
+      "Jory Hale",
+      "Lena Moss: rope-hauler rescued in5",
+      "Ben Holt: fungal-picker rescued in5",
+      "Eda Flint: salt-cutter seen12, rescued14",
+      "Cal Reed: adult furnace apprentice seen12, rescued14"
+    ],
+    "status": "Nine-person roster adopted by root in planning; no unlisted casualties.",
+    "unquantified_system_credit": "Jory and workers who materially contribute also qualify if awakened; their class/level are undefined. Do not invent statistics or deny them credit because noncombatants."
+  },
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "The Wrong Side of the Door",
+      "status": "planned, not manuscript established",
+      "start": "Day 1 08:00:00",
+      "end": "Day 1 08:06:00",
+      "entry": {
+        "Kip": {
+          "level": 1,
+          "xp_in_bar": 0,
+          "mana": 40,
+          "max_mana": 40,
+          "xp_to_next": 100
+        },
+        "Tessa": {
+          "level": 5,
+          "xp_in_bar": 0,
+          "mana": 35,
+          "max_mana": 60,
+          "xp_to_next": 500
+        },
+        "Owen": {
+          "level": 9,
+          "xp_in_bar": 0,
+          "mana": 50,
+          "max_mana": 80,
+          "xp_to_next": 900
+        },
+        "Dane": {
+          "level": 9,
+          "xp_in_bar": 0,
+          "mana": 45,
+          "max_mana": 80,
+          "xp_to_next": 900
+        }
+      },
+      "events": [
+        {
+          "kind": "cast",
+          "person": "Tessa",
+          "ability": "Quickstep",
+          "target": "visible clear path; never carries Jory",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 1 08:00:30",
+          "mana_before": 35,
+          "cost": 10,
+          "mana_after": 25,
+          "geometry": {
+            "path_length_m": 8,
+            "visible_traversable_physical_path": true,
+            "passes_through_creature_wall_or_restraint": false,
+            "carries_another_adult": false,
+            "crosses_otherwise_impossible_gap": false,
+            "hazard_immunity_assumed": false
+          },
+          "id": "C01E01"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Override",
+          "target": "retreat dart launcher",
+          "note": "Inspected at 8m; Tessa clears normal 25-degree firing arc.",
+          "control_seconds": 1,
+          "clock": "Day 1 08:00:45",
+          "mana_before": 40,
+          "cost": 10,
+          "mana_after": 30,
+          "geometry": {
+            "distance_m": 8,
+            "prior_sight_distance_m": 8,
+            "prior_sight_attention_seconds": 1,
+            "visible_at_start": true,
+            "available_at_start": true,
+            "within_normal_mechanical_arc": true,
+            "ready_at_start": true,
+            "target_is_constructed_fixture": true,
+            "shield_removed_physically_if_any": true
+          },
+          "outcome": "ordinary legal fixture function, no strengthened output",
+          "id": "C01E02"
+        },
+        {
+          "kind": "cast",
+          "person": "Dane",
+          "ability": "Bulwark",
+          "target": "front of litter retreat",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 1 08:01:30",
+          "mana_before": 45,
+          "cost": 20,
+          "mana_after": 25,
+          "geometry": {
+            "weapon_raised_in_right_hand": true,
+            "effect_seconds": 8,
+            "physical_attack_crosses_front": true,
+            "runs_or_attacks_during_effect": false,
+            "blocks_heat_poison_or_suffocation": false,
+            "reduced_force_still_can_hurt": true
+          },
+          "id": "C01E03"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Override",
+          "target": "retreat pivot fire vent",
+          "note": "At 7m; ordinary aiming fan; heat is offense, never Ward protection.",
+          "control_seconds": 5,
+          "clock": "Day 1 08:01:45",
+          "mana_before": 30,
+          "cost": 10,
+          "mana_after": 20,
+          "geometry": {
+            "distance_m": 7,
+            "prior_sight_distance_m": 7,
+            "prior_sight_attention_seconds": 1,
+            "visible_at_start": true,
+            "available_at_start": true,
+            "within_normal_mechanical_arc": true,
+            "ready_at_start": true,
+            "target_is_constructed_fixture": true,
+            "shield_removed_physically_if_any": true
+          },
+          "outcome": "ordinary legal fixture function, no strengthened output",
+          "id": "C01E04"
+        },
+        {
+          "kind": "cast",
+          "person": "Owen",
+          "ability": "Mend",
+          "target": "Kip 8cm-long, 0.4cm-deep forearm cut",
+          "note": "After fire and physical door closure: twenty seconds of protected contact through08:02:30. Tissue present/aligned. No seated recovery is taken.",
+          "control_seconds": null,
+          "clock": "Day 1 08:02:10",
+          "mana_before": 50,
+          "cost": 20,
+          "mana_after": 30,
+          "geometry": {
+            "wound_length_cm": 8,
+            "wound_depth_cm": 0.4,
+            "external_wound": true,
+            "tissue_present_and_aligned": true,
+            "uninterrupted_touch_seconds": 20,
+            "repairs_bone_blood_organs_or_nerves": false,
+            "protected_position_for_channel_required_in_prose": true
+          },
+          "id": "C01E05"
+        },
+        {
+          "kind": "xp",
+          "amount": 100,
+          "contributors": {
+            "Kip": "Redirects both hazards and carries litter.",
+            "Tessa": "Finds and clears escape route.",
+            "Owen": "Mends wound and moves patient.",
+            "Dane": "Holds pursuer off during retreat."
+          },
+          "clock": "Day 1 08:05:00",
+          "id": "C01E06"
+        }
+      ],
+      "exit": {
+        "Kip": {
+          "level": 2,
+          "xp_in_bar": 0,
+          "mana": 20,
+          "max_mana": 45,
+          "xp_to_next": 200
+        },
+        "Tessa": {
+          "level": 5,
+          "xp_in_bar": 100,
+          "mana": 25,
+          "max_mana": 60,
+          "xp_to_next": 500
+        },
+        "Owen": {
+          "level": 9,
+          "xp_in_bar": 100,
+          "mana": 30,
+          "max_mana": 80,
+          "xp_to_next": 900
+        },
+        "Dane": {
+          "level": 9,
+          "xp_in_bar": 100,
+          "mana": 25,
+          "max_mana": 80,
+          "xp_to_next": 900
+        }
+      },
+      "owned_rooms_after": [],
+      "practice": [],
+      "injuries": [
+        "Jory: splinted lower-leg fracture; earlier 12cm/0.5cm leg cut is closed; no walking recovery.",
+        "Kip: forearm cut closed by Owen; pain/fatigue remain."
+      ],
+      "object_custody": {},
+      "constraints": [
+        "No Mana recovery anywhere in the ongoing pursuit.",
+        "Dane/Owen/Tessa previous cooldowns expired before these new uses."
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "A Room of Their Own",
+      "status": "planned, not manuscript established",
+      "start": "Day 1 08:06:00",
+      "end": "Day 1 09:00:00",
+      "entry": {
+        "Kip": {
+          "level": 2,
+          "xp_in_bar": 0,
+          "mana": 20,
+          "max_mana": 45,
+          "xp_to_next": 200
+        },
+        "Tessa": {
+          "level": 5,
+          "xp_in_bar": 100,
+          "mana": 25,
+          "max_mana": 60,
+          "xp_to_next": 500
+        },
+        "Owen": {
+          "level": 9,
+          "xp_in_bar": 100,
+          "mana": 30,
+          "max_mana": 80,
+          "xp_to_next": 900
+        },
+        "Dane": {
+          "level": 9,
+          "xp_in_bar": 100,
+          "mana": 25,
+          "max_mana": 80,
+          "xp_to_next": 900
+        }
+      },
+      "events": [
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Claim Room",
+          "target": "A: service chamber anchor",
+          "note": "Cleared chamber 12m across; seal absent; all hostiles out; touch uninterrupted to 08:06:40.",
+          "control_seconds": null,
+          "clock": "Day 1 08:06:10",
+          "mana_before": 20,
+          "cost": 20,
+          "mana_after": 0,
+          "geometry": {
+            "enclosed_room_max_width_m": 12,
+            "intact_anchor": true,
+            "guardian_defeated_or_none_assigned": true,
+            "protective_seal_removed_or_absent": true,
+            "living_hostiles_inside_at_start": 0,
+            "boss_chamber": false
+          },
+          "channel_seconds": 30,
+          "outcome": "success after uninterrupted30seconds",
+          "id": "C02E01"
+        },
+        {
+          "kind": "rest",
+          "person": "Kip",
+          "completed_minutes": 3,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 1 08:06:50",
+          "mana_before": 0,
+          "ends": "Day 1 08:09:50",
+          "mana_after": 15,
+          "id": "C02E02"
+        },
+        {
+          "kind": "rest",
+          "person": "Tessa",
+          "completed_minutes": 7,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 1 08:06:50",
+          "mana_before": 25,
+          "ends": "Day 1 08:13:50",
+          "mana_after": 60,
+          "id": "C02E03"
+        },
+        {
+          "kind": "rest",
+          "person": "Owen",
+          "completed_minutes": 10,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 1 08:06:50",
+          "mana_before": 30,
+          "ends": "Day 1 08:16:50",
+          "mana_after": 80,
+          "id": "C02E04"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Sovereign Ward",
+          "target": "clear floor facing cloth-weight test",
+          "note": "First Claim grants ability only after valid claim; two-second setup, bundle crosses front.",
+          "control_seconds": null,
+          "clock": "Day 1 08:10:00",
+          "mana_before": 15,
+          "cost": 15,
+          "mana_after": 0,
+          "setup_seconds": 2,
+          "physical_impact_seconds_after_start": 8,
+          "geometry": {
+            "clear_ground": true,
+            "within_3m": true,
+            "upright_2m_square": true,
+            "stationary": true,
+            "physical_impact_crosses_front": true,
+            "blocks_heat_or_water": false
+          },
+          "id": "C02E05"
+        },
+        {
+          "kind": "rest",
+          "person": "Kip",
+          "completed_minutes": 9,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 1 08:11:00",
+          "mana_before": 0,
+          "ends": "Day 1 08:20:00",
+          "mana_after": 45,
+          "id": "C02E06"
+        },
+        {
+          "kind": "rest",
+          "person": "Dane",
+          "completed_minutes": 11,
+          "note": "Tessa now watches while Dane sits; no immediate attack.",
+          "clock": "Day 1 08:18:00",
+          "mana_before": 25,
+          "ends": "Day 1 08:29:00",
+          "mana_after": 80,
+          "id": "C02E07"
+        }
+      ],
+      "exit": {
+        "Kip": {
+          "level": 2,
+          "xp_in_bar": 0,
+          "mana": 45,
+          "max_mana": 45,
+          "xp_to_next": 200
+        },
+        "Tessa": {
+          "level": 5,
+          "xp_in_bar": 100,
+          "mana": 60,
+          "max_mana": 60,
+          "xp_to_next": 500
+        },
+        "Owen": {
+          "level": 9,
+          "xp_in_bar": 100,
+          "mana": 80,
+          "max_mana": 80,
+          "xp_to_next": 900
+        },
+        "Dane": {
+          "level": 9,
+          "xp_in_bar": 100,
+          "mana": 80,
+          "max_mana": 80,
+          "xp_to_next": 900
+        }
+      },
+      "owned_rooms_after": [
+        "A"
+      ],
+      "practice": [],
+      "injuries": [],
+      "object_custody": {},
+      "constraints": [
+        "No XP for the claim or harmless test.",
+        "Claim alerts Ravel to room A loss, not private identity or rarity.",
+        "Food/water from expedition carry stores; no created supplies."
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "What Healing Leaves Behind",
+      "status": "planned, not manuscript established",
+      "start": "Day 1 09:00:00",
+      "end": "Day 1 10:00:00",
+      "entry": {
+        "Kip": {
+          "level": 2,
+          "xp_in_bar": 0,
+          "mana": 45,
+          "max_mana": 45,
+          "xp_to_next": 200
+        },
+        "Tessa": {
+          "level": 5,
+          "xp_in_bar": 100,
+          "mana": 60,
+          "max_mana": 60,
+          "xp_to_next": 500
+        },
+        "Owen": {
+          "level": 9,
+          "xp_in_bar": 100,
+          "mana": 80,
+          "max_mana": 80,
+          "xp_to_next": 900
+        },
+        "Dane": {
+          "level": 9,
+          "xp_in_bar": 100,
+          "mana": 80,
+          "max_mana": 80,
+          "xp_to_next": 900
+        }
+      },
+      "events": [
+        {
+          "kind": "cast",
+          "person": "Tessa",
+          "ability": "Trail Sight",
+          "target": "fresh physical tracks toward main passage",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 1 09:10:00",
+          "mana_before": 60,
+          "cost": 15,
+          "mana_after": 45,
+          "geometry": {
+            "physical_track_inspected": true,
+            "oldest_trace_minutes": 60,
+            "radius_m": 25,
+            "trace_visible_line_of_sight": true,
+            "reveals_current_person_location_or_mind": false
+          },
+          "id": "C03E01"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Sovereign Ward",
+          "target": "clear ground facing downhill debris",
+          "note": "Two seconds setup; rolling stone crosses upright front within ten seconds; half force still hazardous.",
+          "control_seconds": null,
+          "clock": "Day 1 09:30:00",
+          "mana_before": 45,
+          "cost": 15,
+          "mana_after": 30,
+          "setup_seconds": 2,
+          "physical_impact_seconds_after_start": 8,
+          "geometry": {
+            "clear_ground": true,
+            "within_3m": true,
+            "upright_2m_square": true,
+            "stationary": true,
+            "physical_impact_crosses_front": true,
+            "blocks_heat_or_water": false
+          },
+          "id": "C03E02"
+        },
+        {
+          "kind": "cast",
+          "person": "Dane",
+          "ability": "Interpose",
+          "target": "litter on visible clear 6m path",
+          "note": " Separate small rock parried at09:30:04; the larger rolling stone reaches Ward at09:30:08.",
+          "control_seconds": null,
+          "clock": "Day 1 09:30:03",
+          "mana_before": 80,
+          "cost": 15,
+          "mana_after": 65,
+          "geometry": {
+            "path_length_m": 6,
+            "visible_ally": true,
+            "clear_physical_path": true,
+            "functional_weapon_in_right_hand": true,
+            "uses_enhanced_block": true,
+            "block_seconds_after_activation": 1,
+            "parryable_physical_attack": true,
+            "all_direction_protection_assumed": false
+          },
+          "id": "C03E03"
+        },
+        {
+          "kind": "cast",
+          "person": "Owen",
+          "ability": "Staunch",
+          "target": "Jory new 12cm/0.5cm forearm cut",
+          "note": "Five seconds contact; seal ends 10:25:05 unless strain breaks it; next chapter Mend before expiry.",
+          "control_seconds": null,
+          "clock": "Day 1 09:45:00",
+          "mana_before": 80,
+          "cost": 10,
+          "mana_after": 70,
+          "geometry": {
+            "wound_length_cm": 12,
+            "wound_depth_cm": 0.5,
+            "external_wound": true,
+            "tissue_present_and_aligned": true,
+            "uninterrupted_touch_seconds": 5,
+            "repairs_bone_blood_organs_or_nerves": false,
+            "protected_position_for_channel_required_in_prose": true
+          },
+          "id": "C03E04"
+        },
+        {
+          "kind": "xp",
+          "amount": 100,
+          "contributors": {
+            "Kip": "Places Ward and helps move litter.",
+            "Tessa": "Finds passable route and marks hazard.",
+            "Owen": "Stabilizes fresh injury and directs patient movement.",
+            "Dane": "Intercepts debris threatening litter."
+          },
+          "clock": "Day 1 09:55:00",
+          "id": "C03E05"
+        }
+      ],
+      "exit": {
+        "Kip": {
+          "level": 2,
+          "xp_in_bar": 100,
+          "mana": 30,
+          "max_mana": 45,
+          "xp_to_next": 200
+        },
+        "Tessa": {
+          "level": 5,
+          "xp_in_bar": 200,
+          "mana": 45,
+          "max_mana": 60,
+          "xp_to_next": 500
+        },
+        "Owen": {
+          "level": 9,
+          "xp_in_bar": 200,
+          "mana": 70,
+          "max_mana": 80,
+          "xp_to_next": 900
+        },
+        "Dane": {
+          "level": 9,
+          "xp_in_bar": 200,
+          "mana": 65,
+          "max_mana": 80,
+          "xp_to_next": 900
+        }
+      },
+      "owned_rooms_after": [
+        "A"
+      ],
+      "practice": [],
+      "injuries": [
+        "Jory forearm wound sealed until 10:25:05, with careful handling and dressing."
+      ],
+      "object_custody": {},
+      "constraints": [
+        "Upright Ward cannot catch a vertically falling ceiling slab."
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "The Gate That Stayed Shut",
+      "status": "planned, not manuscript established",
+      "start": "Day 1 10:00:00",
+      "end": "Day 1 11:00:00",
+      "entry": {
+        "Kip": {
+          "level": 2,
+          "xp_in_bar": 100,
+          "mana": 30,
+          "max_mana": 45,
+          "xp_to_next": 200
+        },
+        "Tessa": {
+          "level": 5,
+          "xp_in_bar": 200,
+          "mana": 45,
+          "max_mana": 60,
+          "xp_to_next": 500
+        },
+        "Owen": {
+          "level": 9,
+          "xp_in_bar": 200,
+          "mana": 70,
+          "max_mana": 80,
+          "xp_to_next": 900
+        },
+        "Dane": {
+          "level": 9,
+          "xp_in_bar": 200,
+          "mana": 65,
+          "max_mana": 80,
+          "xp_to_next": 900
+        }
+      },
+      "events": [
+        {
+          "kind": "cast",
+          "person": "Owen",
+          "ability": "Mend",
+          "target": "Jory sealed forearm cut",
+          "note": "Repairs eligible shallow tissue before Staunch expires; fracture remains.",
+          "control_seconds": null,
+          "clock": "Day 1 10:05:00",
+          "mana_before": 70,
+          "cost": 20,
+          "mana_after": 50,
+          "geometry": {
+            "wound_length_cm": 12,
+            "wound_depth_cm": 0.5,
+            "external_wound": true,
+            "tissue_present_and_aligned": true,
+            "uninterrupted_touch_seconds": 20,
+            "repairs_bone_blood_organs_or_nerves": false,
+            "protected_position_for_channel_required_in_prose": true
+          },
+          "id": "C04E01"
+        },
+        {
+          "kind": "cast",
+          "person": "Tessa",
+          "ability": "Trail Sight",
+          "target": "fresh guard traces",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 1 10:10:00",
+          "mana_before": 45,
+          "cost": 15,
+          "mana_after": 30,
+          "geometry": {
+            "physical_track_inspected": true,
+            "oldest_trace_minutes": 60,
+            "radius_m": 25,
+            "trace_visible_line_of_sight": true,
+            "reveals_current_person_location_or_mind": false
+          },
+          "id": "C04E02"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Override",
+          "target": "gate-gallery rotating dart launcher",
+          "note": "Available launcher suppression only five seconds; separate gate brake remains Shielded.",
+          "control_seconds": 5,
+          "clock": "Day 1 10:15:00",
+          "mana_before": 30,
+          "cost": 10,
+          "mana_after": 20,
+          "geometry": {
+            "distance_m": 10,
+            "prior_sight_distance_m": 10,
+            "prior_sight_attention_seconds": 1,
+            "visible_at_start": true,
+            "available_at_start": true,
+            "within_normal_mechanical_arc": true,
+            "ready_at_start": true,
+            "target_is_constructed_fixture": true,
+            "shield_removed_physically_if_any": true
+          },
+          "outcome": "ordinary legal fixture function, no strengthened output",
+          "id": "C04E03"
+        },
+        {
+          "kind": "cast",
+          "person": "Tessa",
+          "ability": "Quickstep",
+          "target": "open retreat path",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 1 10:15:02",
+          "mana_before": 30,
+          "cost": 10,
+          "mana_after": 20,
+          "geometry": {
+            "path_length_m": 8,
+            "visible_traversable_physical_path": true,
+            "passes_through_creature_wall_or_restraint": false,
+            "carries_another_adult": false,
+            "crosses_otherwise_impossible_gap": false,
+            "hazard_immunity_assumed": false
+          },
+          "id": "C04E04"
+        },
+        {
+          "kind": "cast",
+          "person": "Dane",
+          "ability": "Bulwark",
+          "target": "frontal withdrawal",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 1 10:15:05",
+          "mana_before": 65,
+          "cost": 20,
+          "mana_after": 45,
+          "geometry": {
+            "weapon_raised_in_right_hand": true,
+            "effect_seconds": 8,
+            "physical_attack_crosses_front": true,
+            "runs_or_attacks_during_effect": false,
+            "blocks_heat_poison_or_suffocation": false,
+            "reduced_force_still_can_hurt": true
+          },
+          "id": "C04E05"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Sovereign Ward",
+          "target": "physical barb lane",
+          "note": "Setup complete before barb arrives; no heat/water protection.",
+          "control_seconds": null,
+          "clock": "Day 1 10:15:15",
+          "mana_before": 20,
+          "cost": 15,
+          "mana_after": 5,
+          "setup_seconds": 2,
+          "physical_impact_seconds_after_start": 8,
+          "geometry": {
+            "clear_ground": true,
+            "within_3m": true,
+            "upright_2m_square": true,
+            "stationary": true,
+            "physical_impact_crosses_front": true,
+            "blocks_heat_or_water": false
+          },
+          "id": "C04E06"
+        },
+        {
+          "kind": "xp",
+          "amount": 300,
+          "contributors": {
+            "Kip": "Controls launcher and covers withdrawal.",
+            "Tessa": "Scouts defense and secures escape lane.",
+            "Owen": "Treats wound essential to safe movement and maintains litter.",
+            "Dane": "Holds attacking guards during retreat."
+          },
+          "clock": "Day 1 10:25:00",
+          "id": "C04E07"
+        },
+        {
+          "kind": "rest",
+          "person": "Kip",
+          "completed_minutes": 9,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 1 10:35:00",
+          "mana_before": 5,
+          "ends": "Day 1 10:44:00",
+          "mana_after": 50,
+          "id": "C04E08"
+        },
+        {
+          "kind": "rest",
+          "person": "Tessa",
+          "completed_minutes": 9,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 1 10:35:00",
+          "mana_before": 20,
+          "ends": "Day 1 10:44:00",
+          "mana_after": 65,
+          "id": "C04E09"
+        },
+        {
+          "kind": "rest",
+          "person": "Owen",
+          "completed_minutes": 6,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 1 10:35:00",
+          "mana_before": 50,
+          "ends": "Day 1 10:41:00",
+          "mana_after": 80,
+          "id": "C04E10"
+        },
+        {
+          "kind": "rest",
+          "person": "Dane",
+          "completed_minutes": 7,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 1 10:45:00",
+          "mana_before": 45,
+          "ends": "Day 1 10:52:00",
+          "mana_after": 80,
+          "id": "C04E11"
+        }
+      ],
+      "exit": {
+        "Kip": {
+          "level": 3,
+          "xp_in_bar": 200,
+          "mana": 50,
+          "max_mana": 50,
+          "xp_to_next": 300
+        },
+        "Tessa": {
+          "level": 6,
+          "xp_in_bar": 0,
+          "mana": 65,
+          "max_mana": 65,
+          "xp_to_next": 600
+        },
+        "Owen": {
+          "level": 9,
+          "xp_in_bar": 500,
+          "mana": 80,
+          "max_mana": 80,
+          "xp_to_next": 900
+        },
+        "Dane": {
+          "level": 9,
+          "xp_in_bar": 500,
+          "mana": 80,
+          "max_mana": 80,
+          "xp_to_next": 900
+        }
+      },
+      "owned_rooms_after": [
+        "A"
+      ],
+      "practice": [],
+      "injuries": [],
+      "object_custody": {},
+      "constraints": [
+        "Secluded defensible side chamber physically secured before recovery; Tessa/Owen watch while Dane rests.",
+        "Braked gate cannot be Overridden through its visible rune protection."
+      ]
+    },
+    {
+      "chapter": 5,
+      "title": "Water Runs Down",
+      "status": "planned, not manuscript established",
+      "start": "Day 1 11:00:00",
+      "end": "Day 1 14:00:00",
+      "entry": {
+        "Kip": {
+          "level": 3,
+          "xp_in_bar": 200,
+          "mana": 50,
+          "max_mana": 50,
+          "xp_to_next": 300
+        },
+        "Tessa": {
+          "level": 6,
+          "xp_in_bar": 0,
+          "mana": 65,
+          "max_mana": 65,
+          "xp_to_next": 600
+        },
+        "Owen": {
+          "level": 9,
+          "xp_in_bar": 500,
+          "mana": 80,
+          "max_mana": 80,
+          "xp_to_next": 900
+        },
+        "Dane": {
+          "level": 9,
+          "xp_in_bar": 500,
+          "mana": 80,
+          "max_mana": 80,
+          "xp_to_next": 900
+        }
+      },
+      "events": [
+        {
+          "kind": "cast",
+          "person": "Tessa",
+          "ability": "Trail Sight",
+          "target": "fresh grazer trail",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 1 11:30:00",
+          "mana_before": 65,
+          "cost": 15,
+          "mana_after": 50,
+          "geometry": {
+            "physical_track_inspected": true,
+            "oldest_trace_minutes": 60,
+            "radius_m": 25,
+            "trace_visible_line_of_sight": true,
+            "reveals_current_person_location_or_mind": false
+          },
+          "id": "C05E01"
+        },
+        {
+          "kind": "cast",
+          "person": "Tessa",
+          "ability": "Quickstep",
+          "target": "visible safe path",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 1 11:45:00",
+          "mana_before": 50,
+          "cost": 10,
+          "mana_after": 40,
+          "geometry": {
+            "path_length_m": 8,
+            "visible_traversable_physical_path": true,
+            "passes_through_creature_wall_or_restraint": false,
+            "carries_another_adult": false,
+            "crosses_otherwise_impossible_gap": false,
+            "hazard_immunity_assumed": false
+          },
+          "id": "C05E02"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Sovereign Ward",
+          "target": "physical predator lunge lane",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 1 12:00:00",
+          "mana_before": 50,
+          "cost": 15,
+          "mana_after": 35,
+          "setup_seconds": 2,
+          "physical_impact_seconds_after_start": 8,
+          "geometry": {
+            "clear_ground": true,
+            "within_3m": true,
+            "upright_2m_square": true,
+            "stationary": true,
+            "physical_impact_crosses_front": true,
+            "blocks_heat_or_water": false
+          },
+          "id": "C05E03"
+        },
+        {
+          "kind": "cast",
+          "person": "Dane",
+          "ability": "Interpose",
+          "target": "stranded worker within 8m",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 1 12:00:03",
+          "mana_before": 80,
+          "cost": 15,
+          "mana_after": 65,
+          "geometry": {
+            "path_length_m": 6,
+            "visible_ally": true,
+            "clear_physical_path": true,
+            "functional_weapon_in_right_hand": true,
+            "uses_enhanced_block": true,
+            "block_seconds_after_activation": 2,
+            "parryable_physical_attack": true,
+            "all_direction_protection_assumed": false
+          },
+          "id": "C05E04"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Override",
+          "target": "garden-exit portcullis",
+          "note": "Ready existing defensive gate; hold closed five seconds during last worker extraction; ordinary master control resumes afterward.",
+          "control_seconds": 5,
+          "clock": "Day 1 12:01:00",
+          "mana_before": 35,
+          "cost": 10,
+          "mana_after": 25,
+          "geometry": {
+            "distance_m": 6,
+            "prior_sight_distance_m": 6,
+            "prior_sight_attention_seconds": 1,
+            "visible_at_start": true,
+            "available_at_start": true,
+            "within_normal_mechanical_arc": true,
+            "ready_at_start": true,
+            "target_is_constructed_fixture": true,
+            "shield_removed_physically_if_any": true
+          },
+          "outcome": "ordinary legal fixture function, no strengthened output",
+          "id": "C05E05"
+        },
+        {
+          "kind": "cast",
+          "person": "Owen",
+          "ability": "Mend",
+          "target": "rope-hauler 10cm/0.5cm shoulder cut",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 1 12:05:00",
+          "mana_before": 80,
+          "cost": 20,
+          "mana_after": 60,
+          "geometry": {
+            "wound_length_cm": 10,
+            "wound_depth_cm": 0.5,
+            "external_wound": true,
+            "tissue_present_and_aligned": true,
+            "uninterrupted_touch_seconds": 20,
+            "repairs_bone_blood_organs_or_nerves": false,
+            "protected_position_for_channel_required_in_prose": true
+          },
+          "id": "C05E06"
+        },
+        {
+          "kind": "xp",
+          "amount": 300,
+          "contributors": {
+            "Kip": "Coordinates exit and deflects lunge.",
+            "Tessa": "Finds safe path through nesting territory.",
+            "Owen": "Repairs injured worker and organizes extraction.",
+            "Dane": "Reaches separated worker and protects retreat."
+          },
+          "clock": "Day 1 12:15:00",
+          "id": "C05E07"
+        },
+        {
+          "kind": "rest",
+          "person": "Kip",
+          "completed_minutes": 6,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 1 13:00:00",
+          "mana_before": 25,
+          "ends": "Day 1 13:06:00",
+          "mana_after": 55,
+          "id": "C05E08"
+        },
+        {
+          "kind": "rest",
+          "person": "Tessa",
+          "completed_minutes": 5,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 1 13:00:00",
+          "mana_before": 40,
+          "ends": "Day 1 13:05:00",
+          "mana_after": 65,
+          "id": "C05E09"
+        },
+        {
+          "kind": "rest",
+          "person": "Owen",
+          "completed_minutes": 4,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 1 13:00:00",
+          "mana_before": 60,
+          "ends": "Day 1 13:04:00",
+          "mana_after": 80,
+          "id": "C05E10"
+        },
+        {
+          "kind": "rest",
+          "person": "Dane",
+          "completed_minutes": 3,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 1 13:00:00",
+          "mana_before": 65,
+          "ends": "Day 1 13:03:00",
+          "mana_after": 80,
+          "id": "C05E11"
+        }
+      ],
+      "exit": {
+        "Kip": {
+          "level": 4,
+          "xp_in_bar": 200,
+          "mana": 55,
+          "max_mana": 55,
+          "xp_to_next": 400
+        },
+        "Tessa": {
+          "level": 6,
+          "xp_in_bar": 300,
+          "mana": 65,
+          "max_mana": 65,
+          "xp_to_next": 600
+        },
+        "Owen": {
+          "level": 9,
+          "xp_in_bar": 800,
+          "mana": 80,
+          "max_mana": 80,
+          "xp_to_next": 900
+        },
+        "Dane": {
+          "level": 9,
+          "xp_in_bar": 800,
+          "mana": 80,
+          "max_mana": 80,
+          "xp_to_next": 900
+        }
+      },
+      "owned_rooms_after": [
+        "A"
+      ],
+      "practice": [],
+      "injuries": [],
+      "object_custody": {},
+      "constraints": [
+        "Two stranded expedition workers join the five; planned traveling group now seven.",
+        "Predator need not be killed; danger is escape from nesting territory.",
+        "Short rests occur beyond predator territory with recovered workers on watch, not during pursuit."
+      ]
+    },
+    {
+      "chapter": 6,
+      "title": "The Price of a Better Shelter",
+      "status": "planned, not manuscript established",
+      "start": "Day 1 14:00:00",
+      "end": "Day 1 16:00:00",
+      "entry": {
+        "Kip": {
+          "level": 4,
+          "xp_in_bar": 200,
+          "mana": 55,
+          "max_mana": 55,
+          "xp_to_next": 400
+        },
+        "Tessa": {
+          "level": 6,
+          "xp_in_bar": 300,
+          "mana": 65,
+          "max_mana": 65,
+          "xp_to_next": 600
+        },
+        "Owen": {
+          "level": 9,
+          "xp_in_bar": 800,
+          "mana": 80,
+          "max_mana": 80,
+          "xp_to_next": 900
+        },
+        "Dane": {
+          "level": 9,
+          "xp_in_bar": 800,
+          "mana": 80,
+          "max_mana": 80,
+          "xp_to_next": 900
+        }
+      },
+      "events": [
+        {
+          "kind": "cast",
+          "person": "Tessa",
+          "ability": "Quickstep",
+          "target": "clear shore path to physical protective rune",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 1 14:20:00",
+          "mana_before": 65,
+          "cost": 10,
+          "mana_after": 55,
+          "geometry": {
+            "path_length_m": 8,
+            "visible_traversable_physical_path": true,
+            "passes_through_creature_wall_or_restraint": false,
+            "carries_another_adult": false,
+            "crosses_otherwise_impossible_gap": false,
+            "hazard_immunity_assumed": false
+          },
+          "id": "C06E01"
+        },
+        {
+          "kind": "cast",
+          "person": "Dane",
+          "ability": "Bulwark",
+          "target": "guardian charge lane",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 1 14:20:05",
+          "mana_before": 80,
+          "cost": 20,
+          "mana_after": 60,
+          "geometry": {
+            "weapon_raised_in_right_hand": true,
+            "effect_seconds": 8,
+            "physical_attack_crosses_front": true,
+            "runs_or_attacks_during_effect": false,
+            "blocks_heat_poison_or_suffocation": false,
+            "reduced_force_still_can_hurt": true
+          },
+          "id": "C06E02"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Override",
+          "target": "cistern defense waterjet",
+          "note": "Shield physically removed; within10m, normal aiming arc; physical jet redirects mineral-feeder.",
+          "control_seconds": 5,
+          "clock": "Day 1 14:20:07",
+          "mana_before": 55,
+          "cost": 10,
+          "mana_after": 45,
+          "geometry": {
+            "distance_m": 9,
+            "prior_sight_distance_m": 9,
+            "prior_sight_attention_seconds": 1,
+            "visible_at_start": true,
+            "available_at_start": true,
+            "within_normal_mechanical_arc": true,
+            "ready_at_start": true,
+            "target_is_constructed_fixture": true,
+            "shield_removed_physically_if_any": true
+          },
+          "outcome": "ordinary legal fixture function, no strengthened output",
+          "id": "C06E03"
+        },
+        {
+          "kind": "xp",
+          "amount": 300,
+          "contributors": {
+            "Kip": "Redirects guardian and helps secure water access.",
+            "Tessa": "Exposes rune and scouts shore.",
+            "Owen": "Directs safe litter movement over the shore and physically supports Jory during the guardian encounter.",
+            "Dane": "Defends patients from guardian."
+          },
+          "clock": "Day 1 14:30:00",
+          "id": "C06E04"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Claim Room",
+          "target": "B: cistern anchor",
+          "note": "Guardian defeated; seal gone; all hostiles out; 18m enclosed chamber; success releases A.",
+          "control_seconds": null,
+          "clock": "Day 1 14:35:00",
+          "mana_before": 45,
+          "cost": 20,
+          "mana_after": 25,
+          "geometry": {
+            "enclosed_room_max_width_m": 18,
+            "intact_anchor": true,
+            "guardian_defeated_or_none_assigned": true,
+            "protective_seal_removed_or_absent": true,
+            "living_hostiles_inside_at_start": 0,
+            "boss_chamber": false
+          },
+          "channel_seconds": 30,
+          "outcome": "success after uninterrupted30seconds",
+          "id": "C06E05"
+        },
+        {
+          "kind": "rest",
+          "person": "Kip",
+          "completed_minutes": 7,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 1 15:00:00",
+          "mana_before": 25,
+          "ends": "Day 1 15:07:00",
+          "mana_after": 60,
+          "id": "C06E06"
+        },
+        {
+          "kind": "rest",
+          "person": "Tessa",
+          "completed_minutes": 3,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 1 15:00:00",
+          "mana_before": 55,
+          "ends": "Day 1 15:03:00",
+          "mana_after": 70,
+          "id": "C06E07"
+        },
+        {
+          "kind": "rest",
+          "person": "Owen",
+          "completed_minutes": 1,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 1 15:00:00",
+          "mana_before": 80,
+          "ends": "Day 1 15:01:00",
+          "mana_after": 85,
+          "id": "C06E08"
+        },
+        {
+          "kind": "rest",
+          "person": "Dane",
+          "completed_minutes": 5,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 1 15:00:00",
+          "mana_before": 60,
+          "ends": "Day 1 15:05:00",
+          "mana_after": 85,
+          "id": "C06E09"
+        }
+      ],
+      "exit": {
+        "Kip": {
+          "level": 5,
+          "xp_in_bar": 100,
+          "mana": 60,
+          "max_mana": 60,
+          "xp_to_next": 500
+        },
+        "Tessa": {
+          "level": 7,
+          "xp_in_bar": 0,
+          "mana": 70,
+          "max_mana": 70,
+          "xp_to_next": 700
+        },
+        "Owen": {
+          "level": 10,
+          "xp_in_bar": 200,
+          "mana": 85,
+          "max_mana": 85,
+          "xp_to_next": 1000
+        },
+        "Dane": {
+          "level": 10,
+          "xp_in_bar": 200,
+          "mana": 85,
+          "max_mana": 85,
+          "xp_to_next": 1000
+        }
+      },
+      "owned_rooms_after": [
+        "B"
+      ],
+      "practice": [],
+      "injuries": [],
+      "object_custody": {},
+      "constraints": [
+        "New maximum does not refill anyone: Owen/Dane reach10 but retain current Mana before rest.",
+        "Owen/Dane receive trial availability only; no trial completed or new power selected.",
+        "Food recovered from established expedition cache, water collected at cistern; show finite carry stores.",
+        "There is no invented calf injury or healing expenditure in this encounter."
+      ]
+    },
+    {
+      "chapter": 7,
+      "title": "Learning Where to Stand",
+      "status": "planned, not manuscript established",
+      "start": "Day 1 16:00:00",
+      "end": "Day 2 09:00:00",
+      "entry": {
+        "Kip": {
+          "level": 5,
+          "xp_in_bar": 100,
+          "mana": 60,
+          "max_mana": 60,
+          "xp_to_next": 500
+        },
+        "Tessa": {
+          "level": 7,
+          "xp_in_bar": 0,
+          "mana": 70,
+          "max_mana": 70,
+          "xp_to_next": 700
+        },
+        "Owen": {
+          "level": 10,
+          "xp_in_bar": 200,
+          "mana": 85,
+          "max_mana": 85,
+          "xp_to_next": 1000
+        },
+        "Dane": {
+          "level": 10,
+          "xp_in_bar": 200,
+          "mana": 85,
+          "max_mana": 85,
+          "xp_to_next": 1000
+        }
+      },
+      "events": [
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Override",
+          "target": "cistern training waterjet",
+          "note": "Ordinary fixed-output aiming control into a physically safe empty catch within its normal arc; no invented low-power setting and no XP.",
+          "control_seconds": 5,
+          "clock": "Day 1 16:10:00",
+          "mana_before": 60,
+          "cost": 10,
+          "mana_after": 50,
+          "geometry": {
+            "distance_m": 6,
+            "prior_sight_distance_m": 6,
+            "prior_sight_attention_seconds": 1,
+            "visible_at_start": true,
+            "available_at_start": true,
+            "within_normal_mechanical_arc": true,
+            "ready_at_start": true,
+            "target_is_constructed_fixture": true,
+            "shield_removed_physically_if_any": true
+          },
+          "outcome": "ordinary legal fixture function, no strengthened output",
+          "id": "C07E01"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Override",
+          "target": "cistern training waterjet",
+          "note": "Ordinary fixed-output aiming control into a physically safe empty catch within its normal arc; no invented low-power setting and no XP.",
+          "control_seconds": 5,
+          "clock": "Day 1 16:30:00",
+          "mana_before": 50,
+          "cost": 10,
+          "mana_after": 40,
+          "geometry": {
+            "distance_m": 6,
+            "prior_sight_distance_m": 6,
+            "prior_sight_attention_seconds": 1,
+            "visible_at_start": true,
+            "available_at_start": true,
+            "within_normal_mechanical_arc": true,
+            "ready_at_start": true,
+            "target_is_constructed_fixture": true,
+            "shield_removed_physically_if_any": true
+          },
+          "outcome": "ordinary legal fixture function, no strengthened output",
+          "id": "C07E02"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Override",
+          "target": "cistern training waterjet",
+          "note": "Ordinary fixed-output aiming control into a physically safe empty catch within its normal arc; no invented low-power setting and no XP.",
+          "control_seconds": 5,
+          "clock": "Day 1 16:50:00",
+          "mana_before": 40,
+          "cost": 10,
+          "mana_after": 30,
+          "geometry": {
+            "distance_m": 6,
+            "prior_sight_distance_m": 6,
+            "prior_sight_attention_seconds": 1,
+            "visible_at_start": true,
+            "available_at_start": true,
+            "within_normal_mechanical_arc": true,
+            "ready_at_start": true,
+            "target_is_constructed_fixture": true,
+            "shield_removed_physically_if_any": true
+          },
+          "outcome": "ordinary legal fixture function, no strengthened output",
+          "id": "C07E03"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Override",
+          "target": "cistern training waterjet",
+          "note": "Ordinary fixed-output aiming control into a physically safe empty catch within its normal arc; no invented low-power setting and no XP.",
+          "control_seconds": 5,
+          "clock": "Day 1 17:10:00",
+          "mana_before": 30,
+          "cost": 10,
+          "mana_after": 20,
+          "geometry": {
+            "distance_m": 6,
+            "prior_sight_distance_m": 6,
+            "prior_sight_attention_seconds": 1,
+            "visible_at_start": true,
+            "available_at_start": true,
+            "within_normal_mechanical_arc": true,
+            "ready_at_start": true,
+            "target_is_constructed_fixture": true,
+            "shield_removed_physically_if_any": true
+          },
+          "outcome": "ordinary legal fixture function, no strengthened output",
+          "id": "C07E04"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Override",
+          "target": "cistern training waterjet",
+          "note": "Ordinary fixed-output aiming control into a physically safe empty catch within its normal arc; no invented low-power setting and no XP.",
+          "control_seconds": 5,
+          "clock": "Day 1 17:30:00",
+          "mana_before": 20,
+          "cost": 10,
+          "mana_after": 10,
+          "geometry": {
+            "distance_m": 6,
+            "prior_sight_distance_m": 6,
+            "prior_sight_attention_seconds": 1,
+            "visible_at_start": true,
+            "available_at_start": true,
+            "within_normal_mechanical_arc": true,
+            "ready_at_start": true,
+            "target_is_constructed_fixture": true,
+            "shield_removed_physically_if_any": true
+          },
+          "outcome": "ordinary legal fixture function, no strengthened output",
+          "id": "C07E05"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Override",
+          "target": "cistern training waterjet",
+          "note": "Ordinary fixed-output aiming control into a physically safe empty catch within its normal arc; no invented low-power setting and no XP.",
+          "control_seconds": 5,
+          "clock": "Day 1 17:50:00",
+          "mana_before": 10,
+          "cost": 10,
+          "mana_after": 0,
+          "geometry": {
+            "distance_m": 6,
+            "prior_sight_distance_m": 6,
+            "prior_sight_attention_seconds": 1,
+            "visible_at_start": true,
+            "available_at_start": true,
+            "within_normal_mechanical_arc": true,
+            "ready_at_start": true,
+            "target_is_constructed_fixture": true,
+            "shield_removed_physically_if_any": true
+          },
+          "outcome": "ordinary legal fixture function, no strengthened output",
+          "id": "C07E06"
+        },
+        {
+          "kind": "rest",
+          "person": "Kip",
+          "completed_minutes": 12,
+          "note": "Dedicated quiet recovery interval excluded from focused training time; Tessa holds watch.",
+          "clock": "Day 1 18:00:00",
+          "mana_before": 0,
+          "ends": "Day 1 18:12:00",
+          "mana_after": 60,
+          "id": "C07E07"
+        }
+      ],
+      "exit": {
+        "Kip": {
+          "level": 5,
+          "xp_in_bar": 100,
+          "mana": 60,
+          "max_mana": 60,
+          "xp_to_next": 500
+        },
+        "Tessa": {
+          "level": 7,
+          "xp_in_bar": 0,
+          "mana": 70,
+          "max_mana": 70,
+          "xp_to_next": 700
+        },
+        "Owen": {
+          "level": 10,
+          "xp_in_bar": 200,
+          "mana": 85,
+          "max_mana": 85,
+          "xp_to_next": 1000
+        },
+        "Dane": {
+          "level": 10,
+          "xp_in_bar": 200,
+          "mana": 85,
+          "max_mana": 85,
+          "xp_to_next": 1000
+        }
+      },
+      "owned_rooms_after": [
+        "B"
+      ],
+      "practice": [
+        {
+          "skill": "Override",
+          "minutes": 120,
+          "start": "Day1 16:00",
+          "end": "Day1 18:00",
+          "method": "Six valid casts plus skill-specific target reading, angle/distance judgments, concentration and ally-lane drills; no rest credited inside this block.",
+          "cumulative_minutes": 120
+        },
+        {
+          "skill": "Claim Room",
+          "minutes": 120,
+          "start": "Day1 18:12",
+          "end": "Day1 20:12",
+          "method": "Directed contact and concentration at the already-owned intact cistern anchor, with controlled distractions and doorway coordination. Does not issue a new Claim, alter ownership or spend Mana.",
+          "cumulative_minutes": 120
+        }
+      ],
+      "injuries": [],
+      "object_custody": {},
+      "constraints": [
+        "Override proof announced before attack: use current10m version under genuine pressure while keeping ally lane clear.",
+        "Claim proof announced: valid30-second claim while allies defend doorway, no hostile enters.",
+        "No XP or automatic ranks from drills.",
+        "Food and conversation follow practice; Kip sleepsDay1 22:00–Day2 05:30. Rotate actual watches among seven and allow companions separate naps."
+      ]
+    },
+    {
+      "chapter": 8,
+      "title": "An Anchor Can Break",
+      "status": "planned, not manuscript established",
+      "start": "Day 2 09:00:00",
+      "end": "Day 2 09:20:00",
+      "entry": {
+        "Kip": {
+          "level": 5,
+          "xp_in_bar": 100,
+          "mana": 60,
+          "max_mana": 60,
+          "xp_to_next": 500
+        },
+        "Tessa": {
+          "level": 7,
+          "xp_in_bar": 0,
+          "mana": 70,
+          "max_mana": 70,
+          "xp_to_next": 700
+        },
+        "Owen": {
+          "level": 10,
+          "xp_in_bar": 200,
+          "mana": 85,
+          "max_mana": 85,
+          "xp_to_next": 1000
+        },
+        "Dane": {
+          "level": 10,
+          "xp_in_bar": 200,
+          "mana": 85,
+          "max_mana": 85,
+          "xp_to_next": 1000
+        }
+      },
+      "events": [
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Override",
+          "target": "cistern west dart fixture",
+          "note": "Within9m; currentRank1 proof succeeds before Rank2 granted.",
+          "control_seconds": 1,
+          "clock": "Day 2 09:01:00",
+          "mana_before": 60,
+          "cost": 10,
+          "mana_after": 50,
+          "geometry": {
+            "distance_m": 9,
+            "prior_sight_distance_m": 9,
+            "prior_sight_attention_seconds": 1,
+            "visible_at_start": true,
+            "available_at_start": true,
+            "within_normal_mechanical_arc": true,
+            "ready_at_start": true,
+            "target_is_constructed_fixture": true,
+            "shield_removed_physically_if_any": true
+          },
+          "outcome": "ordinary legal fixture function, no strengthened output",
+          "id": "C08E01"
+        },
+        {
+          "kind": "cast",
+          "person": "Tessa",
+          "ability": "Quickstep",
+          "target": "patient evacuation route",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 2 09:01:02",
+          "mana_before": 70,
+          "cost": 10,
+          "mana_after": 60,
+          "geometry": {
+            "path_length_m": 8,
+            "visible_traversable_physical_path": true,
+            "passes_through_creature_wall_or_restraint": false,
+            "carries_another_adult": false,
+            "crosses_otherwise_impossible_gap": false,
+            "hazard_immunity_assumed": false
+          },
+          "id": "C08E02"
+        },
+        {
+          "kind": "cast",
+          "person": "Dane",
+          "ability": "Bulwark",
+          "target": "front of evacuation",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 2 09:01:05",
+          "mana_before": 85,
+          "cost": 20,
+          "mana_after": 65,
+          "geometry": {
+            "weapon_raised_in_right_hand": true,
+            "effect_seconds": 8,
+            "physical_attack_crosses_front": true,
+            "runs_or_attacks_during_effect": false,
+            "blocks_heat_poison_or_suffocation": false,
+            "reduced_force_still_can_hurt": true
+          },
+          "id": "C08E03"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Override",
+          "target": "cistern south dart fixture",
+          "note": "Earlier inspected at8m; now visible14m Rank2 use. No Sight range increase.",
+          "control_seconds": 1,
+          "clock": "Day 2 09:01:15",
+          "mana_before": 50,
+          "cost": 10,
+          "mana_after": 40,
+          "geometry": {
+            "distance_m": 14,
+            "prior_sight_distance_m": 8,
+            "prior_sight_attention_seconds": 1,
+            "visible_at_start": true,
+            "available_at_start": true,
+            "within_normal_mechanical_arc": true,
+            "ready_at_start": true,
+            "target_is_constructed_fixture": true,
+            "shield_removed_physically_if_any": true
+          },
+          "outcome": "ordinary legal fixture function, no strengthened output",
+          "id": "C08E04"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Sovereign Ward",
+          "target": "second physical attack lane",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 2 09:01:30",
+          "mana_before": 40,
+          "cost": 15,
+          "mana_after": 25,
+          "setup_seconds": 2,
+          "physical_impact_seconds_after_start": 8,
+          "geometry": {
+            "clear_ground": true,
+            "within_3m": true,
+            "upright_2m_square": true,
+            "stationary": true,
+            "physical_impact_crosses_front": true,
+            "blocks_heat_or_water": false
+          },
+          "id": "C08E05"
+        },
+        {
+          "kind": "cast",
+          "person": "Dane",
+          "ability": "Interpose",
+          "target": "worker behind flank",
+          "note": "Earlier Bulwark ended; no overlapping own bonus. Ward impact at09:01:38 leaves reduced force for deliberate block within three-second bonus.",
+          "control_seconds": null,
+          "clock": "Day 2 09:01:36",
+          "mana_before": 65,
+          "cost": 15,
+          "mana_after": 50,
+          "geometry": {
+            "path_length_m": 6,
+            "visible_ally": true,
+            "clear_physical_path": true,
+            "functional_weapon_in_right_hand": true,
+            "uses_enhanced_block": true,
+            "block_seconds_after_activation": 2,
+            "parryable_physical_attack": true,
+            "all_direction_protection_assumed": false
+          },
+          "id": "C08E06"
+        },
+        {
+          "kind": "cast",
+          "person": "Owen",
+          "ability": "Staunch",
+          "target": "rope-hauler 8cm/0.4cm flank cut",
+          "note": "Five-second contact; clean dressing supports seal through retreat.",
+          "control_seconds": null,
+          "clock": "Day 2 09:03:00",
+          "mana_before": 85,
+          "cost": 10,
+          "mana_after": 75,
+          "geometry": {
+            "wound_length_cm": 8,
+            "wound_depth_cm": 0.4,
+            "external_wound": true,
+            "tissue_present_and_aligned": true,
+            "uninterrupted_touch_seconds": 5,
+            "repairs_bone_blood_organs_or_nerves": false,
+            "protected_position_for_channel_required_in_prose": true
+          },
+          "id": "C08E07"
+        },
+        {
+          "kind": "xp",
+          "amount": 300,
+          "contributors": {
+            "Kip": "Uses announced proof and covers evacuation.",
+            "Tessa": "Leads patients out before anchor breaks.",
+            "Owen": "Stabilizes injured evacuee.",
+            "Dane": "Blocks and intercepts patrol attacks."
+          },
+          "clock": "Day 2 09:15:00",
+          "id": "C08E08"
+        }
+      ],
+      "exit": {
+        "Kip": {
+          "level": 5,
+          "xp_in_bar": 400,
+          "mana": 25,
+          "max_mana": 60,
+          "xp_to_next": 500
+        },
+        "Tessa": {
+          "level": 7,
+          "xp_in_bar": 300,
+          "mana": 60,
+          "max_mana": 70,
+          "xp_to_next": 700
+        },
+        "Owen": {
+          "level": 10,
+          "xp_in_bar": 500,
+          "mana": 75,
+          "max_mana": 85,
+          "xp_to_next": 1000
+        },
+        "Dane": {
+          "level": 10,
+          "xp_in_bar": 500,
+          "mana": 50,
+          "max_mana": 85,
+          "xp_to_next": 1000
+        }
+      },
+      "owned_rooms_after": [],
+      "practice": [],
+      "injuries": [],
+      "object_custody": {},
+      "constraints": [
+        "Physical attacker reaches and breaks B anchor; no remote revocation.",
+        "Learned Ward and Rank2 Override remain.",
+        "No recovery in this pursuit."
+      ]
+    },
+    {
+      "chapter": 9,
+      "title": "Terms Spoken Aloud",
+      "status": "planned, not manuscript established",
+      "start": "Day 2 09:20:00",
+      "end": "Day 2 12:00:00",
+      "entry": {
+        "Kip": {
+          "level": 5,
+          "xp_in_bar": 400,
+          "mana": 25,
+          "max_mana": 60,
+          "xp_to_next": 500
+        },
+        "Tessa": {
+          "level": 7,
+          "xp_in_bar": 300,
+          "mana": 60,
+          "max_mana": 70,
+          "xp_to_next": 700
+        },
+        "Owen": {
+          "level": 10,
+          "xp_in_bar": 500,
+          "mana": 75,
+          "max_mana": 85,
+          "xp_to_next": 1000
+        },
+        "Dane": {
+          "level": 10,
+          "xp_in_bar": 500,
+          "mana": 50,
+          "max_mana": 85,
+          "xp_to_next": 1000
+        }
+      },
+      "events": [
+        {
+          "kind": "cast",
+          "person": "Tessa",
+          "ability": "Trail Sight",
+          "target": "fresh shelter approach traces",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 2 09:25:00",
+          "mana_before": 60,
+          "cost": 15,
+          "mana_after": 45,
+          "geometry": {
+            "physical_track_inspected": true,
+            "oldest_trace_minutes": 60,
+            "radius_m": 25,
+            "trace_visible_line_of_sight": true,
+            "reveals_current_person_location_or_mind": false
+          },
+          "id": "C09E01"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Sovereign Ward",
+          "target": "horizontal waterborne beam lane",
+          "note": "Beam hits front while worker crosses; water itself is not blocked.",
+          "control_seconds": null,
+          "clock": "Day 2 09:30:00",
+          "mana_before": 25,
+          "cost": 15,
+          "mana_after": 10,
+          "setup_seconds": 2,
+          "physical_impact_seconds_after_start": 8,
+          "geometry": {
+            "clear_ground": true,
+            "within_3m": true,
+            "upright_2m_square": true,
+            "stationary": true,
+            "physical_impact_crosses_front": true,
+            "blocks_heat_or_water": false
+          },
+          "id": "C09E02"
+        },
+        {
+          "kind": "cast",
+          "person": "Dane",
+          "ability": "Interpose",
+          "target": "worker beside crossing",
+          "note": "Enhanced deliberate parry at09:30:08 meets the already Ward-slowed broken branch within three seconds. No parry of the whole stream.",
+          "control_seconds": null,
+          "clock": "Day 2 09:30:06",
+          "mana_before": 50,
+          "cost": 15,
+          "mana_after": 35,
+          "geometry": {
+            "path_length_m": 6,
+            "visible_ally": true,
+            "clear_physical_path": true,
+            "functional_weapon_in_right_hand": true,
+            "uses_enhanced_block": true,
+            "block_seconds_after_activation": 2,
+            "parryable_physical_attack": true,
+            "all_direction_protection_assumed": false
+          },
+          "id": "C09E03"
+        },
+        {
+          "kind": "cast",
+          "person": "Owen",
+          "ability": "Mend",
+          "target": "rope-hauler flank cut from chapter8",
+          "note": "Repair before40-minute Staunch expiry; no repeatXP for individual wound.",
+          "control_seconds": null,
+          "clock": "Day 2 09:35:00",
+          "mana_before": 75,
+          "cost": 20,
+          "mana_after": 55,
+          "geometry": {
+            "wound_length_cm": 8,
+            "wound_depth_cm": 0.4,
+            "external_wound": true,
+            "tissue_present_and_aligned": true,
+            "uninterrupted_touch_seconds": 20,
+            "repairs_bone_blood_organs_or_nerves": false,
+            "protected_position_for_channel_required_in_prose": true
+          },
+          "id": "C09E04"
+        },
+        {
+          "kind": "xp",
+          "amount": 100,
+          "contributors": {
+            "Kip": "Secures beam crossing and retrieves supplies.",
+            "Tessa": "Finds intact safe approach.",
+            "Owen": "Treats injury and transfers patient through hazard.",
+            "Dane": "Protects worker during salvage."
+          },
+          "clock": "Day 2 09:45:00",
+          "id": "C09E05"
+        },
+        {
+          "kind": "rest",
+          "person": "Kip",
+          "completed_minutes": 11,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 2 10:00:00",
+          "mana_before": 10,
+          "ends": "Day 2 10:11:00",
+          "mana_after": 65,
+          "id": "C09E06"
+        },
+        {
+          "kind": "rest",
+          "person": "Tessa",
+          "completed_minutes": 5,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 2 10:00:00",
+          "mana_before": 45,
+          "ends": "Day 2 10:05:00",
+          "mana_after": 70,
+          "id": "C09E07"
+        },
+        {
+          "kind": "rest",
+          "person": "Owen",
+          "completed_minutes": 6,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 2 10:00:00",
+          "mana_before": 55,
+          "ends": "Day 2 10:06:00",
+          "mana_after": 85,
+          "id": "C09E08"
+        },
+        {
+          "kind": "rest",
+          "person": "Dane",
+          "completed_minutes": 10,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 2 10:12:00",
+          "mana_before": 35,
+          "ends": "Day 2 10:22:00",
+          "mana_after": 85,
+          "id": "C09E09"
+        }
+      ],
+      "exit": {
+        "Kip": {
+          "level": 6,
+          "xp_in_bar": 0,
+          "mana": 65,
+          "max_mana": 65,
+          "xp_to_next": 600
+        },
+        "Tessa": {
+          "level": 7,
+          "xp_in_bar": 400,
+          "mana": 70,
+          "max_mana": 70,
+          "xp_to_next": 700
+        },
+        "Owen": {
+          "level": 10,
+          "xp_in_bar": 600,
+          "mana": 85,
+          "max_mana": 85,
+          "xp_to_next": 1000
+        },
+        "Dane": {
+          "level": 10,
+          "xp_in_bar": 600,
+          "mana": 85,
+          "max_mana": 85,
+          "xp_to_next": 1000
+        }
+      },
+      "owned_rooms_after": [],
+      "practice": [],
+      "injuries": [],
+      "object_custody": {},
+      "constraints": [
+        "The old expedition shelter is a36m-wide open refuge yard with no intact Claim anchor. Neither enclosing a local patch nor using a broken pedestal supplies a valid Claim target.",
+        "Shelter safety is physical approaches/watch and Ravel customary guarantee, not a Kip claim. No Claim practice occurs here.",
+        "Dane discloses all proposed terms before agreement or binding anyone."
+      ]
+    },
+    {
+      "chapter": 10,
+      "title": "The Second Kind of Key",
+      "status": "planned, not manuscript established",
+      "start": "Day 2 12:00:00",
+      "end": "Day 2 15:00:00",
+      "entry": {
+        "Kip": {
+          "level": 6,
+          "xp_in_bar": 0,
+          "mana": 65,
+          "max_mana": 65,
+          "xp_to_next": 600
+        },
+        "Tessa": {
+          "level": 7,
+          "xp_in_bar": 400,
+          "mana": 70,
+          "max_mana": 70,
+          "xp_to_next": 700
+        },
+        "Owen": {
+          "level": 10,
+          "xp_in_bar": 600,
+          "mana": 85,
+          "max_mana": 85,
+          "xp_to_next": 1000
+        },
+        "Dane": {
+          "level": 10,
+          "xp_in_bar": 600,
+          "mana": 85,
+          "max_mana": 85,
+          "xp_to_next": 1000
+        }
+      },
+      "events": [
+        {
+          "kind": "cast",
+          "person": "Tessa",
+          "ability": "Trail Sight",
+          "target": "swimming scavenger traces above waterline",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 2 12:10:00",
+          "mana_before": 70,
+          "cost": 15,
+          "mana_after": 55,
+          "geometry": {
+            "physical_track_inspected": true,
+            "oldest_trace_minutes": 60,
+            "radius_m": 25,
+            "trace_visible_line_of_sight": true,
+            "reveals_current_person_location_or_mind": false
+          },
+          "id": "C10E01"
+        },
+        {
+          "kind": "cast",
+          "person": "Tessa",
+          "ability": "Quickstep",
+          "target": "visible dry ledge",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 2 12:20:00",
+          "mana_before": 55,
+          "cost": 10,
+          "mana_after": 45,
+          "geometry": {
+            "path_length_m": 8,
+            "visible_traversable_physical_path": true,
+            "passes_through_creature_wall_or_restraint": false,
+            "carries_another_adult": false,
+            "crosses_otherwise_impossible_gap": false,
+            "hazard_immunity_assumed": false
+          },
+          "id": "C10E02"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Override",
+          "target": "archive defensive bolt fixture",
+          "note": "Inspected earlier at8m; maintained sight while withdrawing to14m; normal firing arc.",
+          "control_seconds": 1,
+          "clock": "Day 2 12:20:03",
+          "mana_before": 65,
+          "cost": 10,
+          "mana_after": 55,
+          "geometry": {
+            "distance_m": 14,
+            "prior_sight_distance_m": 8,
+            "prior_sight_attention_seconds": 1,
+            "visible_at_start": true,
+            "available_at_start": true,
+            "within_normal_mechanical_arc": true,
+            "ready_at_start": true,
+            "target_is_constructed_fixture": true,
+            "shield_removed_physically_if_any": true
+          },
+          "outcome": "ordinary legal fixture function, no strengthened output",
+          "id": "C10E03"
+        },
+        {
+          "kind": "cast",
+          "person": "Dane",
+          "ability": "Bulwark",
+          "target": "guardian lunge lane",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 2 12:20:05",
+          "mana_before": 85,
+          "cost": 20,
+          "mana_after": 65,
+          "geometry": {
+            "weapon_raised_in_right_hand": true,
+            "effect_seconds": 8,
+            "physical_attack_crosses_front": true,
+            "runs_or_attacks_during_effect": false,
+            "blocks_heat_poison_or_suffocation": false,
+            "reduced_force_still_can_hurt": true
+          },
+          "id": "C10E04"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Sovereign Ward",
+          "target": "same guardian lunge lane",
+          "note": "Forms20:08, impact20:10 through Bulwark then Ward. Quarter force still knocks Dane down.",
+          "control_seconds": null,
+          "clock": "Day 2 12:20:06",
+          "mana_before": 55,
+          "cost": 15,
+          "mana_after": 40,
+          "setup_seconds": 2,
+          "physical_impact_seconds_after_start": 4,
+          "geometry": {
+            "clear_ground": true,
+            "within_3m": true,
+            "upright_2m_square": true,
+            "stationary": true,
+            "physical_impact_crosses_front": true,
+            "blocks_heat_or_water": false
+          },
+          "id": "C10E05"
+        },
+        {
+          "kind": "cast",
+          "person": "Owen",
+          "ability": "Mend",
+          "target": "Dane 10cm/0.4cm right upper-arm cut",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 2 12:25:00",
+          "mana_before": 85,
+          "cost": 20,
+          "mana_after": 65,
+          "geometry": {
+            "wound_length_cm": 10,
+            "wound_depth_cm": 0.4,
+            "external_wound": true,
+            "tissue_present_and_aligned": true,
+            "uninterrupted_touch_seconds": 20,
+            "repairs_bone_blood_organs_or_nerves": false,
+            "protected_position_for_channel_required_in_prose": true
+          },
+          "id": "C10E06"
+        },
+        {
+          "kind": "xp",
+          "amount": 300,
+          "contributors": {
+            "Kip": "Coordinates ranged fixture and defense.",
+            "Tessa": "Finds dry flank and guardian approach.",
+            "Owen": "Provides necessary aftercare and evacuation.",
+            "Dane": "Holds guardian away from patients."
+          },
+          "clock": "Day 2 12:30:00",
+          "id": "C10E07"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Claim Room",
+          "target": "C: archive anchor",
+          "note": "16m chamber cleared; defended doorway holds all new hostiles outside for30sec. Announced Rank1 proof completes before capacity2 earned.",
+          "control_seconds": null,
+          "clock": "Day 2 12:35:00",
+          "mana_before": 40,
+          "cost": 20,
+          "mana_after": 20,
+          "geometry": {
+            "enclosed_room_max_width_m": 16,
+            "intact_anchor": true,
+            "guardian_defeated_or_none_assigned": true,
+            "protective_seal_removed_or_absent": true,
+            "living_hostiles_inside_at_start": 0,
+            "boss_chamber": false
+          },
+          "channel_seconds": 30,
+          "outcome": "success after uninterrupted30seconds",
+          "id": "C10E08"
+        },
+        {
+          "kind": "rest",
+          "person": "Kip",
+          "completed_minutes": 9,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 2 13:00:00",
+          "mana_before": 20,
+          "ends": "Day 2 13:09:00",
+          "mana_after": 65,
+          "id": "C10E09"
+        },
+        {
+          "kind": "rest",
+          "person": "Tessa",
+          "completed_minutes": 6,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 2 13:00:00",
+          "mana_before": 45,
+          "ends": "Day 2 13:06:00",
+          "mana_after": 75,
+          "id": "C10E10"
+        },
+        {
+          "kind": "rest",
+          "person": "Owen",
+          "completed_minutes": 4,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 2 13:00:00",
+          "mana_before": 65,
+          "ends": "Day 2 13:04:00",
+          "mana_after": 85,
+          "id": "C10E11"
+        },
+        {
+          "kind": "rest",
+          "person": "Dane",
+          "completed_minutes": 4,
+          "note": "The other three recover first; Dane sits13:10–13:14 while Tessa watches. No Mana recovery during the return walk.",
+          "clock": "Day 2 13:10:00",
+          "mana_before": 65,
+          "ends": "Day 2 13:14:00",
+          "mana_after": 85,
+          "id": "C10E12"
+        }
+      ],
+      "exit": {
+        "Kip": {
+          "level": 6,
+          "xp_in_bar": 300,
+          "mana": 65,
+          "max_mana": 65,
+          "xp_to_next": 600
+        },
+        "Tessa": {
+          "level": 8,
+          "xp_in_bar": 0,
+          "mana": 75,
+          "max_mana": 75,
+          "xp_to_next": 800
+        },
+        "Owen": {
+          "level": 10,
+          "xp_in_bar": 900,
+          "mana": 85,
+          "max_mana": 85,
+          "xp_to_next": 1000
+        },
+        "Dane": {
+          "level": 10,
+          "xp_in_bar": 900,
+          "mana": 85,
+          "max_mana": 85,
+          "xp_to_next": 1000
+        }
+      },
+      "owned_rooms_after": [
+        "C"
+      ],
+      "practice": [],
+      "injuries": [],
+      "object_custody": {},
+      "constraints": [
+        "Claim2 gives capacity2, not a free second room.",
+        "Stored images are ordinary hand-operated recording playback, not a new Kip power.",
+        "Tessa reaches8; max75 but current45 until rest.",
+        "Jory remains in the open36m old refuge yard with Lena and Ben, physical approach barriers and an ordinary watch, under Ravel explicit refuge guarantee. No intact Claim anchor exists there. The main four return before15:00; chapter11 exposes the betrayal. Neither helper earns chapter10 XP by proximity."
+      ]
+    },
+    {
+      "chapter": 11,
+      "title": "Two Places to Protect",
+      "status": "planned, not manuscript established",
+      "start": "Day 2 15:00:00",
+      "end": "Day 2 16:00:00",
+      "entry": {
+        "Kip": {
+          "level": 6,
+          "xp_in_bar": 300,
+          "mana": 65,
+          "max_mana": 65,
+          "xp_to_next": 600
+        },
+        "Tessa": {
+          "level": 8,
+          "xp_in_bar": 0,
+          "mana": 75,
+          "max_mana": 75,
+          "xp_to_next": 800
+        },
+        "Owen": {
+          "level": 10,
+          "xp_in_bar": 900,
+          "mana": 85,
+          "max_mana": 85,
+          "xp_to_next": 1000
+        },
+        "Dane": {
+          "level": 10,
+          "xp_in_bar": 900,
+          "mana": 85,
+          "max_mana": 85,
+          "xp_to_next": 1000
+        }
+      },
+      "events": [
+        {
+          "kind": "cast",
+          "person": "Dane",
+          "ability": "Interpose",
+          "target": "Jory litter within8m",
+          "note": "Fractures left wrist catching litter after this maneuver; right sword arm intact. Movement gets him to Jory; catching litter is ordinary bodily action. The weapon-block bonus is unused and does not protect his left wrist.",
+          "control_seconds": null,
+          "clock": "Day 2 15:02:00",
+          "mana_before": 85,
+          "cost": 15,
+          "mana_after": 70,
+          "geometry": {
+            "path_length_m": 6,
+            "visible_ally": true,
+            "clear_physical_path": true,
+            "functional_weapon_in_right_hand": true,
+            "uses_enhanced_block": false,
+            "block_seconds_after_activation": null,
+            "parryable_physical_attack": true,
+            "all_direction_protection_assumed": false
+          },
+          "id": "C11E01"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Sovereign Ward",
+          "target": "predator charge lane",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 2 15:02:05",
+          "mana_before": 65,
+          "cost": 15,
+          "mana_after": 50,
+          "setup_seconds": 2,
+          "physical_impact_seconds_after_start": 8,
+          "geometry": {
+            "clear_ground": true,
+            "within_3m": true,
+            "upright_2m_square": true,
+            "stationary": true,
+            "physical_impact_crosses_front": true,
+            "blocks_heat_or_water": false
+          },
+          "id": "C11E02"
+        },
+        {
+          "kind": "cast",
+          "person": "Tessa",
+          "ability": "Quickstep",
+          "target": "clear exit ahead of litter",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 2 15:02:08",
+          "mana_before": 75,
+          "cost": 10,
+          "mana_after": 65,
+          "geometry": {
+            "path_length_m": 8,
+            "visible_traversable_physical_path": true,
+            "passes_through_creature_wall_or_restraint": false,
+            "carries_another_adult": false,
+            "crosses_otherwise_impossible_gap": false,
+            "hazard_immunity_assumed": false
+          },
+          "id": "C11E03"
+        },
+        {
+          "kind": "cast",
+          "person": "Tessa",
+          "ability": "Trail Sight",
+          "target": "fresh predator approach traces",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 2 15:03:00",
+          "mana_before": 65,
+          "cost": 15,
+          "mana_after": 50,
+          "geometry": {
+            "physical_track_inspected": true,
+            "oldest_trace_minutes": 60,
+            "radius_m": 25,
+            "trace_visible_line_of_sight": true,
+            "reveals_current_person_location_or_mind": false
+          },
+          "id": "C11E04"
+        },
+        {
+          "kind": "cast",
+          "person": "Dane",
+          "ability": "Bulwark",
+          "target": "right-hand sword raised in front of evacuees",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 2 15:03:05",
+          "mana_before": 70,
+          "cost": 20,
+          "mana_after": 50,
+          "geometry": {
+            "weapon_raised_in_right_hand": true,
+            "effect_seconds": 8,
+            "physical_attack_crosses_front": true,
+            "runs_or_attacks_during_effect": false,
+            "blocks_heat_poison_or_suffocation": false,
+            "reduced_force_still_can_hurt": true
+          },
+          "id": "C11E05"
+        },
+        {
+          "kind": "xp",
+          "amount": 300,
+          "contributors": {
+            "Kip": "Covers evacuation and organizes consent to new refuge.",
+            "Tessa": "Leads all seven through viable escape route.",
+            "Owen": "Physically takes over the litter and directs safe handling when Dane fractures his wrist; applies a mundane splint after escape without repairing bone.",
+            "Dane": "Saves Jory and covers retreat despite injury."
+          },
+          "clock": "Day 2 15:12:00",
+          "id": "C11E06"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Claim Room",
+          "target": "D: lever-hall anchor",
+          "note": "18m room cleared by team; all hostiles outside; full30sec guarded contact; capacity2 retains C.",
+          "control_seconds": null,
+          "clock": "Day 2 15:15:00",
+          "mana_before": 50,
+          "cost": 20,
+          "mana_after": 30,
+          "geometry": {
+            "enclosed_room_max_width_m": 18,
+            "intact_anchor": true,
+            "guardian_defeated_or_none_assigned": true,
+            "protective_seal_removed_or_absent": true,
+            "living_hostiles_inside_at_start": 0,
+            "boss_chamber": false
+          },
+          "channel_seconds": 30,
+          "outcome": "success after uninterrupted30seconds",
+          "id": "C11E07"
+        },
+        {
+          "kind": "rest",
+          "person": "Kip",
+          "completed_minutes": 8,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 2 15:30:00",
+          "mana_before": 30,
+          "ends": "Day 2 15:38:00",
+          "mana_after": 70,
+          "id": "C11E08"
+        },
+        {
+          "kind": "rest",
+          "person": "Tessa",
+          "completed_minutes": 5,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 2 15:30:00",
+          "mana_before": 50,
+          "ends": "Day 2 15:35:00",
+          "mana_after": 75,
+          "id": "C11E09"
+        },
+        {
+          "kind": "rest",
+          "person": "Owen",
+          "completed_minutes": 1,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 2 15:30:00",
+          "mana_before": 85,
+          "ends": "Day 2 15:31:00",
+          "mana_after": 90,
+          "id": "C11E10"
+        },
+        {
+          "kind": "rest",
+          "person": "Dane",
+          "completed_minutes": 8,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 2 15:30:00",
+          "mana_before": 50,
+          "ends": "Day 2 15:38:00",
+          "mana_after": 90,
+          "id": "C11E11"
+        }
+      ],
+      "exit": {
+        "Kip": {
+          "level": 7,
+          "xp_in_bar": 0,
+          "mana": 70,
+          "max_mana": 70,
+          "xp_to_next": 700
+        },
+        "Tessa": {
+          "level": 8,
+          "xp_in_bar": 300,
+          "mana": 75,
+          "max_mana": 75,
+          "xp_to_next": 800
+        },
+        "Owen": {
+          "level": 11,
+          "xp_in_bar": 200,
+          "mana": 90,
+          "max_mana": 90,
+          "xp_to_next": 1100
+        },
+        "Dane": {
+          "level": 11,
+          "xp_in_bar": 200,
+          "mana": 90,
+          "max_mana": 90,
+          "xp_to_next": 1100
+        }
+      },
+      "owned_rooms_after": [
+        "C",
+        "D"
+      ],
+      "practice": [],
+      "injuries": [
+        "Dane left wrist fracture splinted; cannot carry litter two-handed or use two-handed sword grip. Right-hand sword blocks remain possible.",
+        "Jory lower-leg fracture unchanged."
+      ],
+      "object_custody": {},
+      "constraints": [
+        "Ravel opens physical predator approach into UNCLAIMED old shelter; C claim does not cancel this betrayal.",
+        "No dead worker or porter silently replaced."
+      ]
+    },
+    {
+      "chapter": 12,
+      "title": "The Man in the Machinery",
+      "status": "planned, not manuscript established",
+      "start": "Day 2 16:00:00",
+      "end": "Day 2 19:00:00",
+      "entry": {
+        "Kip": {
+          "level": 7,
+          "xp_in_bar": 0,
+          "mana": 70,
+          "max_mana": 70,
+          "xp_to_next": 700
+        },
+        "Tessa": {
+          "level": 8,
+          "xp_in_bar": 300,
+          "mana": 75,
+          "max_mana": 75,
+          "xp_to_next": 800
+        },
+        "Owen": {
+          "level": 11,
+          "xp_in_bar": 200,
+          "mana": 90,
+          "max_mana": 90,
+          "xp_to_next": 1100
+        },
+        "Dane": {
+          "level": 11,
+          "xp_in_bar": 200,
+          "mana": 90,
+          "max_mana": 90,
+          "xp_to_next": 1100
+        }
+      },
+      "events": [
+        {
+          "kind": "cast",
+          "person": "Tessa",
+          "ability": "Trail Sight",
+          "target": "conditioned hunter traces",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 2 16:20:00",
+          "mana_before": 75,
+          "cost": 15,
+          "mana_after": 60,
+          "geometry": {
+            "physical_track_inspected": true,
+            "oldest_trace_minutes": 60,
+            "radius_m": 25,
+            "trace_visible_line_of_sight": true,
+            "reveals_current_person_location_or_mind": false
+          },
+          "id": "C12E01"
+        },
+        {
+          "kind": "cast",
+          "person": "Tessa",
+          "ability": "Quickstep",
+          "target": "clear garden path",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 2 16:25:00",
+          "mana_before": 60,
+          "cost": 10,
+          "mana_after": 50,
+          "geometry": {
+            "path_length_m": 8,
+            "visible_traversable_physical_path": true,
+            "passes_through_creature_wall_or_restraint": false,
+            "carries_another_adult": false,
+            "crosses_otherwise_impossible_gap": false,
+            "hazard_immunity_assumed": false
+          },
+          "id": "C12E02"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Override",
+          "target": "garden first defensive jet",
+          "note": "Available, visible at9m.",
+          "control_seconds": 5,
+          "clock": "Day 2 16:25:03",
+          "mana_before": 70,
+          "cost": 10,
+          "mana_after": 60,
+          "geometry": {
+            "distance_m": 9,
+            "prior_sight_distance_m": 9,
+            "prior_sight_attention_seconds": 1,
+            "visible_at_start": true,
+            "available_at_start": true,
+            "within_normal_mechanical_arc": true,
+            "ready_at_start": true,
+            "target_is_constructed_fixture": true,
+            "shield_removed_physically_if_any": true
+          },
+          "outcome": "ordinary legal fixture function, no strengthened output",
+          "id": "C12E03"
+        },
+        {
+          "kind": "cast",
+          "person": "Dane",
+          "ability": "Interpose",
+          "target": "Owen within8m",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 2 16:25:05",
+          "mana_before": 90,
+          "cost": 15,
+          "mana_after": 75,
+          "geometry": {
+            "path_length_m": 6,
+            "visible_ally": true,
+            "clear_physical_path": true,
+            "functional_weapon_in_right_hand": true,
+            "uses_enhanced_block": true,
+            "block_seconds_after_activation": 1,
+            "parryable_physical_attack": true,
+            "all_direction_protection_assumed": false
+          },
+          "id": "C12E04"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Sovereign Ward",
+          "target": "physical hunter lunge lane",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 2 16:25:10",
+          "mana_before": 60,
+          "cost": 15,
+          "mana_after": 45,
+          "setup_seconds": 2,
+          "physical_impact_seconds_after_start": 8,
+          "geometry": {
+            "clear_ground": true,
+            "within_3m": true,
+            "upright_2m_square": true,
+            "stationary": true,
+            "physical_impact_crosses_front": true,
+            "blocks_heat_or_water": false
+          },
+          "id": "C12E05"
+        },
+        {
+          "kind": "cast",
+          "person": "Dane",
+          "ability": "Bulwark",
+          "target": "front of retreat",
+          "note": "Own earlier bonus ended.",
+          "control_seconds": null,
+          "clock": "Day 2 16:26:00",
+          "mana_before": 75,
+          "cost": 20,
+          "mana_after": 55,
+          "geometry": {
+            "weapon_raised_in_right_hand": true,
+            "effect_seconds": 8,
+            "physical_attack_crosses_front": true,
+            "runs_or_attacks_during_effect": false,
+            "blocks_heat_poison_or_suffocation": false,
+            "reduced_force_still_can_hurt": true
+          },
+          "id": "C12E06"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Override",
+          "target": "garden second defensive bolt",
+          "note": "Separate fixture previously inspected within10m; now12m.",
+          "control_seconds": 1,
+          "clock": "Day 2 16:26:05",
+          "mana_before": 45,
+          "cost": 10,
+          "mana_after": 35,
+          "geometry": {
+            "distance_m": 12,
+            "prior_sight_distance_m": 9,
+            "prior_sight_attention_seconds": 1,
+            "visible_at_start": true,
+            "available_at_start": true,
+            "within_normal_mechanical_arc": true,
+            "ready_at_start": true,
+            "target_is_constructed_fixture": true,
+            "shield_removed_physically_if_any": true
+          },
+          "outcome": "ordinary legal fixture function, no strengthened output",
+          "id": "C12E07"
+        },
+        {
+          "kind": "xp",
+          "amount": 300,
+          "contributors": {
+            "Kip": "Deflects hunters and keeps return path open.",
+            "Tessa": "Finds guarded workers and usable route.",
+            "Owen": "Physically hauls climbing Tessa onto the safe ledge and holds their descent line during the hunter attack.",
+            "Dane": "Protects team while they reach testimony."
+          },
+          "clock": "Day 2 16:40:00",
+          "id": "C12E08"
+        }
+      ],
+      "exit": {
+        "Kip": {
+          "level": 7,
+          "xp_in_bar": 300,
+          "mana": 35,
+          "max_mana": 70,
+          "xp_to_next": 700
+        },
+        "Tessa": {
+          "level": 8,
+          "xp_in_bar": 600,
+          "mana": 50,
+          "max_mana": 75,
+          "xp_to_next": 800
+        },
+        "Owen": {
+          "level": 11,
+          "xp_in_bar": 500,
+          "mana": 90,
+          "max_mana": 90,
+          "xp_to_next": 1100
+        },
+        "Dane": {
+          "level": 11,
+          "xp_in_bar": 500,
+          "mana": 55,
+          "max_mana": 90,
+          "xp_to_next": 1100
+        }
+      },
+      "owned_rooms_after": [
+        "C",
+        "D"
+      ],
+      "practice": [],
+      "injuries": [],
+      "object_custody": {},
+      "constraints": [
+        "Two captive clearance workers are seen/testify but remain behind guarded conduit; they are the SAME pair rescued in14. Traveling group remains7.",
+        "Remote Earth-like stored image is seen only through physically credible window into apparatus; not Sight through walls.",
+        "Jory, Lena and Ben remain together in the lever hall behind a secured ordinary doorway and watch while the main four scout the gardens. No patient is left alone."
+      ]
+    },
+    {
+      "chapter": 13,
+      "title": "No Ones Permission to Sell",
+      "status": "planned, not manuscript established",
+      "start": "Day 2 19:00:00",
+      "end": "Day 3 07:00:00",
+      "entry": {
+        "Kip": {
+          "level": 7,
+          "xp_in_bar": 300,
+          "mana": 35,
+          "max_mana": 70,
+          "xp_to_next": 700
+        },
+        "Tessa": {
+          "level": 8,
+          "xp_in_bar": 600,
+          "mana": 50,
+          "max_mana": 75,
+          "xp_to_next": 800
+        },
+        "Owen": {
+          "level": 11,
+          "xp_in_bar": 500,
+          "mana": 90,
+          "max_mana": 90,
+          "xp_to_next": 1100
+        },
+        "Dane": {
+          "level": 11,
+          "xp_in_bar": 500,
+          "mana": 55,
+          "max_mana": 90,
+          "xp_to_next": 1100
+        }
+      },
+      "events": [
+        {
+          "kind": "rest",
+          "person": "Kip",
+          "completed_minutes": 7,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 2 19:00:00",
+          "mana_before": 35,
+          "ends": "Day 2 19:07:00",
+          "mana_after": 70,
+          "id": "C13E01"
+        },
+        {
+          "kind": "rest",
+          "person": "Tessa",
+          "completed_minutes": 5,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 2 19:00:00",
+          "mana_before": 50,
+          "ends": "Day 2 19:05:00",
+          "mana_after": 75,
+          "id": "C13E02"
+        },
+        {
+          "kind": "rest",
+          "person": "Dane",
+          "completed_minutes": 7,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 2 19:00:00",
+          "mana_before": 55,
+          "ends": "Day 2 19:07:00",
+          "mana_after": 90,
+          "id": "C13E03"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Sovereign Ward",
+          "target": "safe practice lane one",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 2 19:20:00",
+          "mana_before": 70,
+          "cost": 15,
+          "mana_after": 55,
+          "setup_seconds": 2,
+          "physical_impact_seconds_after_start": 8,
+          "geometry": {
+            "clear_ground": true,
+            "within_3m": true,
+            "upright_2m_square": true,
+            "stationary": true,
+            "physical_impact_crosses_front": true,
+            "blocks_heat_or_water": false
+          },
+          "id": "C13E04"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Sovereign Ward",
+          "target": "safe practice lane two",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 2 19:50:00",
+          "mana_before": 55,
+          "cost": 15,
+          "mana_after": 40,
+          "setup_seconds": 2,
+          "physical_impact_seconds_after_start": 8,
+          "geometry": {
+            "clear_ground": true,
+            "within_3m": true,
+            "upright_2m_square": true,
+            "stationary": true,
+            "physical_impact_crosses_front": true,
+            "blocks_heat_or_water": false
+          },
+          "id": "C13E05"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Sovereign Ward",
+          "target": "safe practice lane three",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 2 20:20:00",
+          "mana_before": 40,
+          "cost": 15,
+          "mana_after": 25,
+          "setup_seconds": 2,
+          "physical_impact_seconds_after_start": 8,
+          "geometry": {
+            "clear_ground": true,
+            "within_3m": true,
+            "upright_2m_square": true,
+            "stationary": true,
+            "physical_impact_crosses_front": true,
+            "blocks_heat_or_water": false
+          },
+          "id": "C13E06"
+        },
+        {
+          "kind": "rest",
+          "person": "Kip",
+          "completed_minutes": 9,
+          "note": "Quiet interval after focused Ward block; not counted as practice.",
+          "clock": "Day 2 20:45:00",
+          "mana_before": 25,
+          "ends": "Day 2 20:54:00",
+          "mana_after": 70,
+          "id": "C13E07"
+        }
+      ],
+      "exit": {
+        "Kip": {
+          "level": 7,
+          "xp_in_bar": 300,
+          "mana": 70,
+          "max_mana": 70,
+          "xp_to_next": 700
+        },
+        "Tessa": {
+          "level": 8,
+          "xp_in_bar": 600,
+          "mana": 75,
+          "max_mana": 75,
+          "xp_to_next": 800
+        },
+        "Owen": {
+          "level": 11,
+          "xp_in_bar": 500,
+          "mana": 90,
+          "max_mana": 90,
+          "xp_to_next": 1100
+        },
+        "Dane": {
+          "level": 11,
+          "xp_in_bar": 500,
+          "mana": 90,
+          "max_mana": 90,
+          "xp_to_next": 1100
+        }
+      },
+      "owned_rooms_after": [
+        "C",
+        "D"
+      ],
+      "practice": [
+        {
+          "skill": "Sovereign Ward",
+          "minutes": 90,
+          "start": "Day2 19:10",
+          "end": "Day2 20:40",
+          "method": "Three paid practice casts; focused placement, facing, feint-recognition and pre-timing drills between casts, no rest counted.",
+          "cumulative_minutes": 90
+        }
+      ],
+      "injuries": [],
+      "object_custody": {},
+      "constraints": [
+        "Ward proof announced: place current10-second Ward before a feint, retain correct facing, catch real physical strike inside its lifetime.",
+        "No XP from training, debate or decline of bargain.",
+        "Kip sleepDay2 23:00–Day3 06:30; others rotate actual protected sleep."
+      ]
+    },
+    {
+      "chapter": 14,
+      "title": "Those Left in the Dark",
+      "status": "planned, not manuscript established",
+      "start": "Day 3 07:00:00",
+      "end": "Day 3 10:00:00",
+      "entry": {
+        "Kip": {
+          "level": 7,
+          "xp_in_bar": 300,
+          "mana": 70,
+          "max_mana": 70,
+          "xp_to_next": 700
+        },
+        "Tessa": {
+          "level": 8,
+          "xp_in_bar": 600,
+          "mana": 75,
+          "max_mana": 75,
+          "xp_to_next": 800
+        },
+        "Owen": {
+          "level": 11,
+          "xp_in_bar": 500,
+          "mana": 90,
+          "max_mana": 90,
+          "xp_to_next": 1100
+        },
+        "Dane": {
+          "level": 11,
+          "xp_in_bar": 500,
+          "mana": 90,
+          "max_mana": 90,
+          "xp_to_next": 1100
+        }
+      },
+      "events": [
+        {
+          "kind": "cast",
+          "person": "Tessa",
+          "ability": "Trail Sight",
+          "target": "fresh clearance-worker tracks",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 3 07:20:00",
+          "mana_before": 75,
+          "cost": 15,
+          "mana_after": 60,
+          "geometry": {
+            "physical_track_inspected": true,
+            "oldest_trace_minutes": 60,
+            "radius_m": 25,
+            "trace_visible_line_of_sight": true,
+            "reveals_current_person_location_or_mind": false
+          },
+          "id": "C14E01"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Override",
+          "target": "hot-cavern first bolt fixture",
+          "note": "Physical strike at territorial hunter; no Ward heat protection.",
+          "control_seconds": 1,
+          "clock": "Day 3 07:30:00",
+          "mana_before": 70,
+          "cost": 10,
+          "mana_after": 60,
+          "geometry": {
+            "distance_m": 10,
+            "prior_sight_distance_m": 10,
+            "prior_sight_attention_seconds": 1,
+            "visible_at_start": true,
+            "available_at_start": true,
+            "within_normal_mechanical_arc": true,
+            "ready_at_start": true,
+            "target_is_constructed_fixture": true,
+            "shield_removed_physically_if_any": true
+          },
+          "outcome": "ordinary legal fixture function, no strengthened output",
+          "id": "C14E02"
+        },
+        {
+          "kind": "cast",
+          "person": "Tessa",
+          "ability": "Quickstep",
+          "target": "visible stone rib path",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 3 07:30:03",
+          "mana_before": 60,
+          "cost": 10,
+          "mana_after": 50,
+          "geometry": {
+            "path_length_m": 8,
+            "visible_traversable_physical_path": true,
+            "passes_through_creature_wall_or_restraint": false,
+            "carries_another_adult": false,
+            "crosses_otherwise_impossible_gap": false,
+            "hazard_immunity_assumed": false
+          },
+          "id": "C14E03"
+        },
+        {
+          "kind": "cast",
+          "person": "Dane",
+          "ability": "Interpose",
+          "target": "clearance worker within8m",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 3 07:30:05",
+          "mana_before": 90,
+          "cost": 15,
+          "mana_after": 75,
+          "geometry": {
+            "path_length_m": 6,
+            "visible_ally": true,
+            "clear_physical_path": true,
+            "functional_weapon_in_right_hand": true,
+            "uses_enhanced_block": true,
+            "block_seconds_after_activation": 1,
+            "parryable_physical_attack": true,
+            "all_direction_protection_assumed": false
+          },
+          "id": "C14E04"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Sovereign Ward",
+          "target": "physical hunter lunge lane",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 3 07:30:10",
+          "mana_before": 60,
+          "cost": 15,
+          "mana_after": 45,
+          "setup_seconds": 2,
+          "physical_impact_seconds_after_start": 8,
+          "geometry": {
+            "clear_ground": true,
+            "within_3m": true,
+            "upright_2m_square": true,
+            "stationary": true,
+            "physical_impact_crosses_front": true,
+            "blocks_heat_or_water": false
+          },
+          "id": "C14E05"
+        },
+        {
+          "kind": "cast",
+          "person": "Dane",
+          "ability": "Bulwark",
+          "target": "front of worker evacuation",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 3 07:31:00",
+          "mana_before": 75,
+          "cost": 20,
+          "mana_after": 55,
+          "geometry": {
+            "weapon_raised_in_right_hand": true,
+            "effect_seconds": 8,
+            "physical_attack_crosses_front": true,
+            "runs_or_attacks_during_effect": false,
+            "blocks_heat_poison_or_suffocation": false,
+            "reduced_force_still_can_hurt": true
+          },
+          "id": "C14E06"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Override",
+          "target": "hot-cavern second gate fixture",
+          "note": "Existing5-second suppression at previously inspected fixture.",
+          "control_seconds": 5,
+          "clock": "Day 3 07:31:05",
+          "mana_before": 45,
+          "cost": 10,
+          "mana_after": 35,
+          "geometry": {
+            "distance_m": 13,
+            "prior_sight_distance_m": 9,
+            "prior_sight_attention_seconds": 1,
+            "visible_at_start": true,
+            "available_at_start": true,
+            "within_normal_mechanical_arc": true,
+            "ready_at_start": true,
+            "target_is_constructed_fixture": true,
+            "shield_removed_physically_if_any": true
+          },
+          "outcome": "ordinary legal fixture function, no strengthened output",
+          "id": "C14E07"
+        },
+        {
+          "kind": "cast",
+          "person": "Owen",
+          "ability": "Staunch",
+          "target": "first rescued workers 11cm/0.5cm cut",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 3 07:35:00",
+          "mana_before": 90,
+          "cost": 10,
+          "mana_after": 80,
+          "geometry": {
+            "wound_length_cm": 11,
+            "wound_depth_cm": 0.5,
+            "external_wound": true,
+            "tissue_present_and_aligned": true,
+            "uninterrupted_touch_seconds": 5,
+            "repairs_bone_blood_organs_or_nerves": false,
+            "protected_position_for_channel_required_in_prose": true
+          },
+          "id": "C14E08"
+        },
+        {
+          "kind": "cast",
+          "person": "Owen",
+          "ability": "Mend",
+          "target": "same eligible wound",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 3 07:36:00",
+          "mana_before": 80,
+          "cost": 20,
+          "mana_after": 60,
+          "geometry": {
+            "wound_length_cm": 11,
+            "wound_depth_cm": 0.5,
+            "external_wound": true,
+            "tissue_present_and_aligned": true,
+            "uninterrupted_touch_seconds": 20,
+            "repairs_bone_blood_organs_or_nerves": false,
+            "protected_position_for_channel_required_in_prose": true
+          },
+          "id": "C14E09"
+        },
+        {
+          "kind": "cast",
+          "person": "Owen",
+          "ability": "Staunch",
+          "target": "second rescued workers 14cm/0.6cm cut",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 3 07:38:00",
+          "mana_before": 60,
+          "cost": 10,
+          "mana_after": 50,
+          "geometry": {
+            "wound_length_cm": 14,
+            "wound_depth_cm": 0.6,
+            "external_wound": true,
+            "tissue_present_and_aligned": true,
+            "uninterrupted_touch_seconds": 5,
+            "repairs_bone_blood_organs_or_nerves": false,
+            "protected_position_for_channel_required_in_prose": true
+          },
+          "id": "C14E10"
+        },
+        {
+          "kind": "cast",
+          "person": "Owen",
+          "ability": "Mend",
+          "target": "same eligible wound",
+          "note": "Mend starts3min after previous; no bone/blood/heatstroke cure.",
+          "control_seconds": null,
+          "clock": "Day 3 07:39:00",
+          "mana_before": 50,
+          "cost": 20,
+          "mana_after": 30,
+          "geometry": {
+            "wound_length_cm": 14,
+            "wound_depth_cm": 0.6,
+            "external_wound": true,
+            "tissue_present_and_aligned": true,
+            "uninterrupted_touch_seconds": 20,
+            "repairs_bone_blood_organs_or_nerves": false,
+            "protected_position_for_channel_required_in_prose": true
+          },
+          "id": "C14E11"
+        },
+        {
+          "kind": "xp",
+          "amount": 300,
+          "contributors": {
+            "Kip": "Chooses rescue over apparatus and coordinates defense.",
+            "Tessa": "Finds safe path and reaches stranded workers.",
+            "Owen": "Treats both rescued people and directs physical aftercare.",
+            "Dane": "Interposes and covers evacuation."
+          },
+          "clock": "Day 3 08:00:00",
+          "id": "C14E12"
+        },
+        {
+          "kind": "rest",
+          "person": "Kip",
+          "completed_minutes": 7,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 3 09:00:00",
+          "mana_before": 35,
+          "ends": "Day 3 09:07:00",
+          "mana_after": 70,
+          "id": "C14E13"
+        },
+        {
+          "kind": "rest",
+          "person": "Tessa",
+          "completed_minutes": 6,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 3 09:00:00",
+          "mana_before": 50,
+          "ends": "Day 3 09:06:00",
+          "mana_after": 80,
+          "id": "C14E14"
+        },
+        {
+          "kind": "rest",
+          "person": "Owen",
+          "completed_minutes": 12,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 3 09:00:00",
+          "mana_before": 30,
+          "ends": "Day 3 09:12:00",
+          "mana_after": 90,
+          "id": "C14E15"
+        },
+        {
+          "kind": "rest",
+          "person": "Dane",
+          "completed_minutes": 7,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 3 09:00:00",
+          "mana_before": 55,
+          "ends": "Day 3 09:07:00",
+          "mana_after": 90,
+          "id": "C14E16"
+        }
+      ],
+      "exit": {
+        "Kip": {
+          "level": 7,
+          "xp_in_bar": 600,
+          "mana": 70,
+          "max_mana": 70,
+          "xp_to_next": 700
+        },
+        "Tessa": {
+          "level": 9,
+          "xp_in_bar": 100,
+          "mana": 80,
+          "max_mana": 80,
+          "xp_to_next": 900
+        },
+        "Owen": {
+          "level": 11,
+          "xp_in_bar": 800,
+          "mana": 90,
+          "max_mana": 90,
+          "xp_to_next": 1100
+        },
+        "Dane": {
+          "level": 11,
+          "xp_in_bar": 800,
+          "mana": 90,
+          "max_mana": 90,
+          "xp_to_next": 1100
+        }
+      },
+      "owned_rooms_after": [
+        "C",
+        "D"
+      ],
+      "practice": [],
+      "injuries": [],
+      "object_custody": {},
+      "constraints": [
+        "Rescues the2 captive workers established12, total traveling9; no newpair.",
+        "Heat danger solved by route, timing and leaving cavern, never by Ward/Bulwark."
+      ]
+    },
+    {
+      "chapter": 15,
+      "title": "A Door Is Not a Way Through",
+      "status": "planned, not manuscript established",
+      "start": "Day 3 10:00:00",
+      "end": "Day 3 11:00:00",
+      "entry": {
+        "Kip": {
+          "level": 7,
+          "xp_in_bar": 600,
+          "mana": 70,
+          "max_mana": 70,
+          "xp_to_next": 700
+        },
+        "Tessa": {
+          "level": 9,
+          "xp_in_bar": 100,
+          "mana": 80,
+          "max_mana": 80,
+          "xp_to_next": 900
+        },
+        "Owen": {
+          "level": 11,
+          "xp_in_bar": 800,
+          "mana": 90,
+          "max_mana": 90,
+          "xp_to_next": 1100
+        },
+        "Dane": {
+          "level": 11,
+          "xp_in_bar": 800,
+          "mana": 90,
+          "max_mana": 90,
+          "xp_to_next": 1100
+        }
+      },
+      "events": [
+        {
+          "kind": "cast",
+          "person": "Tessa",
+          "ability": "Quickstep",
+          "target": "clear annex scout route",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 3 10:15:00",
+          "mana_before": 80,
+          "cost": 10,
+          "mana_after": 70,
+          "geometry": {
+            "path_length_m": 8,
+            "visible_traversable_physical_path": true,
+            "passes_through_creature_wall_or_restraint": false,
+            "carries_another_adult": false,
+            "crosses_otherwise_impossible_gap": false,
+            "hazard_immunity_assumed": false
+          },
+          "id": "C15E01"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Override",
+          "target": "annex defensive fixture",
+          "note": "Valid available target10m; line of sight lost after1sec; paid10 remains.",
+          "control_seconds": 1,
+          "clock": "Day 3 10:15:03",
+          "mana_before": 70,
+          "cost": 10,
+          "mana_after": 60,
+          "geometry": {
+            "distance_m": 10,
+            "prior_sight_distance_m": 10,
+            "prior_sight_attention_seconds": 1,
+            "visible_at_start": true,
+            "available_at_start": true,
+            "within_normal_mechanical_arc": true,
+            "ready_at_start": true,
+            "target_is_constructed_fixture": true,
+            "shield_removed_physically_if_any": true
+          },
+          "outcome": "paid control interrupted by loss of sight after1second",
+          "id": "C15E02"
+        },
+        {
+          "kind": "cast",
+          "person": "Dane",
+          "ability": "Interpose",
+          "target": "Kip within8m",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 3 10:15:05",
+          "mana_before": 90,
+          "cost": 15,
+          "mana_after": 75,
+          "geometry": {
+            "path_length_m": 6,
+            "visible_ally": true,
+            "clear_physical_path": true,
+            "functional_weapon_in_right_hand": true,
+            "uses_enhanced_block": true,
+            "block_seconds_after_activation": 1,
+            "parryable_physical_attack": true,
+            "all_direction_protection_assumed": false
+          },
+          "id": "C15E03"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Claim Room",
+          "target": "annex anchor",
+          "note": "Room genuinely cleared at start; new hostile crosses doorway20sec later. Paid20; interruption no claim, C/D retained until physicaldestructionC.",
+          "control_seconds": null,
+          "clock": "Day 3 10:16:00",
+          "mana_before": 60,
+          "cost": 20,
+          "mana_after": 40,
+          "geometry": {
+            "enclosed_room_max_width_m": 14,
+            "intact_anchor": true,
+            "guardian_defeated_or_none_assigned": true,
+            "protective_seal_removed_or_absent": true,
+            "living_hostiles_inside_at_start": 0,
+            "boss_chamber": false
+          },
+          "channel_seconds": 20,
+          "outcome": "interrupted by new hostile entering at20seconds; no refund or new ownership",
+          "id": "C15E04"
+        },
+        {
+          "kind": "cast",
+          "person": "Dane",
+          "ability": "Bulwark",
+          "target": "withdrawal front",
+          "note": "Interpose bonus ended long ago.",
+          "control_seconds": null,
+          "clock": "Day 3 10:16:25",
+          "mana_before": 75,
+          "cost": 20,
+          "mana_after": 55,
+          "geometry": {
+            "weapon_raised_in_right_hand": true,
+            "effect_seconds": 8,
+            "physical_attack_crosses_front": true,
+            "runs_or_attacks_during_effect": false,
+            "blocks_heat_poison_or_suffocation": false,
+            "reduced_force_still_can_hurt": true
+          },
+          "id": "C15E05"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Sovereign Ward",
+          "target": "physical strike retreat lane",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 3 10:16:30",
+          "mana_before": 40,
+          "cost": 15,
+          "mana_after": 25,
+          "setup_seconds": 2,
+          "physical_impact_seconds_after_start": 8,
+          "geometry": {
+            "clear_ground": true,
+            "within_3m": true,
+            "upright_2m_square": true,
+            "stationary": true,
+            "physical_impact_crosses_front": true,
+            "blocks_heat_or_water": false
+          },
+          "id": "C15E06"
+        },
+        {
+          "kind": "cast",
+          "person": "Owen",
+          "ability": "Mend",
+          "target": "Kip new 10cm/0.5cm flank cut",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 3 10:20:00",
+          "mana_before": 90,
+          "cost": 20,
+          "mana_after": 70,
+          "geometry": {
+            "wound_length_cm": 10,
+            "wound_depth_cm": 0.5,
+            "external_wound": true,
+            "tissue_present_and_aligned": true,
+            "uninterrupted_touch_seconds": 20,
+            "repairs_bone_blood_organs_or_nerves": false,
+            "protected_position_for_channel_required_in_prose": true
+          },
+          "id": "C15E07"
+        }
+      ],
+      "exit": {
+        "Kip": {
+          "level": 7,
+          "xp_in_bar": 600,
+          "mana": 25,
+          "max_mana": 70,
+          "xp_to_next": 700
+        },
+        "Tessa": {
+          "level": 9,
+          "xp_in_bar": 100,
+          "mana": 70,
+          "max_mana": 80,
+          "xp_to_next": 900
+        },
+        "Owen": {
+          "level": 11,
+          "xp_in_bar": 800,
+          "mana": 70,
+          "max_mana": 90,
+          "xp_to_next": 1100
+        },
+        "Dane": {
+          "level": 11,
+          "xp_in_bar": 800,
+          "mana": 55,
+          "max_mana": 90,
+          "xp_to_next": 1100
+        }
+      },
+      "owned_rooms_after": [
+        "D"
+      ],
+      "practice": [],
+      "injuries": [],
+      "object_custody": {},
+      "constraints": [
+        "No XP for failed objective or re-opened fight.",
+        "Archive C anchor physically destroyed by local patrol while retreating; cannot claimallrooms or revokeD.",
+        "Kip ends25/70 exactly; failure is loss of control/position, not unannounced Mana tax.",
+        "Jory and all four recovered workers remain in the lever hall with a physical watch while the main four enter the annex. The archive is empty, which permits a patrol to reach and break its anchor."
+      ]
+    },
+    {
+      "chapter": 16,
+      "title": "Tell Us the Part You Dont Know",
+      "status": "planned, not manuscript established",
+      "start": "Day 3 11:00:00",
+      "end": "Day 4 06:00:00",
+      "entry": {
+        "Kip": {
+          "level": 7,
+          "xp_in_bar": 600,
+          "mana": 25,
+          "max_mana": 70,
+          "xp_to_next": 700
+        },
+        "Tessa": {
+          "level": 9,
+          "xp_in_bar": 100,
+          "mana": 70,
+          "max_mana": 80,
+          "xp_to_next": 900
+        },
+        "Owen": {
+          "level": 11,
+          "xp_in_bar": 800,
+          "mana": 70,
+          "max_mana": 90,
+          "xp_to_next": 1100
+        },
+        "Dane": {
+          "level": 11,
+          "xp_in_bar": 800,
+          "mana": 55,
+          "max_mana": 90,
+          "xp_to_next": 1100
+        }
+      },
+      "events": [
+        {
+          "kind": "rest",
+          "person": "Kip",
+          "completed_minutes": 9,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 3 11:00:00",
+          "mana_before": 25,
+          "ends": "Day 3 11:09:00",
+          "mana_after": 70,
+          "id": "C16E01"
+        },
+        {
+          "kind": "rest",
+          "person": "Tessa",
+          "completed_minutes": 2,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 3 11:00:00",
+          "mana_before": 70,
+          "ends": "Day 3 11:02:00",
+          "mana_after": 80,
+          "id": "C16E02"
+        },
+        {
+          "kind": "rest",
+          "person": "Owen",
+          "completed_minutes": 4,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 3 11:00:00",
+          "mana_before": 70,
+          "ends": "Day 3 11:04:00",
+          "mana_after": 90,
+          "id": "C16E03"
+        },
+        {
+          "kind": "rest",
+          "person": "Dane",
+          "completed_minutes": 7,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 3 11:00:00",
+          "mana_before": 55,
+          "ends": "Day 3 11:07:00",
+          "mana_after": 90,
+          "id": "C16E04"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Sovereign Ward",
+          "target": "safe practice lane four",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 3 11:30:00",
+          "mana_before": 70,
+          "cost": 15,
+          "mana_after": 55,
+          "setup_seconds": 2,
+          "physical_impact_seconds_after_start": 8,
+          "geometry": {
+            "clear_ground": true,
+            "within_3m": true,
+            "upright_2m_square": true,
+            "stationary": true,
+            "physical_impact_crosses_front": true,
+            "blocks_heat_or_water": false
+          },
+          "id": "C16E05"
+        },
+        {
+          "kind": "rest",
+          "person": "Kip",
+          "completed_minutes": 3,
+          "note": "Quiet recovery excluded from the thirty focused Ward minutes.",
+          "clock": "Day 3 11:55:00",
+          "mana_before": 55,
+          "ends": "Day 3 11:58:00",
+          "mana_after": 70,
+          "id": "C16E06"
+        }
+      ],
+      "exit": {
+        "Kip": {
+          "level": 7,
+          "xp_in_bar": 600,
+          "mana": 70,
+          "max_mana": 70,
+          "xp_to_next": 700
+        },
+        "Tessa": {
+          "level": 9,
+          "xp_in_bar": 100,
+          "mana": 80,
+          "max_mana": 80,
+          "xp_to_next": 900
+        },
+        "Owen": {
+          "level": 11,
+          "xp_in_bar": 800,
+          "mana": 90,
+          "max_mana": 90,
+          "xp_to_next": 1100
+        },
+        "Dane": {
+          "level": 11,
+          "xp_in_bar": 800,
+          "mana": 90,
+          "max_mana": 90,
+          "xp_to_next": 1100
+        }
+      },
+      "owned_rooms_after": [
+        "D"
+      ],
+      "practice": [
+        {
+          "skill": "Sovereign Ward",
+          "minutes": 30,
+          "start": "Day3 11:20",
+          "end": "Day3 11:50",
+          "method": "One paid cast with concentrated pre-placement and feint timing drills; no simultaneous rest/training credit.",
+          "cumulative_minutes": 120
+        }
+      ],
+      "injuries": [],
+      "object_custody": {},
+      "constraints": [
+        "No XP or immediate Ward upgrade; all requirements except genuine proof complete.",
+        "Jory devises gate load rig while seated; cannot lift or suddenly walk.",
+        "Ordinary finite rope, bridle and supports come from carried expedition kit, not summoned loot.",
+        "Plan/food/rest occupy remainingday; Kip sleepsDay3 22:00–Day4 05:30 under real watch."
+      ]
+    },
+    {
+      "chapter": 17,
+      "title": "Ground Worth Keeping",
+      "status": "planned, not manuscript established",
+      "start": "Day 4 06:00:00",
+      "end": "Day 4 08:00:00",
+      "entry": {
+        "Kip": {
+          "level": 7,
+          "xp_in_bar": 600,
+          "mana": 70,
+          "max_mana": 70,
+          "xp_to_next": 700
+        },
+        "Tessa": {
+          "level": 9,
+          "xp_in_bar": 100,
+          "mana": 80,
+          "max_mana": 80,
+          "xp_to_next": 900
+        },
+        "Owen": {
+          "level": 11,
+          "xp_in_bar": 800,
+          "mana": 90,
+          "max_mana": 90,
+          "xp_to_next": 1100
+        },
+        "Dane": {
+          "level": 11,
+          "xp_in_bar": 800,
+          "mana": 90,
+          "max_mana": 90,
+          "xp_to_next": 1100
+        }
+      },
+      "events": [
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Sovereign Ward",
+          "target": "drainage defense lane",
+          "note": "Rank1forms20:02; feint20:03; real physicalhit20:08 inside10s lifetime. Correct stationary facing retained; then Rank2earned.",
+          "control_seconds": null,
+          "clock": "Day 4 06:20:00",
+          "mana_before": 70,
+          "cost": 15,
+          "mana_after": 55,
+          "setup_seconds": 2,
+          "physical_impact_seconds_after_start": 8,
+          "geometry": {
+            "clear_ground": true,
+            "within_3m": true,
+            "upright_2m_square": true,
+            "stationary": true,
+            "physical_impact_crosses_front": true,
+            "blocks_heat_or_water": false
+          },
+          "id": "C17E01"
+        },
+        {
+          "kind": "cast",
+          "person": "Tessa",
+          "ability": "Trail Sight",
+          "target": "fresh guardian approach traces",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 4 06:20:10",
+          "mana_before": 80,
+          "cost": 15,
+          "mana_after": 65,
+          "geometry": {
+            "physical_track_inspected": true,
+            "oldest_trace_minutes": 60,
+            "radius_m": 25,
+            "trace_visible_line_of_sight": true,
+            "reveals_current_person_location_or_mind": false
+          },
+          "id": "C17E02"
+        },
+        {
+          "kind": "cast",
+          "person": "Tessa",
+          "ability": "Quickstep",
+          "target": "clear approach to conduit support",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 4 06:20:12",
+          "mana_before": 65,
+          "cost": 10,
+          "mana_after": 55,
+          "geometry": {
+            "path_length_m": 8,
+            "visible_traversable_physical_path": true,
+            "passes_through_creature_wall_or_restraint": false,
+            "carries_another_adult": false,
+            "crosses_otherwise_impossible_gap": false,
+            "hazard_immunity_assumed": false
+          },
+          "id": "C17E03"
+        },
+        {
+          "kind": "cast",
+          "person": "Dane",
+          "ability": "Bulwark",
+          "target": "front of workers sealing hostile conduit",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 4 06:20:15",
+          "mana_before": 90,
+          "cost": 20,
+          "mana_after": 70,
+          "geometry": {
+            "weapon_raised_in_right_hand": true,
+            "effect_seconds": 8,
+            "physical_attack_crosses_front": true,
+            "runs_or_attacks_during_effect": false,
+            "blocks_heat_poison_or_suffocation": false,
+            "reduced_force_still_can_hurt": true
+          },
+          "id": "C17E04"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Override",
+          "target": "drainage defense first jet",
+          "note": "Available physical fixture, not the core or livingroot.",
+          "control_seconds": 5,
+          "clock": "Day 4 06:20:20",
+          "mana_before": 55,
+          "cost": 10,
+          "mana_after": 45,
+          "geometry": {
+            "distance_m": 9,
+            "prior_sight_distance_m": 9,
+            "prior_sight_attention_seconds": 1,
+            "visible_at_start": true,
+            "available_at_start": true,
+            "within_normal_mechanical_arc": true,
+            "ready_at_start": true,
+            "target_is_constructed_fixture": true,
+            "shield_removed_physically_if_any": true
+          },
+          "outcome": "ordinary legal fixture function, no strengthened output",
+          "id": "C17E05"
+        },
+        {
+          "kind": "cast",
+          "person": "Dane",
+          "ability": "Bulwark",
+          "target": "front of safe outlet crew",
+          "note": "50sec since previousstart; first8sec effect ended, legal45secCD.",
+          "control_seconds": null,
+          "clock": "Day 4 06:21:05",
+          "mana_before": 70,
+          "cost": 20,
+          "mana_after": 50,
+          "geometry": {
+            "weapon_raised_in_right_hand": true,
+            "effect_seconds": 8,
+            "physical_attack_crosses_front": true,
+            "runs_or_attacks_during_effect": false,
+            "blocks_heat_poison_or_suffocation": false,
+            "reduced_force_still_can_hurt": true
+          },
+          "id": "C17E06"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Override",
+          "target": "drainage defense second gate",
+          "note": "Separate ready fixture; ordinary mechanism5sec.",
+          "control_seconds": 5,
+          "clock": "Day 4 06:21:10",
+          "mana_before": 45,
+          "cost": 10,
+          "mana_after": 35,
+          "geometry": {
+            "distance_m": 12,
+            "prior_sight_distance_m": 9,
+            "prior_sight_attention_seconds": 1,
+            "visible_at_start": true,
+            "available_at_start": true,
+            "within_normal_mechanical_arc": true,
+            "ready_at_start": true,
+            "target_is_constructed_fixture": true,
+            "shield_removed_physically_if_any": true
+          },
+          "outcome": "ordinary legal fixture function, no strengthened output",
+          "id": "C17E07"
+        },
+        {
+          "kind": "xp",
+          "amount": 300,
+          "contributors": {
+            "Kip": "Defends workers while reconnecting safe outlet and sealing separate hostile conduit.",
+            "Tessa": "Scouts real approach and exposes necessary physical support.",
+            "Owen": "Directs Jory protected transfer and physically steadies a worker on the outlet platform during the danger.",
+            "Dane": "Covers both work parties with legally spaced defenses."
+          },
+          "clock": "Day 4 06:35:00",
+          "id": "C17E08"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Claim Room",
+          "target": "E: gatewalk anchor",
+          "note": "18m cleared room; allhostilesout;30sec contact; D retained, C destroyed.",
+          "control_seconds": null,
+          "clock": "Day 4 06:40:00",
+          "mana_before": 35,
+          "cost": 20,
+          "mana_after": 15,
+          "geometry": {
+            "enclosed_room_max_width_m": 18,
+            "intact_anchor": true,
+            "guardian_defeated_or_none_assigned": true,
+            "protective_seal_removed_or_absent": true,
+            "living_hostiles_inside_at_start": 0,
+            "boss_chamber": false
+          },
+          "channel_seconds": 30,
+          "outcome": "success after uninterrupted30seconds",
+          "id": "C17E09"
+        },
+        {
+          "kind": "rest",
+          "person": "Kip",
+          "completed_minutes": 12,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 4 07:00:00",
+          "mana_before": 15,
+          "ends": "Day 4 07:12:00",
+          "mana_after": 75,
+          "id": "C17E10"
+        },
+        {
+          "kind": "rest",
+          "person": "Tessa",
+          "completed_minutes": 5,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 4 07:00:00",
+          "mana_before": 55,
+          "ends": "Day 4 07:05:00",
+          "mana_after": 80,
+          "id": "C17E11"
+        },
+        {
+          "kind": "rest",
+          "person": "Owen",
+          "completed_minutes": 1,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 4 07:00:00",
+          "mana_before": 90,
+          "ends": "Day 4 07:01:00",
+          "mana_after": 95,
+          "id": "C17E12"
+        },
+        {
+          "kind": "rest",
+          "person": "Dane",
+          "completed_minutes": 9,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 4 07:00:00",
+          "mana_before": 50,
+          "ends": "Day 4 07:09:00",
+          "mana_after": 95,
+          "id": "C17E13"
+        }
+      ],
+      "exit": {
+        "Kip": {
+          "level": 8,
+          "xp_in_bar": 200,
+          "mana": 75,
+          "max_mana": 75,
+          "xp_to_next": 800
+        },
+        "Tessa": {
+          "level": 9,
+          "xp_in_bar": 400,
+          "mana": 80,
+          "max_mana": 80,
+          "xp_to_next": 900
+        },
+        "Owen": {
+          "level": 12,
+          "xp_in_bar": 0,
+          "mana": 95,
+          "max_mana": 95,
+          "xp_to_next": 1200
+        },
+        "Dane": {
+          "level": 12,
+          "xp_in_bar": 0,
+          "mana": 95,
+          "max_mana": 95,
+          "xp_to_next": 1200
+        }
+      },
+      "owned_rooms_after": [
+        "D",
+        "E"
+      ],
+      "practice": [],
+      "injuries": [],
+      "object_custody": {},
+      "constraints": [
+        "Proof uses Rank1 lifetime before reward.",
+        "Safe network outlet is RECONNECTED, separate hostile root conduit is physically SEALED. Do not reverse them.",
+        "No claim of active boss chamber/core."
+      ]
+    },
+    {
+      "chapter": 18,
+      "title": "The Last Road Down",
+      "status": "planned, not manuscript established",
+      "start": "Day 4 08:00:00",
+      "end": "Day 4 09:00:00",
+      "entry": {
+        "Kip": {
+          "level": 8,
+          "xp_in_bar": 200,
+          "mana": 75,
+          "max_mana": 75,
+          "xp_to_next": 800
+        },
+        "Tessa": {
+          "level": 9,
+          "xp_in_bar": 400,
+          "mana": 80,
+          "max_mana": 80,
+          "xp_to_next": 900
+        },
+        "Owen": {
+          "level": 12,
+          "xp_in_bar": 0,
+          "mana": 95,
+          "max_mana": 95,
+          "xp_to_next": 1200
+        },
+        "Dane": {
+          "level": 12,
+          "xp_in_bar": 0,
+          "mana": 95,
+          "max_mana": 95,
+          "xp_to_next": 1200
+        }
+      },
+      "events": [
+        {
+          "kind": "cast",
+          "person": "Tessa",
+          "ability": "Quickstep",
+          "target": "visible guardian flank route",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 4 08:10:00",
+          "mana_before": 80,
+          "cost": 10,
+          "mana_after": 70,
+          "geometry": {
+            "path_length_m": 8,
+            "visible_traversable_physical_path": true,
+            "passes_through_creature_wall_or_restraint": false,
+            "carries_another_adult": false,
+            "crosses_otherwise_impossible_gap": false,
+            "hazard_immunity_assumed": false
+          },
+          "id": "C18E01"
+        },
+        {
+          "kind": "cast",
+          "person": "Dane",
+          "ability": "Interpose",
+          "target": "Tessa within8m",
+          "note": " Separate early deliberate block at08:10:03; Ward takes the later physical strike at08:10:13.",
+          "control_seconds": null,
+          "clock": "Day 4 08:10:02",
+          "mana_before": 95,
+          "cost": 15,
+          "mana_after": 80,
+          "geometry": {
+            "path_length_m": 6,
+            "visible_ally": true,
+            "clear_physical_path": true,
+            "functional_weapon_in_right_hand": true,
+            "uses_enhanced_block": true,
+            "block_seconds_after_activation": 1,
+            "parryable_physical_attack": true,
+            "all_direction_protection_assumed": false
+          },
+          "id": "C18E02"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Sovereign Ward",
+          "target": "physical guardian strike lane",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 4 08:10:05",
+          "mana_before": 75,
+          "cost": 15,
+          "mana_after": 60,
+          "setup_seconds": 2,
+          "physical_impact_seconds_after_start": 8,
+          "geometry": {
+            "clear_ground": true,
+            "within_3m": true,
+            "upright_2m_square": true,
+            "stationary": true,
+            "physical_impact_crosses_front": true,
+            "blocks_heat_or_water": false
+          },
+          "id": "C18E03"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Override",
+          "target": "approach defensive bolt",
+          "note": "Previouslyinspected at9m, availableat12m; no bossbodytarget.",
+          "control_seconds": 1,
+          "clock": "Day 4 08:10:10",
+          "mana_before": 60,
+          "cost": 10,
+          "mana_after": 50,
+          "geometry": {
+            "distance_m": 12,
+            "prior_sight_distance_m": 9,
+            "prior_sight_attention_seconds": 1,
+            "visible_at_start": true,
+            "available_at_start": true,
+            "within_normal_mechanical_arc": true,
+            "ready_at_start": true,
+            "target_is_constructed_fixture": true,
+            "shield_removed_physically_if_any": true
+          },
+          "outcome": "ordinary legal fixture function, no strengthened output",
+          "id": "C18E04"
+        },
+        {
+          "kind": "cast",
+          "person": "Dane",
+          "ability": "Bulwark",
+          "target": "front of withdrawal",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 4 08:11:00",
+          "mana_before": 80,
+          "cost": 20,
+          "mana_after": 60,
+          "geometry": {
+            "weapon_raised_in_right_hand": true,
+            "effect_seconds": 8,
+            "physical_attack_crosses_front": true,
+            "runs_or_attacks_during_effect": false,
+            "blocks_heat_poison_or_suffocation": false,
+            "reduced_force_still_can_hurt": true
+          },
+          "id": "C18E05"
+        },
+        {
+          "kind": "xp",
+          "amount": 300,
+          "contributors": {
+            "Kip": "Coordinates fixture and timed Ward against distinct finalapproachguardian.",
+            "Tessa": "Finds flank and gives others safe line.",
+            "Owen": "Pulls the ordinary retreat line to keep Kip outside the guardian attack lane and physically opens their safe return.",
+            "Dane": "Intercepts and holds guardian while others act."
+          },
+          "clock": "Day 4 08:20:00",
+          "id": "C18E06"
+        },
+        {
+          "kind": "rest",
+          "person": "Kip",
+          "completed_minutes": 5,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 4 08:30:00",
+          "mana_before": 50,
+          "ends": "Day 4 08:35:00",
+          "mana_after": 75,
+          "id": "C18E07"
+        },
+        {
+          "kind": "rest",
+          "person": "Tessa",
+          "completed_minutes": 2,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 4 08:30:00",
+          "mana_before": 70,
+          "ends": "Day 4 08:32:00",
+          "mana_after": 80,
+          "id": "C18E08"
+        },
+        {
+          "kind": "rest",
+          "person": "Dane",
+          "completed_minutes": 7,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 4 08:30:00",
+          "mana_before": 60,
+          "ends": "Day 4 08:37:00",
+          "mana_after": 95,
+          "id": "C18E09"
+        }
+      ],
+      "exit": {
+        "Kip": {
+          "level": 8,
+          "xp_in_bar": 500,
+          "mana": 75,
+          "max_mana": 75,
+          "xp_to_next": 800
+        },
+        "Tessa": {
+          "level": 9,
+          "xp_in_bar": 700,
+          "mana": 80,
+          "max_mana": 80,
+          "xp_to_next": 900
+        },
+        "Owen": {
+          "level": 12,
+          "xp_in_bar": 300,
+          "mana": 95,
+          "max_mana": 95,
+          "xp_to_next": 1200
+        },
+        "Dane": {
+          "level": 12,
+          "xp_in_bar": 300,
+          "mana": 95,
+          "max_mana": 95,
+          "xp_to_next": 1200
+        }
+      },
+      "owned_rooms_after": [
+        "D",
+        "E"
+      ],
+      "practice": [],
+      "injuries": [],
+      "object_custody": {},
+      "constraints": [
+        "Actual quiet protected rest, not cover while monsterstillattacks.",
+        "Kip enters boss75/75; threefixtures ready/functions/arcs and priorSight inspection need geographical map.",
+        "Stop/disconnect opportunity explained before finalattack; Ravel refuses.",
+        "Jory stays in secured gatewalk room E with Lena and Ben; Eda and Cal carry supplies outside the fighting lane. The main four clear the approach; helpers do not gain its XP automatically."
+      ]
+    },
+    {
+      "chapter": 19,
+      "title": "What a Sovereign Can Refuse",
+      "status": "planned, not manuscript established",
+      "start": "Day 4 09:00:00",
+      "end": "Day 4 09:30:00",
+      "entry": {
+        "Kip": {
+          "level": 8,
+          "xp_in_bar": 500,
+          "mana": 75,
+          "max_mana": 75,
+          "xp_to_next": 800
+        },
+        "Tessa": {
+          "level": 9,
+          "xp_in_bar": 700,
+          "mana": 80,
+          "max_mana": 80,
+          "xp_to_next": 900
+        },
+        "Owen": {
+          "level": 12,
+          "xp_in_bar": 300,
+          "mana": 95,
+          "max_mana": 95,
+          "xp_to_next": 1200
+        },
+        "Dane": {
+          "level": 12,
+          "xp_in_bar": 300,
+          "mana": 95,
+          "max_mana": 95,
+          "xp_to_next": 1200
+        }
+      },
+      "events": [
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Sovereign Ward",
+          "target": "boss first strike lane",
+          "note": "Forms09:00:02; physicalimpact09:00:04; Wardshatters.",
+          "control_seconds": null,
+          "clock": "Day 4 09:00:00",
+          "mana_before": 75,
+          "cost": 15,
+          "mana_after": 60,
+          "setup_seconds": 2,
+          "physical_impact_seconds_after_start": 4,
+          "geometry": {
+            "clear_ground": true,
+            "within_3m": true,
+            "upright_2m_square": true,
+            "stationary": true,
+            "physical_impact_crosses_front": true,
+            "blocks_heat_or_water": false
+          },
+          "id": "C19E01"
+        },
+        {
+          "kind": "cast",
+          "person": "Dane",
+          "ability": "Interpose",
+          "target": "Kip within8m",
+          "note": " Separate deliberate block at09:00:02; Ward takes a different later physical strike at09:00:04.",
+          "control_seconds": null,
+          "clock": "Day 4 09:00:01",
+          "mana_before": 95,
+          "cost": 15,
+          "mana_after": 80,
+          "geometry": {
+            "path_length_m": 6,
+            "visible_ally": true,
+            "clear_physical_path": true,
+            "functional_weapon_in_right_hand": true,
+            "uses_enhanced_block": true,
+            "block_seconds_after_activation": 1,
+            "parryable_physical_attack": true,
+            "all_direction_protection_assumed": false
+          },
+          "id": "C19E02"
+        },
+        {
+          "kind": "cast",
+          "person": "Tessa",
+          "ability": "Quickstep",
+          "target": "clear flank route; physicalshieldbreak by spear",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 4 09:00:03",
+          "mana_before": 80,
+          "cost": 10,
+          "mana_after": 70,
+          "geometry": {
+            "path_length_m": 8,
+            "visible_traversable_physical_path": true,
+            "passes_through_creature_wall_or_restraint": false,
+            "carries_another_adult": false,
+            "crosses_otherwise_impossible_gap": false,
+            "hazard_immunity_assumed": false
+          },
+          "id": "C19E03"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Override",
+          "target": "boss fixture A",
+          "note": "PreviouslySightinspectedwithin10m, shieldphysicallybroken; visiblewithin15m; ordinaryarc.",
+          "control_seconds": 1,
+          "clock": "Day 4 09:00:05",
+          "mana_before": 60,
+          "cost": 10,
+          "mana_after": 50,
+          "geometry": {
+            "distance_m": 13,
+            "prior_sight_distance_m": 9,
+            "prior_sight_attention_seconds": 1,
+            "visible_at_start": true,
+            "available_at_start": true,
+            "within_normal_mechanical_arc": true,
+            "ready_at_start": true,
+            "target_is_constructed_fixture": true,
+            "shield_removed_physically_if_any": true
+          },
+          "outcome": "ordinary legal fixture function, no strengthened output",
+          "id": "C19E04"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Override",
+          "target": "boss fixture B",
+          "note": "Separate previouslyinspected readyfixture; sameeligibilityrules.",
+          "control_seconds": 1,
+          "clock": "Day 4 09:00:10",
+          "mana_before": 50,
+          "cost": 10,
+          "mana_after": 40,
+          "geometry": {
+            "distance_m": 14,
+            "prior_sight_distance_m": 9,
+            "prior_sight_attention_seconds": 1,
+            "visible_at_start": true,
+            "available_at_start": true,
+            "within_normal_mechanical_arc": true,
+            "ready_at_start": true,
+            "target_is_constructed_fixture": true,
+            "shield_removed_physically_if_any": true
+          },
+          "outcome": "ordinary legal fixture function, no strengthened output",
+          "id": "C19E05"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Sovereign Ward",
+          "target": "boss second strike lane",
+          "note": "Forms14sec; realimpact29sec usesRank2 twenty-secondlifetime; onlyoneimpacthalf.",
+          "control_seconds": null,
+          "clock": "Day 4 09:00:12",
+          "mana_before": 40,
+          "cost": 15,
+          "mana_after": 25,
+          "setup_seconds": 2,
+          "physical_impact_seconds_after_start": 17,
+          "geometry": {
+            "clear_ground": true,
+            "within_3m": true,
+            "upright_2m_square": true,
+            "stationary": true,
+            "physical_impact_crosses_front": true,
+            "blocks_heat_or_water": false
+          },
+          "id": "C19E06"
+        },
+        {
+          "kind": "cast",
+          "person": "Owen",
+          "ability": "Staunch",
+          "target": "Dane new 8cm/0.5cm right forearm cut",
+          "note": "Five seconds uninterrupted contact at17–22sec; Dane does not block or cast during this interval. Seal lasts after contact; left wrist not repaired.",
+          "control_seconds": null,
+          "clock": "Day 4 09:00:17",
+          "mana_before": 95,
+          "cost": 10,
+          "mana_after": 85,
+          "geometry": {
+            "wound_length_cm": 8,
+            "wound_depth_cm": 0.5,
+            "external_wound": true,
+            "tissue_present_and_aligned": true,
+            "uninterrupted_touch_seconds": 5,
+            "repairs_bone_blood_organs_or_nerves": false,
+            "protected_position_for_channel_required_in_prose": true
+          },
+          "id": "C19E07"
+        },
+        {
+          "kind": "cast",
+          "person": "Tessa",
+          "ability": "Quickstep",
+          "target": "secondclearflankroute",
+          "note": "18secgap>=15secCD; nocarryinganotheradult.",
+          "control_seconds": null,
+          "clock": "Day 4 09:00:21",
+          "mana_before": 70,
+          "cost": 10,
+          "mana_after": 60,
+          "geometry": {
+            "path_length_m": 8,
+            "visible_traversable_physical_path": true,
+            "passes_through_creature_wall_or_restraint": false,
+            "carries_another_adult": false,
+            "crosses_otherwise_impossible_gap": false,
+            "hazard_immunity_assumed": false
+          },
+          "id": "C19E08"
+        },
+        {
+          "kind": "cast",
+          "person": "Dane",
+          "ability": "Bulwark",
+          "target": "frontofsecondWardlane",
+          "note": "Interposeended; effect22–30sec, impact29sec crossesbothpanels. Half×half=quarterphysicalforce, stillinjurious.",
+          "control_seconds": null,
+          "clock": "Day 4 09:00:22",
+          "mana_before": 80,
+          "cost": 20,
+          "mana_after": 60,
+          "geometry": {
+            "weapon_raised_in_right_hand": true,
+            "effect_seconds": 8,
+            "physical_attack_crosses_front": true,
+            "runs_or_attacks_during_effect": false,
+            "blocks_heat_poison_or_suffocation": false,
+            "reduced_force_still_can_hurt": true
+          },
+          "id": "C19E09"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Override",
+          "target": "boss fixture C",
+          "note": "Separate inspectedfixture; finalphysicalstrike at29sec afterRavelrefusesstop; noOverrideofbody/core.",
+          "control_seconds": 1,
+          "clock": "Day 4 09:00:28",
+          "mana_before": 25,
+          "cost": 10,
+          "mana_after": 15,
+          "geometry": {
+            "distance_m": 11.5,
+            "prior_sight_distance_m": 9,
+            "prior_sight_attention_seconds": 1,
+            "visible_at_start": true,
+            "available_at_start": true,
+            "within_normal_mechanical_arc": true,
+            "ready_at_start": true,
+            "target_is_constructed_fixture": true,
+            "shield_removed_physically_if_any": true,
+            "prior_sight_at": "Day 4 09:00:23"
+          },
+          "outcome": "ordinary legal fixture function, no strengthened output",
+          "id": "C19E10"
+        },
+        {
+          "kind": "cast",
+          "person": "Owen",
+          "ability": "Mend",
+          "target": "same eligible right forearm cut",
+          "note": "Twenty seconds of protected aftercare after the fight; no instant battle healing.",
+          "control_seconds": null,
+          "clock": "Day 4 09:01:30",
+          "mana_before": 85,
+          "cost": 20,
+          "mana_after": 65,
+          "geometry": {
+            "wound_length_cm": 8,
+            "wound_depth_cm": 0.5,
+            "external_wound": true,
+            "tissue_present_and_aligned": true,
+            "uninterrupted_touch_seconds": 20,
+            "repairs_bone_blood_organs_or_nerves": false,
+            "protected_position_for_channel_required_in_prose": true
+          },
+          "id": "C19E11"
+        },
+        {
+          "kind": "xp",
+          "amount": 300,
+          "contributors": {
+            "Kip": "RedirectsthreefixturesandplacesknownWardswhilerefusingownershipofpeople.",
+            "Tessa": "Physicallybreaksshieldingandexposesattacklanes.",
+            "Owen": "Necessaryaftercarepreservesinjuredfighter; notproximitycredit.",
+            "Dane": "Draws/blocksattacksandprotectsKipatthedecisivemoment."
+          },
+          "clock": "Day 4 09:04:00",
+          "id": "C19E12"
+        }
+      ],
+      "exit": {
+        "Kip": {
+          "level": 9,
+          "xp_in_bar": 0,
+          "mana": 15,
+          "max_mana": 80,
+          "xp_to_next": 900
+        },
+        "Tessa": {
+          "level": 10,
+          "xp_in_bar": 100,
+          "mana": 60,
+          "max_mana": 85,
+          "xp_to_next": 1000
+        },
+        "Owen": {
+          "level": 12,
+          "xp_in_bar": 600,
+          "mana": 65,
+          "max_mana": 95,
+          "xp_to_next": 1200
+        },
+        "Dane": {
+          "level": 12,
+          "xp_in_bar": 600,
+          "mana": 60,
+          "max_mana": 95,
+          "xp_to_next": 1200
+        }
+      },
+      "owned_rooms_after": [
+        "D",
+        "E"
+      ],
+      "practice": [],
+      "injuries": [
+        "Dane new shallow forearm cut is Mended; pain, bruising, blood loss and left wrist fracture remain.",
+        "Jory lower-leg fracture remains."
+      ],
+      "object_custody": {
+        "source_stone": "Kip physically removes stone from accessible rear tray at09:00:16–09:00:20 after previously seeing its mounting; he secures it before the apparatus collapses at09:00:29. No Override or Claim acquires loose objects.",
+        "Jory_litter": "Carried by recovered workers; Dane left wrist cannot help carry."
+      },
+      "constraints": [
+        "Bosscastspend60, not45: Kip75−30Override−30Ward=15.",
+        "After300XP Kip9 max80 current15; no victoryrefill.",
+        "RaveldeathandapparatusdestructiondoNOTkillcore, opengateortransferwholedungeonownership.",
+        "Rootmustadoptphysicalstop/defeatgeometrybeforeprose.",
+        "Jory, Lena and Ben remain in secured gatewalk E behind the actual watched doorway. Eda and Cal help ordinary supply transfer outside the boss attack lane. They are not silently inside Ward or Bulwark protection."
+      ]
+    },
+    {
+      "chapter": 20,
+      "title": "The Sky Is Not Home",
+      "status": "planned, not manuscript established",
+      "start": "Day 4 09:30:00",
+      "end": "Day 4 12:00:00",
+      "entry": {
+        "Kip": {
+          "level": 9,
+          "xp_in_bar": 0,
+          "mana": 15,
+          "max_mana": 80,
+          "xp_to_next": 900
+        },
+        "Tessa": {
+          "level": 10,
+          "xp_in_bar": 100,
+          "mana": 60,
+          "max_mana": 85,
+          "xp_to_next": 1000
+        },
+        "Owen": {
+          "level": 12,
+          "xp_in_bar": 600,
+          "mana": 65,
+          "max_mana": 95,
+          "xp_to_next": 1200
+        },
+        "Dane": {
+          "level": 12,
+          "xp_in_bar": 600,
+          "mana": 60,
+          "max_mana": 95,
+          "xp_to_next": 1200
+        }
+      },
+      "events": [
+        {
+          "kind": "rest",
+          "person": "Kip",
+          "completed_minutes": 13,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 4 09:31:00",
+          "mana_before": 15,
+          "ends": "Day 4 09:44:00",
+          "mana_after": 80,
+          "id": "C20E01"
+        },
+        {
+          "kind": "rest",
+          "person": "Tessa",
+          "completed_minutes": 5,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 4 09:31:00",
+          "mana_before": 60,
+          "ends": "Day 4 09:36:00",
+          "mana_after": 85,
+          "id": "C20E02"
+        },
+        {
+          "kind": "rest",
+          "person": "Owen",
+          "completed_minutes": 6,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 4 09:31:00",
+          "mana_before": 65,
+          "ends": "Day 4 09:37:00",
+          "mana_after": 95,
+          "id": "C20E03"
+        },
+        {
+          "kind": "rest",
+          "person": "Dane",
+          "completed_minutes": 7,
+          "note": "Protected, seated, no casting/movement/attack; another awake person keeps watch.",
+          "clock": "Day 4 09:31:00",
+          "mana_before": 60,
+          "ends": "Day 4 09:38:00",
+          "mana_after": 95,
+          "id": "C20E04"
+        },
+        {
+          "kind": "cast",
+          "person": "Tessa",
+          "ability": "Quickstep",
+          "target": "visible gatewalkroute; runephysicallybrokenwithspear",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 4 10:10:00",
+          "mana_before": 85,
+          "cost": 10,
+          "mana_after": 75,
+          "geometry": {
+            "path_length_m": 8,
+            "visible_traversable_physical_path": true,
+            "passes_through_creature_wall_or_restraint": false,
+            "carries_another_adult": false,
+            "crosses_otherwise_impossible_gap": false,
+            "hazard_immunity_assumed": false
+          },
+          "id": "C20E05"
+        },
+        {
+          "kind": "cast",
+          "person": "Dane",
+          "ability": "Bulwark",
+          "target": "frontofworkerswithgate-loadrig",
+          "note": "",
+          "control_seconds": null,
+          "clock": "Day 4 10:10:03",
+          "mana_before": 95,
+          "cost": 20,
+          "mana_after": 75,
+          "geometry": {
+            "weapon_raised_in_right_hand": true,
+            "effect_seconds": 8,
+            "physical_attack_crosses_front": true,
+            "runs_or_attacks_during_effect": false,
+            "blocks_heat_poison_or_suffocation": false,
+            "reduced_force_still_can_hurt": true
+          },
+          "id": "C20E06"
+        },
+        {
+          "kind": "cast",
+          "person": "Kip",
+          "ability": "Override",
+          "target": "main gate brake",
+          "note": "Waterlevelalreadydropped17; runephysicallybroken20; Sightwithin10mreportsAvailable; ordinaryrelease5sec whileJoryrigcarriesload.",
+          "control_seconds": 5,
+          "clock": "Day 4 10:10:05",
+          "mana_before": 80,
+          "cost": 10,
+          "mana_after": 70,
+          "geometry": {
+            "distance_m": 8,
+            "prior_sight_distance_m": 8,
+            "prior_sight_attention_seconds": 1,
+            "visible_at_start": true,
+            "available_at_start": true,
+            "within_normal_mechanical_arc": true,
+            "ready_at_start": true,
+            "target_is_constructed_fixture": true,
+            "shield_removed_physically_if_any": true
+          },
+          "outcome": "ordinary legal fixture function, no strengthened output",
+          "id": "C20E07"
+        },
+        {
+          "kind": "xp",
+          "amount": 100,
+          "contributors": {
+            "Kip": "Releasesbrakeandhelpscarrypatientout.",
+            "Tessa": "Findsactualexitrouteandbreaksphysicalrune.",
+            "Owen": "Directs safe litter crossing and physically carries Jory through the dangerous gate threshold into open air.",
+            "Dane": "Protectsgateloadworkandlastworkerscrossing."
+          },
+          "clock": "Day 4 10:30:00",
+          "id": "C20E08"
+        }
+      ],
+      "exit": {
+        "Kip": {
+          "level": 9,
+          "xp_in_bar": 100,
+          "mana": 70,
+          "max_mana": 80,
+          "xp_to_next": 900
+        },
+        "Tessa": {
+          "level": 10,
+          "xp_in_bar": 200,
+          "mana": 75,
+          "max_mana": 85,
+          "xp_to_next": 1000
+        },
+        "Owen": {
+          "level": 12,
+          "xp_in_bar": 700,
+          "mana": 95,
+          "max_mana": 95,
+          "xp_to_next": 1200
+        },
+        "Dane": {
+          "level": 12,
+          "xp_in_bar": 700,
+          "mana": 75,
+          "max_mana": 95,
+          "xp_to_next": 1200
+        }
+      },
+      "owned_rooms_after": [
+        "D",
+        "E"
+      ],
+      "practice": [],
+      "injuries": [],
+      "object_custody": {
+        "source_stone": "Kip carries source stone outside; playbackafterescape shows storedEarthrecordingandreferenceonly, no liveNoah/contact/portal.",
+        "Jory_litter": "Workers carry Jory outside; no restoredwalking.",
+        "gate_rig": "Ordinaryfiniteexpeditionropeandloadsupports usedbyconsent; notclassloot."
+      },
+      "constraints": [
+        "Allnineplannedtravelersgetoutside; MiraDunnwelcomesandhelpsbutisnotnewdungeonrescue.",
+        "Distinctgateevacuationevent100, notanotherRavelkillaward.",
+        "Mira introducedwithroleandaim; no inventedhealingthatfixesfractures.",
+        "No level10trialperformedforKip: ends9. Tessa10, Owen/Dane12 have uncompletedtrialopportunities."
+      ]
+    }
+  ],
+  "validation": {
+    "result": "PASS for arithmetic and plannedconstraints; no claim of draftedsceneQA",
+    "checks": [
+      "Every paid cast has sufficient current Mana.",
+      "Listed per-person cooldowns pass across chapter boundaries.",
+      "Repeated Override fixture reuse respects end-plus15seconds.",
+      "No level event changes current Mana.",
+      "No recorded cast overlaps that persons quiet recovery interval.",
+      "3700XP gives Kip9/100, Tessa10/200, Owen12/700, Dane12/700.",
+      "All three ranked skills receive distinct120 focused minutes; rest excluded.",
+      "Failed assaultKip25/70, bossentry75/75, bossexit15/80, bookexit70/80.",
+      "Room chain obeys capacity1 until chapter10 and capacity2 thereafter.",
+      "Opening pre-debits35/50/45 and retreat exit25/30/25 for Tessa/Owen/Dane.",
+      "Separate non-farming awards occur once per planned challenge, not per cast/claim/wound."
+    ]
+  },
+  "not_validated": [
+    "Actual prose geometry, causality and pacing",
+    "Whether rest security survives final prose",
+    "Full first-reader experience",
+    "Audio, storefront readiness or PocketFM delivery"
+  ],
+  "adoption_requirements": [
+    "Preserve or explicitly revise planned conditions when the actual scene is drafted.",
+    "Read final prose, then record actual state separately; never promote a planned event by copying its status.",
+    "Run the whole-book pass before Pocket FM adaptation and upload."
+  ]
+}

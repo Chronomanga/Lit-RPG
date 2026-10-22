@@ -1,0 +1,54 @@
+{
+  "result": "PASS",
+  "scope": "Arithmetic, timing, recorded prerequisites and future state only; not prose/audio approval",
+  "paid_casts_replayed": 113,
+  "rest_windows_replayed": 54,
+  "skill_acquisitions_replayed": 4,
+  "individual_xp_totals": {
+    "Kip": 3700,
+    "Tessa": 3700,
+    "Owen": 3700,
+    "Dane": 3700
+  },
+  "focused_practice_minutes": {
+    "Override": 120,
+    "Claim Room": 120,
+    "Sovereign Ward": 120
+  },
+  "final": {
+    "Kip": {
+      "level": 9,
+      "xp_in_bar": 100,
+      "mana": 70,
+      "max_mana": 80,
+      "xp_to_next": 900
+    },
+    "Tessa": {
+      "level": 10,
+      "xp_in_bar": 200,
+      "mana": 75,
+      "max_mana": 85,
+      "xp_to_next": 1000
+    },
+    "Owen": {
+      "level": 12,
+      "xp_in_bar": 700,
+      "mana": 95,
+      "max_mana": 95,
+      "xp_to_next": 1200
+    },
+    "Dane": {
+      "level": 12,
+      "xp_in_bar": 700,
+      "mana": 75,
+      "max_mana": 95,
+      "xp_to_next": 1200
+    }
+  },
+  "remaining_semantic_requirements": [
+    "Final chapter prose must preserve all declared prerequisites, safe recovery, contributor actions and exact spatial geometry.",
+    "Jory and other injured people stay guarded with helpers while the main four fight; main group size9 remains consistent.",
+    "Rest is not proven safe by numbers; actual doors, watch and absence of immediate attack must appear plausibly.",
+    "Ability rank proofs need observed successful old-version use; a recorded assertion is not itself a completed scene."
+  ]
+}

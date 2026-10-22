@@ -1,0 +1,9 @@
+﻿EP,Person,Level,Mana current,Mana maximum,XP in bar,XP next,Owned rooms,Injuries,Knowledge,Object custody,Final-text evidence,Review status,Reviewed date
+1,Kip,1,30,40,0,100,None,"Kip: open superficial palm-length forearm cut from broken stone, bleeding toward cuff; shoulder soreness from arrival; no healing yet.",See actual Episode 1 knowledge facts in Story carryover.,See actual Episode 1 custody facts in Story carryover.,"chapters/chapter-01/episode-001.txt
+SHA-256 26d994aecffe589453af10fc671aa841f0f8738d856e785ac164147e7267da4c",Confirmed from final text,2026-10-22
+1,Tessa,5,25,60,0,500,None,,See actual Episode 1 knowledge facts in Story carryover.,See actual Episode 1 custody facts in Story carryover.,"chapters/chapter-01/episode-001.txt
+SHA-256 26d994aecffe589453af10fc671aa841f0f8738d856e785ac164147e7267da4c",Confirmed from final text,2026-10-22
+1,Owen,9,50,80,0,900,None,,See actual Episode 1 knowledge facts in Story carryover.,See actual Episode 1 custody facts in Story carryover.,"chapters/chapter-01/episode-001.txt
+SHA-256 26d994aecffe589453af10fc671aa841f0f8738d856e785ac164147e7267da4c",Confirmed from final text,2026-10-22
+1,Dane,9,45,80,0,900,None,,See actual Episode 1 knowledge facts in Story carryover.,See actual Episode 1 custody facts in Story carryover.,"chapters/chapter-01/episode-001.txt
+SHA-256 26d994aecffe589453af10fc671aa841f0f8738d856e785ac164147e7267da4c",Confirmed from final text,2026-10-22

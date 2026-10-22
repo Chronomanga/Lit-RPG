@@ -1,0 +1,9 @@
+﻿Driver,Value,Unit,Meaning
+Base maximum Mana,40,Mana,At level 1
+Maximum increase per level,5,Mana / level,Current Mana does not increase on leveling
+Quiet recovery rate,5,Mana / completed minute,Eligible uninterrupted rest only; cap at maximum
+XP threshold factor,100,XP × current level,Bars reset; overflow carries
+Rank 2 minimum level,5,level,Also needs focused practice and genuine proof
+Rank 2 practice,120,minutes,Focused minutes since prior rank; quiet rest excluded
+"Claim capacity, rank 1",1,rooms,New successful claim releases the old room
+"Claim capacity, rank 2",2,rooms,Separate valid claim and cost for each room

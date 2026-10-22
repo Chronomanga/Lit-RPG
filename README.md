@@ -31,7 +31,7 @@ The repository is reusable context, not permanent model training. A future assis
 11. Complete and review the book.
 12. Adapt it for Pocket FM when requested.
 
-Use one step at a time by default. If the owner requests a complete episode, chapter, or batch, finish that authorized piece and its necessary revisions without interrupting for routine approvals.
+Use one step at a time by default. If the owner requests a complete episode, chapter, or batch, finish that authorized piece and its necessary revisions without interrupting for routine approvals. Before each next episode, read the same persistent Excel workbook and latest confirmed actual ending. After full prose, revision, and a final read, update its existing sheets with actual facts, source/version or hash, affected checks, stopping point, and review status; verify before continuing. Preserve history and notes. Do not create a new workbook or sheets per episode. Follow the required loop in [CONTINUITY.md](CONTINUITY.md).
 
 ## Reference shelf
 
@@ -43,8 +43,11 @@ Use one step at a time by default. If the owner requests a complete episode, cha
 | Rewards, tension, quiet scenes, book structure | [PACING-AND-PROGRESSION.md](PACING-AND-PROGRESSION.md) |
 | Original worked demonstrations | [EXAMPLES.md](EXAMPLES.md) |
 | Story, math, continuity, and reader checks | [REVISION.md](REVISION.md) |
+| Planned versus confirmed state, event tables, and checker limits | [CONTINUITY.md](CONTINUITY.md) |
 | Later audio adaptation and release distinctions | [POCKET-FM.md](POCKET-FM.md) |
 | Blank working documents | [templates](templates/) |
 | Full research notes and disagreements | [research index](research/README.md) |
 
-Research version: October 21, 2026. See [CHANGELOG.md](CHANGELOG.md). These are craft tools, not sales guarantees or current platform policy.
+The owner-authorized [Kip Quillman continuity mirror](projects/kip-quillman/README.md) uses persistent workbook and data paths, refreshed in place with hashes and Git history. It separates the planned book chronology from confirmed Episode 1 facts. Its future plans must not be handed wholesale to a bounded prose writer or simulated reader; a complete private manuscript is not mirrored here.
+
+Research version: October 21, 2026; continuity workflow update: October 22, 2026. See [CHANGELOG.md](CHANGELOG.md). These are craft tools, not sales guarantees or current platform policy.

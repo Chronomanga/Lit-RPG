@@ -1,0 +1,61 @@
+﻿Event ID,Ch,Person,Clock,Level before,XP before,Award,Total XP before,Total XP after,Level after,XP after,Next threshold,Levels gained,Max Mana after,Recorded level,Recorded XP,Level difference,XP difference,Material contribution
+C01E06,1,Kip,Day 1 08:05:00,1,0,100,0,100,2,0,200,1,45,2,0,0,0,Redirects both hazards and carries litter.
+C01E06,1,Tessa,Day 1 08:05:00,5,0,100,1000,1100,5,100,500,0,60,5,100,0,0,Finds and clears escape route.
+C01E06,1,Owen,Day 1 08:05:00,9,0,100,3600,3700,9,100,900,0,80,9,100,0,0,Mends wound and moves patient.
+C01E06,1,Dane,Day 1 08:05:00,9,0,100,3600,3700,9,100,900,0,80,9,100,0,0,Holds pursuer off during retreat.
+C03E05,3,Kip,Day 1 09:55:00,2,0,100,100,200,2,100,200,0,45,2,100,0,0,Places Ward and helps move litter.
+C03E05,3,Tessa,Day 1 09:55:00,5,100,100,1100,1200,5,200,500,0,60,5,200,0,0,Finds passable route and marks hazard.
+C03E05,3,Owen,Day 1 09:55:00,9,100,100,3700,3800,9,200,900,0,80,9,200,0,0,Stabilizes fresh injury and directs patient movement.
+C03E05,3,Dane,Day 1 09:55:00,9,100,100,3700,3800,9,200,900,0,80,9,200,0,0,Intercepts debris threatening litter.
+C04E07,4,Kip,Day 1 10:25:00,2,100,300,200,500,3,200,300,1,50,3,200,0,0,Controls launcher and covers withdrawal.
+C04E07,4,Tessa,Day 1 10:25:00,5,200,300,1200,1500,6,0,600,1,65,6,0,0,0,Scouts defense and secures escape lane.
+C04E07,4,Owen,Day 1 10:25:00,9,200,300,3800,4100,9,500,900,0,80,9,500,0,0,Treats wound essential to safe movement and maintains litter.
+C04E07,4,Dane,Day 1 10:25:00,9,200,300,3800,4100,9,500,900,0,80,9,500,0,0,Holds attacking guards during retreat.
+C05E07,5,Kip,Day 1 12:15:00,3,200,300,500,800,4,200,400,1,55,4,200,0,0,Coordinates exit and deflects lunge.
+C05E07,5,Tessa,Day 1 12:15:00,6,0,300,1500,1800,6,300,600,0,65,6,300,0,0,Finds safe path through nesting territory.
+C05E07,5,Owen,Day 1 12:15:00,9,500,300,4100,4400,9,800,900,0,80,9,800,0,0,Repairs injured worker and organizes extraction.
+C05E07,5,Dane,Day 1 12:15:00,9,500,300,4100,4400,9,800,900,0,80,9,800,0,0,Reaches separated worker and protects retreat.
+C06E04,6,Kip,Day 1 14:30:00,4,200,300,800,1100,5,100,500,1,60,5,100,0,0,Redirects guardian and helps secure water access.
+C06E04,6,Tessa,Day 1 14:30:00,6,300,300,1800,2100,7,0,700,1,70,7,0,0,0,Exposes rune and scouts shore.
+C06E04,6,Owen,Day 1 14:30:00,9,800,300,4400,4700,10,200,1000,1,85,10,200,0,0,Directs safe litter movement over the shore and physically supports Jory during the guardian encounter.
+C06E04,6,Dane,Day 1 14:30:00,9,800,300,4400,4700,10,200,1000,1,85,10,200,0,0,Defends patients from guardian.
+C08E08,8,Kip,Day 2 09:15:00,5,100,300,1100,1400,5,400,500,0,60,5,400,0,0,Uses announced proof and covers evacuation.
+C08E08,8,Tessa,Day 2 09:15:00,7,0,300,2100,2400,7,300,700,0,70,7,300,0,0,Leads patients out before anchor breaks.
+C08E08,8,Owen,Day 2 09:15:00,10,200,300,4700,5000,10,500,1000,0,85,10,500,0,0,Stabilizes injured evacuee.
+C08E08,8,Dane,Day 2 09:15:00,10,200,300,4700,5000,10,500,1000,0,85,10,500,0,0,Blocks and intercepts patrol attacks.
+C09E05,9,Kip,Day 2 09:45:00,5,400,100,1400,1500,6,0,600,1,65,6,0,0,0,Secures beam crossing and retrieves supplies.
+C09E05,9,Tessa,Day 2 09:45:00,7,300,100,2400,2500,7,400,700,0,70,7,400,0,0,Finds intact safe approach.
+C09E05,9,Owen,Day 2 09:45:00,10,500,100,5000,5100,10,600,1000,0,85,10,600,0,0,Treats injury and transfers patient through hazard.
+C09E05,9,Dane,Day 2 09:45:00,10,500,100,5000,5100,10,600,1000,0,85,10,600,0,0,Protects worker during salvage.
+C10E07,10,Kip,Day 2 12:30:00,6,0,300,1500,1800,6,300,600,0,65,6,300,0,0,Coordinates ranged fixture and defense.
+C10E07,10,Tessa,Day 2 12:30:00,7,400,300,2500,2800,8,0,800,1,75,8,0,0,0,Finds dry flank and guardian approach.
+C10E07,10,Owen,Day 2 12:30:00,10,600,300,5100,5400,10,900,1000,0,85,10,900,0,0,Provides necessary aftercare and evacuation.
+C10E07,10,Dane,Day 2 12:30:00,10,600,300,5100,5400,10,900,1000,0,85,10,900,0,0,Holds guardian away from patients.
+C11E06,11,Kip,Day 2 15:12:00,6,300,300,1800,2100,7,0,700,1,70,7,0,0,0,Covers evacuation and organizes consent to new refuge.
+C11E06,11,Tessa,Day 2 15:12:00,8,0,300,2800,3100,8,300,800,0,75,8,300,0,0,Leads all seven through viable escape route.
+C11E06,11,Owen,Day 2 15:12:00,10,900,300,5400,5700,11,200,1100,1,90,11,200,0,0,Physically takes over the litter and directs safe handling when Dane fractures his wrist; applies a mundane splint after escape without repairing bone.
+C11E06,11,Dane,Day 2 15:12:00,10,900,300,5400,5700,11,200,1100,1,90,11,200,0,0,Saves Jory and covers retreat despite injury.
+C12E08,12,Kip,Day 2 16:40:00,7,0,300,2100,2400,7,300,700,0,70,7,300,0,0,Deflects hunters and keeps return path open.
+C12E08,12,Tessa,Day 2 16:40:00,8,300,300,3100,3400,8,600,800,0,75,8,600,0,0,Finds guarded workers and usable route.
+C12E08,12,Owen,Day 2 16:40:00,11,200,300,5700,6000,11,500,1100,0,90,11,500,0,0,Physically hauls climbing Tessa onto the safe ledge and holds their descent line during the hunter attack.
+C12E08,12,Dane,Day 2 16:40:00,11,200,300,5700,6000,11,500,1100,0,90,11,500,0,0,Protects team while they reach testimony.
+C14E12,14,Kip,Day 3 08:00:00,7,300,300,2400,2700,7,600,700,0,70,7,600,0,0,Chooses rescue over apparatus and coordinates defense.
+C14E12,14,Tessa,Day 3 08:00:00,8,600,300,3400,3700,9,100,900,1,80,9,100,0,0,Finds safe path and reaches stranded workers.
+C14E12,14,Owen,Day 3 08:00:00,11,500,300,6000,6300,11,800,1100,0,90,11,800,0,0,Treats both rescued people and directs physical aftercare.
+C14E12,14,Dane,Day 3 08:00:00,11,500,300,6000,6300,11,800,1100,0,90,11,800,0,0,Interposes and covers evacuation.
+C17E08,17,Kip,Day 4 06:35:00,7,600,300,2700,3000,8,200,800,1,75,8,200,0,0,Defends workers while reconnecting safe outlet and sealing separate hostile conduit.
+C17E08,17,Tessa,Day 4 06:35:00,9,100,300,3700,4000,9,400,900,0,80,9,400,0,0,Scouts real approach and exposes necessary physical support.
+C17E08,17,Owen,Day 4 06:35:00,11,800,300,6300,6600,12,0,1200,1,95,12,0,0,0,Directs Jory protected transfer and physically steadies a worker on the outlet platform during the danger.
+C17E08,17,Dane,Day 4 06:35:00,11,800,300,6300,6600,12,0,1200,1,95,12,0,0,0,Covers both work parties with legally spaced defenses.
+C18E06,18,Kip,Day 4 08:20:00,8,200,300,3000,3300,8,500,800,0,75,8,500,0,0,Coordinates fixture and timed Ward against distinct finalapproachguardian.
+C18E06,18,Tessa,Day 4 08:20:00,9,400,300,4000,4300,9,700,900,0,80,9,700,0,0,Finds flank and gives others safe line.
+C18E06,18,Owen,Day 4 08:20:00,12,0,300,6600,6900,12,300,1200,0,95,12,300,0,0,Pulls the ordinary retreat line to keep Kip outside the guardian attack lane and physically opens their safe return.
+C18E06,18,Dane,Day 4 08:20:00,12,0,300,6600,6900,12,300,1200,0,95,12,300,0,0,Intercepts and holds guardian while others act.
+C19E12,19,Kip,Day 4 09:04:00,8,500,300,3300,3600,9,0,900,1,80,9,0,0,0,RedirectsthreefixturesandplacesknownWardswhilerefusingownershipofpeople.
+C19E12,19,Tessa,Day 4 09:04:00,9,700,300,4300,4600,10,100,1000,1,85,10,100,0,0,Physicallybreaksshieldingandexposesattacklanes.
+C19E12,19,Owen,Day 4 09:04:00,12,300,300,6900,7200,12,600,1200,0,95,12,600,0,0,Necessaryaftercarepreservesinjuredfighter; notproximitycredit.
+C19E12,19,Dane,Day 4 09:04:00,12,300,300,6900,7200,12,600,1200,0,95,12,600,0,0,Draws/blocksattacksandprotectsKipatthedecisivemoment.
+C20E08,20,Kip,Day 4 10:30:00,9,0,100,3600,3700,9,100,900,0,80,9,100,0,0,Releasesbrakeandhelpscarrypatientout.
+C20E08,20,Tessa,Day 4 10:30:00,10,100,100,4600,4700,10,200,1000,0,85,10,200,0,0,Findsactualexitrouteandbreaksphysicalrune.
+C20E08,20,Owen,Day 4 10:30:00,12,600,100,7200,7300,12,700,1200,0,95,12,700,0,0,Directs safe litter crossing and physically carries Jory through the dangerous gate threshold into open air.
+C20E08,20,Dane,Day 4 10:30:00,12,600,100,7200,7300,12,700,1200,0,95,12,700,0,0,Protectsgateloadworkandlastworkerscrossing.

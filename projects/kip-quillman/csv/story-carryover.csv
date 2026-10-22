@@ -1,0 +1,1573 @@
+﻿Record ID,Ch,Topic,Subject,Continuity fact,Status
+F001,,Opening inventory,Kip,Work jacket,Planned
+F002,,Opening inventory,Kip,T-shirt,Planned
+F003,,Opening inventory,Kip,Trousers,Planned
+F004,,Opening inventory,Kip,Trainers,Planned
+F005,,Opening inventory,Kip,House keys,Planned
+F006,,Opening inventory,Kip,Wallet,Planned
+F007,,Opening inventory,Earth_only,Phone left charging in delivery van,Planned
+F008,,Opening inventory,Earth_only,Delivery package outside crossing,Planned
+F009,,Opening inventory,limits,"No initial weapon, enchanted inventory or phone. Track any later finite ordinary loan. Source recording is Earth curb/van/location, never Noah.",Planned
+F010,,Sleep,Kip,Day1 22:00–Day2 05:30,Planned
+F011,,Sleep,Kip,Day2 23:00–Day3 06:30,Planned
+F012,,Sleep,Kip,Day3 22:00–Day4 05:30,Planned
+F013,,Sleep,companions,Protected sleep rotates with Lena/Ben and later Eda/Cal after their injuries are treated. Companions need at least6hours overnight plus90minutes of separate afternoon/evening sleep opportunity. Never describe everyone sleeping while no one watches.,Planned
+F014,,Sleep,scope,"Future time allowances, not prose-established scenes or proof that rest was safe.",Planned
+F015,,Roster,arrival,5,Planned
+F016,,Roster,after_ch5,7,Planned
+F017,,Roster,after_ch12,7,Planned
+F018,,Roster,after_ch14,9,Planned
+F019,,Roster,escaped_ch20,9,Planned
+F020,,Roster,identities,Kip Quillman,Planned
+F021,,Roster,identities,Tessa Ward,Planned
+F022,,Roster,identities,Owen Pike,Planned
+F023,,Roster,identities,Dane Mercer,Planned
+F024,,Roster,identities,Jory Hale,Planned
+F025,,Roster,identities,Lena Moss: rope-hauler rescued in5,Planned
+F026,,Roster,identities,Ben Holt: fungal-picker rescued in5,Planned
+F027,,Roster,identities,"Eda Flint: salt-cutter seen12, rescued14",Planned
+F028,,Roster,identities,"Cal Reed: adult furnace apprentice seen12, rescued14",Planned
+F029,,Roster,status,Nine-person roster adopted by root in planning; no unlisted casualties.,Planned
+F030,,Roster,unquantified_system_credit,Jory and workers who materially contribute also qualify if awakened; their class/level are undefined. Do not invent statistics or deny them credit because noncombatants.,Planned
+F031,,Skill acquisition,Sovereign Ward.skill,Sovereign Ward,Planned
+F032,,Skill acquisition,Sovereign Ward.rank,1,Planned
+F033,,Skill acquisition,Sovereign Ward.at,Day 1 08:06:40,Planned
+F034,,Skill acquisition,Sovereign Ward.reason,First successful Claim after level2; once only.,Planned
+F035,,Skill acquisition,Override.skill,Override,Planned
+F036,,Skill acquisition,Override.rank,2,Planned
+F037,,Skill acquisition,Override.at,Day 2 09:01:01,Planned
+F038,,Skill acquisition,Override.proof,Current Rank1 fixture use at9m clears allied escape lane under realattack; successful physical shot at09:01:01.,Planned
+F039,,Skill acquisition,Override.practice_minutes_required,120,Planned
+F040,,Skill acquisition,Override.minimum_level,5,Planned
+F041,,Skill acquisition,Claim Room.skill,Claim Room,Planned
+F042,,Skill acquisition,Claim Room.rank,2,Planned
+F043,,Skill acquisition,Claim Room.at,Day 2 12:35:30,Planned
+F044,,Skill acquisition,Claim Room.proof,Current Rank1 valid30sec guarded Claim completes; no hostile crosses doorway.,Planned
+F045,,Skill acquisition,Claim Room.practice_minutes_required,120,Planned
+F046,,Skill acquisition,Claim Room.minimum_level,5,Planned
+F047,,Skill acquisition,Sovereign Ward.skill,Sovereign Ward,Planned
+F048,,Skill acquisition,Sovereign Ward.rank,2,Planned
+F049,,Skill acquisition,Sovereign Ward.at,Day 4 06:20:08,Planned
+F050,,Skill acquisition,Sovereign Ward.proof,"Current Rank1 stationary Ward takes real impact at8sec after start,6sec after formation, after ignored feint.",Planned
+F051,,Skill acquisition,Sovereign Ward.practice_minutes_required,120,Planned
+F052,,Skill acquisition,Sovereign Ward.minimum_level,5,Planned
+F053,,Room loss,B.room,B,Planned
+F054,,Room loss,B.at,Day 2 09:10:00,Planned
+F055,,Room loss,B.cause,Patrol physically destroys cistern anchor.,Planned
+F056,,Room loss,C.room,C,Planned
+F057,,Room loss,C.at,Day 3 10:25:00,Planned
+F058,,Room loss,C.cause,Local attackers physically destroy archive anchor during failed annex retreat.,Planned
+F059,1,Causal progression,Kip: Dungeon Sovereign.source_scene,chapter-01,Author plan
+F060,1,Causal progression,Kip: Dungeon Sovereign.kind,class,Author plan
+F061,1,Causal progression,Kip: Dungeon Sovereign.rule_id,Dungeon Sovereign,Author plan
+F062,1,Causal progression,Kip: Dungeon Sovereign.before,unawakened outsider,Author plan
+F063,1,Causal progression,Kip: Dungeon Sovereign.event_or_choice,arrival grants legendary permission,Author plan
+F064,1,Causal progression,Kip: Dungeon Sovereign.cost_or_requirement,inexperience; stranded,Author plan
+F065,1,Causal progression,Kip: Dungeon Sovereign.gain,"Sight and Override, Claim available",Author plan
+F066,1,Causal progression,Kip: Dungeon Sovereign.after,L1 Mana40,Author plan
+F067,1,Causal progression,Kip: Dungeon Sovereign.demonstration,first ready launcher triggered,Author plan
+F068,1,Causal progression,Kip: Dungeon Sovereign.remaining_limit,"fixture only, ordinary arc, ten Mana",Author plan
+F069,1,Causal progression,Kip: Dungeon Sovereign.next_dependency,second paid vent use,Author plan
+F070,1,Causal progression,Kip: XP reset.source_scene,chapter-01,Author plan
+F071,1,Causal progression,Kip: XP reset.kind,level,Author plan
+F072,1,Causal progression,Kip: XP reset.rule_id,XP reset,Author plan
+F073,1,Causal progression,Kip: XP reset.before,L1 bar0/100 Mana20/40,Author plan
+F074,1,Causal progression,Kip: XP reset.event_or_choice,linked retreat materially resolved,Author plan
+F075,1,Causal progression,Kip: XP reset.cost_or_requirement,two Overrides cost20; no quiet recovery,Author plan
+F076,1,Causal progression,Kip: XP reset.gain,"100XP, maxMana+5",Author plan
+F077,1,Causal progression,Kip: XP reset.after,L2 bar0/200 Mana20/45,Author plan
+F078,1,Causal progression,Kip: XP reset.demonstration,resource limit constrains next choice,Author plan
+F079,1,Causal progression,Kip: XP reset.remaining_limit,no refill or healing,Author plan
+F080,1,Causal progression,Kip: XP reset.next_dependency,first real room claim,Author plan
+F081,2,Causal progression,Kip: First Claim.source_scene,chapter-02,Author plan
+F082,2,Causal progression,Kip: First Claim.kind,skill milestone,Author plan
+F083,2,Causal progression,Kip: First Claim.rule_id,First Claim,Author plan
+F084,2,Causal progression,Kip: First Claim.before,no owned room,Author plan
+F085,2,Causal progression,Kip: First Claim.event_or_choice,group defends valid thirty-second claim,Author plan
+F086,2,Causal progression,Kip: First Claim.cost_or_requirement,"20Mana, real cleared anchor",Author plan
+F087,2,Causal progression,Kip: First Claim.gain,Sovereign Ward rank1,Author plan
+F088,2,Causal progression,Kip: First Claim.after,"service owned, Mana0/45",Author plan
+F089,2,Causal progression,Kip: First Claim.demonstration,three quiet minutes then paid controlled Ward test,Author plan
+F090,2,Causal progression,Kip: First Claim.remaining_limit,"one impact at half force, no automatic safety",Author plan
+F091,2,Causal progression,Kip: First Claim.next_dependency,portable defensive use chapter3,Author plan
+F092,6,Causal progression,Kip: Claim Room rank1.source_scene,chapter-06,Author plan
+F093,6,Causal progression,Kip: Claim Room rank1.kind,capacity and judgment,Author plan
+F094,6,Causal progression,Kip: Claim Room rank1.rule_id,Claim Room rank1,Author plan
+F095,6,Causal progression,Kip: Claim Room rank1.before,service owned,Author plan
+F096,6,Causal progression,Kip: Claim Room rank1.event_or_choice,choose better water refuge,Author plan
+F097,6,Causal progression,Kip: Claim Room rank1.cost_or_requirement,clear threat;20Mana; release service,Author plan
+F098,6,Causal progression,Kip: Claim Room rank1.gain,sustainable water refuge and level5 access,Author plan
+F099,6,Causal progression,Kip: Claim Room rank1.after,"cistern owned, L5 bar100/500",Author plan
+F100,6,Causal progression,Kip: Claim Room rank1.demonstration,old room visibly released; creatures still enter,Author plan
+F101,6,Causal progression,Kip: Claim Room rank1.remaining_limit,"one room; no free supplies, immunity or rank",Author plan
+F102,6,Causal progression,Kip: Claim Room rank1.next_dependency,four focused training hours,Author plan
+F103,8,Causal progression,Kip: Override rank2.source_scene,chapter-08,Author plan
+F104,8,Causal progression,Kip: Override rank2.kind,rank,Author plan
+F105,8,Causal progression,Kip: Override rank2.rule_id,Override rank2,Author plan
+F106,8,Causal progression,Kip: Override rank2.before,"range10m, L5,120min focused practice",Author plan
+F107,8,Causal progression,Kip: Override rank2.event_or_choice,old-version redirected fixture keeps ally lane clear,Author plan
+F108,8,Causal progression,Kip: Override rank2.cost_or_requirement,10Mana proof; physical patrol threatens people,Author plan
+F109,8,Causal progression,Kip: Override rank2.gain,range15m only,Author plan
+F110,8,Causal progression,Kip: Override rank2.after,Override rank2,Author plan
+F111,8,Causal progression,Kip: Override rank2.demonstration,second already-inspected fixture used at14m,Author plan
+F112,8,Causal progression,Kip: Override rank2.remaining_limit,"Sight remains10m, cost10, one active, normal reset",Author plan
+F113,8,Causal progression,Kip: Override rank2.next_dependency,archive approach,Author plan
+F114,10,Causal progression,Kip: Claim Room rank2.source_scene,chapter-10,Author plan
+F115,10,Causal progression,Kip: Claim Room rank2.kind,rank,Author plan
+F116,10,Causal progression,Kip: Claim Room rank2.rule_id,Claim Room rank2,Author plan
+F117,10,Causal progression,Kip: Claim Room rank2.before,"capacity1, L6,120min focused practice",Author plan
+F118,10,Causal progression,Kip: Claim Room rank2.event_or_choice,valid30sec claim while allies defend outside threshold,Author plan
+F119,10,Causal progression,Kip: Claim Room rank2.cost_or_requirement,"20Mana, no hostile entry",Author plan
+F120,10,Causal progression,Kip: Claim Room rank2.gain,capacity2 only,Author plan
+F121,10,Causal progression,Kip: Claim Room rank2.after,"archive sole current claim, second slot empty",Author plan
+F122,10,Causal progression,Kip: Claim Room rank2.demonstration,second separate paid claim in chapter11,Author plan
+F123,10,Causal progression,Kip: Claim Room rank2.remaining_limit,"no free room, teleport, healing or hostile barrier",Author plan
+F124,10,Causal progression,Kip: Claim Room rank2.next_dependency,two refuges physically maintained,Author plan
+F125,17,Causal progression,Kip: Sovereign Ward rank2.source_scene,chapter-17,Author plan
+F126,17,Causal progression,Kip: Sovereign Ward rank2.kind,rank,Author plan
+F127,17,Causal progression,Kip: Sovereign Ward rank2.rule_id,Sovereign Ward rank2,Author plan
+F128,17,Causal progression,Kip: Sovereign Ward rank2.before,"lifetime10sec,120min focused practice",Author plan
+F129,17,Causal progression,Kip: Sovereign Ward rank2.event_or_choice,old version faces feint and catches real physical impact,Author plan
+F130,17,Causal progression,Kip: Sovereign Ward rank2.cost_or_requirement,"15Mana,2sec setup, valid old-version timing",Author plan
+F131,17,Causal progression,Kip: Sovereign Ward rank2.gain,lifetime20sec only,Author plan
+F132,17,Causal progression,Kip: Sovereign Ward rank2.after,"rank2, one impact half force",Author plan
+F133,17,Causal progression,Kip: Sovereign Ward rank2.demonstration,later boss hit after old lifetime would have expired,Author plan
+F134,17,Causal progression,Kip: Sovereign Ward rank2.remaining_limit,"no roof, rear protection, healing or invulnerability",Author plan
+F135,17,Causal progression,Kip: Sovereign Ward rank2.next_dependency,final approach and boss defense,Author plan
+F136,19,Causal progression,Kip: XP reset.source_scene,chapter-19,Author plan
+F137,19,Causal progression,Kip: XP reset.kind,level and victory,Author plan
+F138,19,Causal progression,Kip: XP reset.rule_id,XP reset,Author plan
+F139,19,Causal progression,Kip: XP reset.before,L8 bar500/800 Mana75/75,Author plan
+F140,19,Causal progression,Kip: XP reset.event_or_choice,defeat Ravel and stop dangerous apparatus,Author plan
+F141,19,Causal progression,Kip: XP reset.cost_or_requirement,3Overrides+2Wards=60Mana,Author plan
+F142,19,Causal progression,Kip: XP reset.gain,300XP and earned local victory,Author plan
+F143,19,Causal progression,Kip: XP reset.after,L9 bar0/900 Mana15/80,Author plan
+F144,19,Causal progression,Kip: XP reset.demonstration,maximum increases but current stays15,Author plan
+F145,19,Causal progression,Kip: XP reset.remaining_limit,core alive; no whole-dungeon claim; gate still shut,Author plan
+F146,19,Causal progression,Kip: XP reset.next_dependency,real gate evacuation,Author plan
+F147,20,Causal progression,Kip: recorded source stone.source_scene,chapter-20,Author plan
+F148,20,Causal progression,Kip: recorded source stone.kind,knowledge and freedom,Author plan
+F149,20,Causal progression,Kip: recorded source stone.rule_id,recorded source stone,Author plan
+F150,20,Causal progression,Kip: recorded source stone.before,"master defeated, gate shut",Author plan
+F151,20,Causal progression,Kip: recorded source stone.event_or_choice,team opens physical exit and gets all9 outside,Author plan
+F152,20,Causal progression,Kip: recorded source stone.cost_or_requirement,real rest; final Override10; carrying and rigging,Author plan
+F153,20,Causal progression,Kip: recorded source stone.gain,100XP; open sky; stored origin-route clue,Author plan
+F154,20,Causal progression,Kip: recorded source stone.after,L9 bar100/900 Mana70/80,Author plan
+F155,20,Causal progression,Kip: recorded source stone.demonstration,recording viewed after earned escape,Author plan
+F156,20,Causal progression,Kip: recorded source stone.remaining_limit,"no live Noah, instant portal or solved return",Author plan
+F157,20,Causal progression,Kip: recorded source stone.next_dependency,next book informed choice,Author plan
+F158,1,Injury,Carry forward,Jory: splinted lower-leg fracture; earlier 12cm/0.5cm leg cut is closed; no walking recovery.,Planned
+F159,1,Injury,Carry forward,Kip: forearm cut closed by Owen; pain/fatigue remain.,Planned
+F160,1,Constraint,Constraint 1,No Mana recovery anywhere in the ongoing pursuit.,Planned
+F161,1,Constraint,Constraint 2,Dane/Owen/Tessa previous cooldowns expired before these new uses.,Planned
+F162,2,Constraint,Constraint 1,No XP for the claim or harmless test.,Planned
+F163,2,Constraint,Constraint 2,"Claim alerts Ravel to room A loss, not private identity or rarity.",Planned
+F164,2,Constraint,Constraint 3,Food/water from expedition carry stores; no created supplies.,Planned
+F165,3,Injury,Carry forward,"Jory forearm wound sealed until 10:25:05, with careful handling and dressing.",Planned
+F166,3,Constraint,Constraint 1,Upright Ward cannot catch a vertically falling ceiling slab.,Planned
+F167,4,Constraint,Constraint 1,Secluded defensible side chamber physically secured before recovery; Tessa/Owen watch while Dane rests.,Planned
+F168,4,Constraint,Constraint 2,Braked gate cannot be Overridden through its visible rune protection.,Planned
+F169,5,Constraint,Constraint 1,Two stranded expedition workers join the five; planned traveling group now seven.,Planned
+F170,5,Constraint,Constraint 2,Predator need not be killed; danger is escape from nesting territory.,Planned
+F171,5,Constraint,Constraint 3,"Short rests occur beyond predator territory with recovered workers on watch, not during pursuit.",Planned
+F172,6,Constraint,Constraint 1,New maximum does not refill anyone: Owen/Dane reach10 but retain current Mana before rest.,Planned
+F173,6,Constraint,Constraint 2,Owen/Dane receive trial availability only; no trial completed or new power selected.,Planned
+F174,6,Constraint,Constraint 3,"Food recovered from established expedition cache, water collected at cistern; show finite carry stores.",Planned
+F175,6,Constraint,Constraint 4,There is no invented calf injury or healing expenditure in this encounter.,Planned
+F176,7,Constraint,Constraint 1,Override proof announced before attack: use current10m version under genuine pressure while keeping ally lane clear.,Planned
+F177,7,Constraint,Constraint 2,"Claim proof announced: valid30-second claim while allies defend doorway, no hostile enters.",Planned
+F178,7,Constraint,Constraint 3,No XP or automatic ranks from drills.,Planned
+F179,7,Constraint,Constraint 4,Food and conversation follow practice; Kip sleepsDay1 22:00–Day2 05:30. Rotate actual watches among seven and allow companions separate naps.,Planned
+F180,7,Focused practice,Override.skill,Override,Planned
+F181,7,Focused practice,Override.minutes,120,Planned
+F182,7,Focused practice,Override.start,Day1 16:00,Planned
+F183,7,Focused practice,Override.end,Day1 18:00,Planned
+F184,7,Focused practice,Override.method,"Six valid casts plus skill-specific target reading, angle/distance judgments, concentration and ally-lane drills; no rest credited inside this block.",Planned
+F185,7,Focused practice,Override.cumulative_minutes,120,Planned
+F186,7,Focused practice,Claim Room.skill,Claim Room,Planned
+F187,7,Focused practice,Claim Room.minutes,120,Planned
+F188,7,Focused practice,Claim Room.start,Day1 18:12,Planned
+F189,7,Focused practice,Claim Room.end,Day1 20:12,Planned
+F190,7,Focused practice,Claim Room.method,"Directed contact and concentration at the already-owned intact cistern anchor, with controlled distractions and doorway coordination. Does not issue a new Claim, alter ownership or spend Mana.",Planned
+F191,7,Focused practice,Claim Room.cumulative_minutes,120,Planned
+F192,8,Constraint,Constraint 1,Physical attacker reaches and breaks B anchor; no remote revocation.,Planned
+F193,8,Constraint,Constraint 2,Learned Ward and Rank2 Override remain.,Planned
+F194,8,Constraint,Constraint 3,No recovery in this pursuit.,Planned
+F195,9,Constraint,Constraint 1,The old expedition shelter is a36m-wide open refuge yard with no intact Claim anchor. Neither enclosing a local patch nor using a broken pedestal supplies a valid Claim target.,Planned
+F196,9,Constraint,Constraint 2,"Shelter safety is physical approaches/watch and Ravel customary guarantee, not a Kip claim. No Claim practice occurs here.",Planned
+F197,9,Constraint,Constraint 3,Dane discloses all proposed terms before agreement or binding anyone.,Planned
+F198,10,Constraint,Constraint 1,"Claim2 gives capacity2, not a free second room.",Planned
+F199,10,Constraint,Constraint 2,"Stored images are ordinary hand-operated recording playback, not a new Kip power.",Planned
+F200,10,Constraint,Constraint 3,Tessa reaches8; max75 but current45 until rest.,Planned
+F201,10,Constraint,Constraint 4,"Jory remains in the open36m old refuge yard with Lena and Ben, physical approach barriers and an ordinary watch, under Ravel explicit refuge guarantee. No intact Claim anchor exists there. The main four return before15:00; chapter11 exposes the betrayal. Neither helper earns chapter10 XP by proximity.",Planned
+F202,11,Injury,Carry forward,Dane left wrist fracture splinted; cannot carry litter two-handed or use two-handed sword grip. Right-hand sword blocks remain possible.,Planned
+F203,11,Injury,Carry forward,Jory lower-leg fracture unchanged.,Planned
+F204,11,Constraint,Constraint 1,Ravel opens physical predator approach into UNCLAIMED old shelter; C claim does not cancel this betrayal.,Planned
+F205,11,Constraint,Constraint 2,No dead worker or porter silently replaced.,Planned
+F206,12,Constraint,Constraint 1,Two captive clearance workers are seen/testify but remain behind guarded conduit; they are the SAME pair rescued in14. Traveling group remains7.,Planned
+F207,12,Constraint,Constraint 2,Remote Earth-like stored image is seen only through physically credible window into apparatus; not Sight through walls.,Planned
+F208,12,Constraint,Constraint 3,"Jory, Lena and Ben remain together in the lever hall behind a secured ordinary doorway and watch while the main four scout the gardens. No patient is left alone.",Planned
+F209,13,Constraint,Constraint 1,"Ward proof announced: place current10-second Ward before a feint, retain correct facing, catch real physical strike inside its lifetime.",Planned
+F210,13,Constraint,Constraint 2,"No XP from training, debate or decline of bargain.",Planned
+F211,13,Constraint,Constraint 3,Kip sleepDay2 23:00–Day3 06:30; others rotate actual protected sleep.,Planned
+F212,13,Focused practice,Sovereign Ward.skill,Sovereign Ward,Planned
+F213,13,Focused practice,Sovereign Ward.minutes,90,Planned
+F214,13,Focused practice,Sovereign Ward.start,Day2 19:10,Planned
+F215,13,Focused practice,Sovereign Ward.end,Day2 20:40,Planned
+F216,13,Focused practice,Sovereign Ward.method,"Three paid practice casts; focused placement, facing, feint-recognition and pre-timing drills between casts, no rest counted.",Planned
+F217,13,Focused practice,Sovereign Ward.cumulative_minutes,90,Planned
+F218,14,Constraint,Constraint 1,"Rescues the2 captive workers established12, total traveling9; no newpair.",Planned
+F219,14,Constraint,Constraint 2,"Heat danger solved by route, timing and leaving cavern, never by Ward/Bulwark.",Planned
+F220,15,Constraint,Constraint 1,No XP for failed objective or re-opened fight.,Planned
+F221,15,Constraint,Constraint 2,Archive C anchor physically destroyed by local patrol while retreating; cannot claimallrooms or revokeD.,Planned
+F222,15,Constraint,Constraint 3,"Kip ends25/70 exactly; failure is loss of control/position, not unannounced Mana tax.",Planned
+F223,15,Constraint,Constraint 4,"Jory and all four recovered workers remain in the lever hall with a physical watch while the main four enter the annex. The archive is empty, which permits a patrol to reach and break its anchor.",Planned
+F224,16,Constraint,Constraint 1,No XP or immediate Ward upgrade; all requirements except genuine proof complete.,Planned
+F225,16,Constraint,Constraint 2,Jory devises gate load rig while seated; cannot lift or suddenly walk.,Planned
+F226,16,Constraint,Constraint 3,"Ordinary finite rope, bridle and supports come from carried expedition kit, not summoned loot.",Planned
+F227,16,Constraint,Constraint 4,Plan/food/rest occupy remainingday; Kip sleepsDay3 22:00–Day4 05:30 under real watch.,Planned
+F228,16,Focused practice,Sovereign Ward.skill,Sovereign Ward,Planned
+F229,16,Focused practice,Sovereign Ward.minutes,30,Planned
+F230,16,Focused practice,Sovereign Ward.start,Day3 11:20,Planned
+F231,16,Focused practice,Sovereign Ward.end,Day3 11:50,Planned
+F232,16,Focused practice,Sovereign Ward.method,One paid cast with concentrated pre-placement and feint timing drills; no simultaneous rest/training credit.,Planned
+F233,16,Focused practice,Sovereign Ward.cumulative_minutes,120,Planned
+F234,17,Constraint,Constraint 1,Proof uses Rank1 lifetime before reward.,Planned
+F235,17,Constraint,Constraint 2,"Safe network outlet is RECONNECTED, separate hostile root conduit is physically SEALED. Do not reverse them.",Planned
+F236,17,Constraint,Constraint 3,No claim of active boss chamber/core.,Planned
+F237,18,Constraint,Constraint 1,"Actual quiet protected rest, not cover while monsterstillattacks.",Planned
+F238,18,Constraint,Constraint 2,Kip enters boss75/75; threefixtures ready/functions/arcs and priorSight inspection need geographical map.,Planned
+F239,18,Constraint,Constraint 3,Stop/disconnect opportunity explained before finalattack; Ravel refuses.,Planned
+F240,18,Constraint,Constraint 4,Jory stays in secured gatewalk room E with Lena and Ben; Eda and Cal carry supplies outside the fighting lane. The main four clear the approach; helpers do not gain its XP automatically.,Planned
+F241,19,Injury,Carry forward,"Dane new shallow forearm cut is Mended; pain, bruising, blood loss and left wrist fracture remain.",Planned
+F242,19,Injury,Carry forward,Jory lower-leg fracture remains.,Planned
+F243,19,Custody,source_stone,Kip physically removes stone from accessible rear tray at09:00:16–09:00:20 after previously seeing its mounting; he secures it before the apparatus collapses at09:00:29. No Override or Claim acquires loose objects.,Planned
+F244,19,Custody,Jory_litter,Carried by recovered workers; Dane left wrist cannot help carry.,Planned
+F245,19,Constraint,Constraint 1,"Bosscastspend60, not45: Kip75−30Override−30Ward=15.",Planned
+F246,19,Constraint,Constraint 2,After300XP Kip9 max80 current15; no victoryrefill.,Planned
+F247,19,Constraint,Constraint 3,"RaveldeathandapparatusdestructiondoNOTkillcore, opengateortransferwholedungeonownership.",Planned
+F248,19,Constraint,Constraint 4,Rootmustadoptphysicalstop/defeatgeometrybeforeprose.,Planned
+F249,19,Constraint,Constraint 5,"Jory, Lena and Ben remain in secured gatewalk E behind the actual watched doorway. Eda and Cal help ordinary supply transfer outside the boss attack lane. They are not silently inside Ward or Bulwark protection.",Planned
+F250,20,Custody,source_stone,"Kip carries source stone outside; playbackafterescape shows storedEarthrecordingandreferenceonly, no liveNoah/contact/portal.",Planned
+F251,20,Custody,Jory_litter,Workers carry Jory outside; no restoredwalking.,Planned
+F252,20,Custody,gate_rig,Ordinaryfiniteexpeditionropeandloadsupports usedbyconsent; notclassloot.,Planned
+F253,20,Constraint,Constraint 1,Allnineplannedtravelersgetoutside; MiraDunnwelcomesandhelpsbutisnotnewdungeonrescue.,Planned
+F254,20,Constraint,Constraint 2,"Distinctgateevacuationevent100, notanotherRavelkillaward.",Planned
+F255,20,Constraint,Constraint 3,Mira introducedwithroleandaim; no inventedhealingthatfixesfractures.,Planned
+F256,20,Constraint,Constraint 4,"No level10trialperformedforKip: ends9. Tessa10, Owen/Dane12 have uncompletedtrialopportunities.",Planned
+F257,0,Event detail,PRE01 Tessa: target,fresh pursuit tracks,Planned
+F258,0,Event detail,PRE01 Tessa: seconds_before_arrival,105,Planned
+F259,0,Event detail,PRE02 Owen: target,Jory shallow leg cut,Planned
+F260,0,Event detail,PRE02 Owen: seconds_before_arrival,95,Planned
+F261,0,Event detail,PRE03 Dane: target,Jory,Planned
+F262,0,Event detail,PRE03 Dane: seconds_before_arrival,90,Planned
+F263,0,Event detail,PRE04 Tessa: target,clear retreat path,Planned
+F264,0,Event detail,PRE04 Tessa: seconds_before_arrival,80,Planned
+F265,0,Event detail,PRE05 Owen: target,same Jory leg cut,Planned
+F266,0,Event detail,PRE05 Owen: note,20 seconds; permanent closure completes at -50s; fracture remains.,Planned
+F267,0,Event detail,PRE05 Owen: seconds_before_arrival,70,Planned
+F268,0,Event detail,PRE06 Dane: target,frontal retreat lane,Planned
+F269,0,Event detail,PRE06 Dane: note,Interpose bonus has ended; no own multiplier stack.,Planned
+F270,0,Event detail,PRE06 Dane: seconds_before_arrival,60,Planned
+F271,1,Event detail,C01E01 Tessa: target,visible clear path; never carries Jory,Planned
+F272,1,Event detail,C01E01 Tessa: geometry.path_length_m,8,Planned
+F273,1,Event detail,C01E01 Tessa: geometry.visible_traversable_physical_path,true,Planned
+F274,1,Event detail,C01E01 Tessa: geometry.passes_through_creature_wall_or_restraint,false,Planned
+F275,1,Event detail,C01E01 Tessa: geometry.carries_another_adult,false,Planned
+F276,1,Event detail,C01E01 Tessa: geometry.crosses_otherwise_impossible_gap,false,Planned
+F277,1,Event detail,C01E01 Tessa: geometry.hazard_immunity_assumed,false,Planned
+F278,1,Event detail,C01E02 Kip: target,retreat dart launcher,Planned
+F279,1,Event detail,C01E02 Kip: note,Inspected at 8m; Tessa clears normal 25-degree firing arc.,Planned
+F280,1,Event detail,C01E02 Kip: control_seconds,1,Planned
+F281,1,Event detail,C01E02 Kip: geometry.distance_m,8,Planned
+F282,1,Event detail,C01E02 Kip: geometry.prior_sight_distance_m,8,Planned
+F283,1,Event detail,C01E02 Kip: geometry.prior_sight_attention_seconds,1,Planned
+F284,1,Event detail,C01E02 Kip: geometry.visible_at_start,true,Planned
+F285,1,Event detail,C01E02 Kip: geometry.available_at_start,true,Planned
+F286,1,Event detail,C01E02 Kip: geometry.within_normal_mechanical_arc,true,Planned
+F287,1,Event detail,C01E02 Kip: geometry.ready_at_start,true,Planned
+F288,1,Event detail,C01E02 Kip: geometry.target_is_constructed_fixture,true,Planned
+F289,1,Event detail,C01E02 Kip: geometry.shield_removed_physically_if_any,true,Planned
+F290,1,Event detail,C01E02 Kip: outcome,"ordinary legal fixture function, no strengthened output",Planned
+F291,1,Event detail,C01E03 Dane: target,front of litter retreat,Planned
+F292,1,Event detail,C01E03 Dane: geometry.weapon_raised_in_right_hand,true,Planned
+F293,1,Event detail,C01E03 Dane: geometry.effect_seconds,8,Planned
+F294,1,Event detail,C01E03 Dane: geometry.physical_attack_crosses_front,true,Planned
+F295,1,Event detail,C01E03 Dane: geometry.runs_or_attacks_during_effect,false,Planned
+F296,1,Event detail,C01E03 Dane: geometry.blocks_heat_poison_or_suffocation,false,Planned
+F297,1,Event detail,C01E03 Dane: geometry.reduced_force_still_can_hurt,true,Planned
+F298,1,Event detail,C01E04 Kip: target,retreat pivot fire vent,Planned
+F299,1,Event detail,C01E04 Kip: note,"At 7m; ordinary aiming fan; heat is offense, never Ward protection.",Planned
+F300,1,Event detail,C01E04 Kip: control_seconds,5,Planned
+F301,1,Event detail,C01E04 Kip: geometry.distance_m,7,Planned
+F302,1,Event detail,C01E04 Kip: geometry.prior_sight_distance_m,7,Planned
+F303,1,Event detail,C01E04 Kip: geometry.prior_sight_attention_seconds,1,Planned
+F304,1,Event detail,C01E04 Kip: geometry.visible_at_start,true,Planned
+F305,1,Event detail,C01E04 Kip: geometry.available_at_start,true,Planned
+F306,1,Event detail,C01E04 Kip: geometry.within_normal_mechanical_arc,true,Planned
+F307,1,Event detail,C01E04 Kip: geometry.ready_at_start,true,Planned
+F308,1,Event detail,C01E04 Kip: geometry.target_is_constructed_fixture,true,Planned
+F309,1,Event detail,C01E04 Kip: geometry.shield_removed_physically_if_any,true,Planned
+F310,1,Event detail,C01E04 Kip: outcome,"ordinary legal fixture function, no strengthened output",Planned
+F311,1,Event detail,C01E05 Owen: target,"Kip 8cm-long, 0.4cm-deep forearm cut",Planned
+F312,1,Event detail,C01E05 Owen: note,After fire and physical door closure: twenty seconds of protected contact through08:02:30. Tissue present/aligned. No seated recovery is taken.,Planned
+F313,1,Event detail,C01E05 Owen: geometry.wound_length_cm,8,Planned
+F314,1,Event detail,C01E05 Owen: geometry.wound_depth_cm,0.4,Planned
+F315,1,Event detail,C01E05 Owen: geometry.external_wound,true,Planned
+F316,1,Event detail,C01E05 Owen: geometry.tissue_present_and_aligned,true,Planned
+F317,1,Event detail,C01E05 Owen: geometry.uninterrupted_touch_seconds,20,Planned
+F318,1,Event detail,C01E05 Owen: geometry.repairs_bone_blood_organs_or_nerves,false,Planned
+F319,1,Event detail,C01E05 Owen: geometry.protected_position_for_channel_required_in_prose,true,Planned
+F320,2,Event detail,C02E01 Kip: target,A: service chamber anchor,Planned
+F321,2,Event detail,C02E01 Kip: note,Cleared chamber 12m across; seal absent; all hostiles out; touch uninterrupted to 08:06:40.,Planned
+F322,2,Event detail,C02E01 Kip: geometry.enclosed_room_max_width_m,12,Planned
+F323,2,Event detail,C02E01 Kip: geometry.intact_anchor,true,Planned
+F324,2,Event detail,C02E01 Kip: geometry.guardian_defeated_or_none_assigned,true,Planned
+F325,2,Event detail,C02E01 Kip: geometry.protective_seal_removed_or_absent,true,Planned
+F326,2,Event detail,C02E01 Kip: geometry.living_hostiles_inside_at_start,0,Planned
+F327,2,Event detail,C02E01 Kip: geometry.boss_chamber,false,Planned
+F328,2,Event detail,C02E01 Kip: channel_seconds,30,Planned
+F329,2,Event detail,C02E01 Kip: outcome,success after uninterrupted30seconds,Planned
+F330,2,Event detail,C02E02 Kip: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F331,2,Event detail,C02E02 Kip: ends,Day 1 08:09:50,Planned
+F332,2,Event detail,C02E03 Tessa: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F333,2,Event detail,C02E03 Tessa: ends,Day 1 08:13:50,Planned
+F334,2,Event detail,C02E04 Owen: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F335,2,Event detail,C02E04 Owen: ends,Day 1 08:16:50,Planned
+F336,2,Event detail,C02E05 Kip: target,clear floor facing cloth-weight test,Planned
+F337,2,Event detail,C02E05 Kip: note,"First Claim grants ability only after valid claim; two-second setup, bundle crosses front.",Planned
+F338,2,Event detail,C02E05 Kip: setup_seconds,2,Planned
+F339,2,Event detail,C02E05 Kip: physical_impact_seconds_after_start,8,Planned
+F340,2,Event detail,C02E05 Kip: geometry.clear_ground,true,Planned
+F341,2,Event detail,C02E05 Kip: geometry.within_3m,true,Planned
+F342,2,Event detail,C02E05 Kip: geometry.upright_2m_square,true,Planned
+F343,2,Event detail,C02E05 Kip: geometry.stationary,true,Planned
+F344,2,Event detail,C02E05 Kip: geometry.physical_impact_crosses_front,true,Planned
+F345,2,Event detail,C02E05 Kip: geometry.blocks_heat_or_water,false,Planned
+F346,2,Event detail,C02E06 Kip: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F347,2,Event detail,C02E06 Kip: ends,Day 1 08:20:00,Planned
+F348,2,Event detail,C02E07 Dane: note,Tessa now watches while Dane sits; no immediate attack.,Planned
+F349,2,Event detail,C02E07 Dane: ends,Day 1 08:29:00,Planned
+F350,3,Event detail,C03E01 Tessa: target,fresh physical tracks toward main passage,Planned
+F351,3,Event detail,C03E01 Tessa: geometry.physical_track_inspected,true,Planned
+F352,3,Event detail,C03E01 Tessa: geometry.oldest_trace_minutes,60,Planned
+F353,3,Event detail,C03E01 Tessa: geometry.radius_m,25,Planned
+F354,3,Event detail,C03E01 Tessa: geometry.trace_visible_line_of_sight,true,Planned
+F355,3,Event detail,C03E01 Tessa: geometry.reveals_current_person_location_or_mind,false,Planned
+F356,3,Event detail,C03E02 Kip: target,clear ground facing downhill debris,Planned
+F357,3,Event detail,C03E02 Kip: note,Two seconds setup; rolling stone crosses upright front within ten seconds; half force still hazardous.,Planned
+F358,3,Event detail,C03E02 Kip: setup_seconds,2,Planned
+F359,3,Event detail,C03E02 Kip: physical_impact_seconds_after_start,8,Planned
+F360,3,Event detail,C03E02 Kip: geometry.clear_ground,true,Planned
+F361,3,Event detail,C03E02 Kip: geometry.within_3m,true,Planned
+F362,3,Event detail,C03E02 Kip: geometry.upright_2m_square,true,Planned
+F363,3,Event detail,C03E02 Kip: geometry.stationary,true,Planned
+F364,3,Event detail,C03E02 Kip: geometry.physical_impact_crosses_front,true,Planned
+F365,3,Event detail,C03E02 Kip: geometry.blocks_heat_or_water,false,Planned
+F366,3,Event detail,C03E03 Dane: target,litter on visible clear 6m path,Planned
+F367,3,Event detail,C03E03 Dane: note, Separate small rock parried at09:30:04; the larger rolling stone reaches Ward at09:30:08.,Planned
+F368,3,Event detail,C03E03 Dane: geometry.path_length_m,6,Planned
+F369,3,Event detail,C03E03 Dane: geometry.visible_ally,true,Planned
+F370,3,Event detail,C03E03 Dane: geometry.clear_physical_path,true,Planned
+F371,3,Event detail,C03E03 Dane: geometry.functional_weapon_in_right_hand,true,Planned
+F372,3,Event detail,C03E03 Dane: geometry.uses_enhanced_block,true,Planned
+F373,3,Event detail,C03E03 Dane: geometry.block_seconds_after_activation,1,Planned
+F374,3,Event detail,C03E03 Dane: geometry.parryable_physical_attack,true,Planned
+F375,3,Event detail,C03E03 Dane: geometry.all_direction_protection_assumed,false,Planned
+F376,3,Event detail,C03E04 Owen: target,Jory new 12cm/0.5cm forearm cut,Planned
+F377,3,Event detail,C03E04 Owen: note,Five seconds contact; seal ends 10:25:05 unless strain breaks it; next chapter Mend before expiry.,Planned
+F378,3,Event detail,C03E04 Owen: geometry.wound_length_cm,12,Planned
+F379,3,Event detail,C03E04 Owen: geometry.wound_depth_cm,0.5,Planned
+F380,3,Event detail,C03E04 Owen: geometry.external_wound,true,Planned
+F381,3,Event detail,C03E04 Owen: geometry.tissue_present_and_aligned,true,Planned
+F382,3,Event detail,C03E04 Owen: geometry.uninterrupted_touch_seconds,5,Planned
+F383,3,Event detail,C03E04 Owen: geometry.repairs_bone_blood_organs_or_nerves,false,Planned
+F384,3,Event detail,C03E04 Owen: geometry.protected_position_for_channel_required_in_prose,true,Planned
+F385,4,Event detail,C04E01 Owen: target,Jory sealed forearm cut,Planned
+F386,4,Event detail,C04E01 Owen: note,Repairs eligible shallow tissue before Staunch expires; fracture remains.,Planned
+F387,4,Event detail,C04E01 Owen: geometry.wound_length_cm,12,Planned
+F388,4,Event detail,C04E01 Owen: geometry.wound_depth_cm,0.5,Planned
+F389,4,Event detail,C04E01 Owen: geometry.external_wound,true,Planned
+F390,4,Event detail,C04E01 Owen: geometry.tissue_present_and_aligned,true,Planned
+F391,4,Event detail,C04E01 Owen: geometry.uninterrupted_touch_seconds,20,Planned
+F392,4,Event detail,C04E01 Owen: geometry.repairs_bone_blood_organs_or_nerves,false,Planned
+F393,4,Event detail,C04E01 Owen: geometry.protected_position_for_channel_required_in_prose,true,Planned
+F394,4,Event detail,C04E02 Tessa: target,fresh guard traces,Planned
+F395,4,Event detail,C04E02 Tessa: geometry.physical_track_inspected,true,Planned
+F396,4,Event detail,C04E02 Tessa: geometry.oldest_trace_minutes,60,Planned
+F397,4,Event detail,C04E02 Tessa: geometry.radius_m,25,Planned
+F398,4,Event detail,C04E02 Tessa: geometry.trace_visible_line_of_sight,true,Planned
+F399,4,Event detail,C04E02 Tessa: geometry.reveals_current_person_location_or_mind,false,Planned
+F400,4,Event detail,C04E03 Kip: target,gate-gallery rotating dart launcher,Planned
+F401,4,Event detail,C04E03 Kip: note,Available launcher suppression only five seconds; separate gate brake remains Shielded.,Planned
+F402,4,Event detail,C04E03 Kip: control_seconds,5,Planned
+F403,4,Event detail,C04E03 Kip: geometry.distance_m,10,Planned
+F404,4,Event detail,C04E03 Kip: geometry.prior_sight_distance_m,10,Planned
+F405,4,Event detail,C04E03 Kip: geometry.prior_sight_attention_seconds,1,Planned
+F406,4,Event detail,C04E03 Kip: geometry.visible_at_start,true,Planned
+F407,4,Event detail,C04E03 Kip: geometry.available_at_start,true,Planned
+F408,4,Event detail,C04E03 Kip: geometry.within_normal_mechanical_arc,true,Planned
+F409,4,Event detail,C04E03 Kip: geometry.ready_at_start,true,Planned
+F410,4,Event detail,C04E03 Kip: geometry.target_is_constructed_fixture,true,Planned
+F411,4,Event detail,C04E03 Kip: geometry.shield_removed_physically_if_any,true,Planned
+F412,4,Event detail,C04E03 Kip: outcome,"ordinary legal fixture function, no strengthened output",Planned
+F413,4,Event detail,C04E04 Tessa: target,open retreat path,Planned
+F414,4,Event detail,C04E04 Tessa: geometry.path_length_m,8,Planned
+F415,4,Event detail,C04E04 Tessa: geometry.visible_traversable_physical_path,true,Planned
+F416,4,Event detail,C04E04 Tessa: geometry.passes_through_creature_wall_or_restraint,false,Planned
+F417,4,Event detail,C04E04 Tessa: geometry.carries_another_adult,false,Planned
+F418,4,Event detail,C04E04 Tessa: geometry.crosses_otherwise_impossible_gap,false,Planned
+F419,4,Event detail,C04E04 Tessa: geometry.hazard_immunity_assumed,false,Planned
+F420,4,Event detail,C04E05 Dane: target,frontal withdrawal,Planned
+F421,4,Event detail,C04E05 Dane: geometry.weapon_raised_in_right_hand,true,Planned
+F422,4,Event detail,C04E05 Dane: geometry.effect_seconds,8,Planned
+F423,4,Event detail,C04E05 Dane: geometry.physical_attack_crosses_front,true,Planned
+F424,4,Event detail,C04E05 Dane: geometry.runs_or_attacks_during_effect,false,Planned
+F425,4,Event detail,C04E05 Dane: geometry.blocks_heat_poison_or_suffocation,false,Planned
+F426,4,Event detail,C04E05 Dane: geometry.reduced_force_still_can_hurt,true,Planned
+F427,4,Event detail,C04E06 Kip: target,physical barb lane,Planned
+F428,4,Event detail,C04E06 Kip: note,Setup complete before barb arrives; no heat/water protection.,Planned
+F429,4,Event detail,C04E06 Kip: setup_seconds,2,Planned
+F430,4,Event detail,C04E06 Kip: physical_impact_seconds_after_start,8,Planned
+F431,4,Event detail,C04E06 Kip: geometry.clear_ground,true,Planned
+F432,4,Event detail,C04E06 Kip: geometry.within_3m,true,Planned
+F433,4,Event detail,C04E06 Kip: geometry.upright_2m_square,true,Planned
+F434,4,Event detail,C04E06 Kip: geometry.stationary,true,Planned
+F435,4,Event detail,C04E06 Kip: geometry.physical_impact_crosses_front,true,Planned
+F436,4,Event detail,C04E06 Kip: geometry.blocks_heat_or_water,false,Planned
+F437,4,Event detail,C04E08 Kip: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F438,4,Event detail,C04E08 Kip: ends,Day 1 10:44:00,Planned
+F439,4,Event detail,C04E09 Tessa: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F440,4,Event detail,C04E09 Tessa: ends,Day 1 10:44:00,Planned
+F441,4,Event detail,C04E10 Owen: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F442,4,Event detail,C04E10 Owen: ends,Day 1 10:41:00,Planned
+F443,4,Event detail,C04E11 Dane: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F444,4,Event detail,C04E11 Dane: ends,Day 1 10:52:00,Planned
+F445,5,Event detail,C05E01 Tessa: target,fresh grazer trail,Planned
+F446,5,Event detail,C05E01 Tessa: geometry.physical_track_inspected,true,Planned
+F447,5,Event detail,C05E01 Tessa: geometry.oldest_trace_minutes,60,Planned
+F448,5,Event detail,C05E01 Tessa: geometry.radius_m,25,Planned
+F449,5,Event detail,C05E01 Tessa: geometry.trace_visible_line_of_sight,true,Planned
+F450,5,Event detail,C05E01 Tessa: geometry.reveals_current_person_location_or_mind,false,Planned
+F451,5,Event detail,C05E02 Tessa: target,visible safe path,Planned
+F452,5,Event detail,C05E02 Tessa: geometry.path_length_m,8,Planned
+F453,5,Event detail,C05E02 Tessa: geometry.visible_traversable_physical_path,true,Planned
+F454,5,Event detail,C05E02 Tessa: geometry.passes_through_creature_wall_or_restraint,false,Planned
+F455,5,Event detail,C05E02 Tessa: geometry.carries_another_adult,false,Planned
+F456,5,Event detail,C05E02 Tessa: geometry.crosses_otherwise_impossible_gap,false,Planned
+F457,5,Event detail,C05E02 Tessa: geometry.hazard_immunity_assumed,false,Planned
+F458,5,Event detail,C05E03 Kip: target,physical predator lunge lane,Planned
+F459,5,Event detail,C05E03 Kip: setup_seconds,2,Planned
+F460,5,Event detail,C05E03 Kip: physical_impact_seconds_after_start,8,Planned
+F461,5,Event detail,C05E03 Kip: geometry.clear_ground,true,Planned
+F462,5,Event detail,C05E03 Kip: geometry.within_3m,true,Planned
+F463,5,Event detail,C05E03 Kip: geometry.upright_2m_square,true,Planned
+F464,5,Event detail,C05E03 Kip: geometry.stationary,true,Planned
+F465,5,Event detail,C05E03 Kip: geometry.physical_impact_crosses_front,true,Planned
+F466,5,Event detail,C05E03 Kip: geometry.blocks_heat_or_water,false,Planned
+F467,5,Event detail,C05E04 Dane: target,stranded worker within 8m,Planned
+F468,5,Event detail,C05E04 Dane: geometry.path_length_m,6,Planned
+F469,5,Event detail,C05E04 Dane: geometry.visible_ally,true,Planned
+F470,5,Event detail,C05E04 Dane: geometry.clear_physical_path,true,Planned
+F471,5,Event detail,C05E04 Dane: geometry.functional_weapon_in_right_hand,true,Planned
+F472,5,Event detail,C05E04 Dane: geometry.uses_enhanced_block,true,Planned
+F473,5,Event detail,C05E04 Dane: geometry.block_seconds_after_activation,2,Planned
+F474,5,Event detail,C05E04 Dane: geometry.parryable_physical_attack,true,Planned
+F475,5,Event detail,C05E04 Dane: geometry.all_direction_protection_assumed,false,Planned
+F476,5,Event detail,C05E05 Kip: target,garden-exit portcullis,Planned
+F477,5,Event detail,C05E05 Kip: note,Ready existing defensive gate; hold closed five seconds during last worker extraction; ordinary master control resumes afterward.,Planned
+F478,5,Event detail,C05E05 Kip: control_seconds,5,Planned
+F479,5,Event detail,C05E05 Kip: geometry.distance_m,6,Planned
+F480,5,Event detail,C05E05 Kip: geometry.prior_sight_distance_m,6,Planned
+F481,5,Event detail,C05E05 Kip: geometry.prior_sight_attention_seconds,1,Planned
+F482,5,Event detail,C05E05 Kip: geometry.visible_at_start,true,Planned
+F483,5,Event detail,C05E05 Kip: geometry.available_at_start,true,Planned
+F484,5,Event detail,C05E05 Kip: geometry.within_normal_mechanical_arc,true,Planned
+F485,5,Event detail,C05E05 Kip: geometry.ready_at_start,true,Planned
+F486,5,Event detail,C05E05 Kip: geometry.target_is_constructed_fixture,true,Planned
+F487,5,Event detail,C05E05 Kip: geometry.shield_removed_physically_if_any,true,Planned
+F488,5,Event detail,C05E05 Kip: outcome,"ordinary legal fixture function, no strengthened output",Planned
+F489,5,Event detail,C05E06 Owen: target,rope-hauler 10cm/0.5cm shoulder cut,Planned
+F490,5,Event detail,C05E06 Owen: geometry.wound_length_cm,10,Planned
+F491,5,Event detail,C05E06 Owen: geometry.wound_depth_cm,0.5,Planned
+F492,5,Event detail,C05E06 Owen: geometry.external_wound,true,Planned
+F493,5,Event detail,C05E06 Owen: geometry.tissue_present_and_aligned,true,Planned
+F494,5,Event detail,C05E06 Owen: geometry.uninterrupted_touch_seconds,20,Planned
+F495,5,Event detail,C05E06 Owen: geometry.repairs_bone_blood_organs_or_nerves,false,Planned
+F496,5,Event detail,C05E06 Owen: geometry.protected_position_for_channel_required_in_prose,true,Planned
+F497,5,Event detail,C05E08 Kip: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F498,5,Event detail,C05E08 Kip: ends,Day 1 13:06:00,Planned
+F499,5,Event detail,C05E09 Tessa: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F500,5,Event detail,C05E09 Tessa: ends,Day 1 13:05:00,Planned
+F501,5,Event detail,C05E10 Owen: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F502,5,Event detail,C05E10 Owen: ends,Day 1 13:04:00,Planned
+F503,5,Event detail,C05E11 Dane: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F504,5,Event detail,C05E11 Dane: ends,Day 1 13:03:00,Planned
+F505,6,Event detail,C06E01 Tessa: target,clear shore path to physical protective rune,Planned
+F506,6,Event detail,C06E01 Tessa: geometry.path_length_m,8,Planned
+F507,6,Event detail,C06E01 Tessa: geometry.visible_traversable_physical_path,true,Planned
+F508,6,Event detail,C06E01 Tessa: geometry.passes_through_creature_wall_or_restraint,false,Planned
+F509,6,Event detail,C06E01 Tessa: geometry.carries_another_adult,false,Planned
+F510,6,Event detail,C06E01 Tessa: geometry.crosses_otherwise_impossible_gap,false,Planned
+F511,6,Event detail,C06E01 Tessa: geometry.hazard_immunity_assumed,false,Planned
+F512,6,Event detail,C06E02 Dane: target,guardian charge lane,Planned
+F513,6,Event detail,C06E02 Dane: geometry.weapon_raised_in_right_hand,true,Planned
+F514,6,Event detail,C06E02 Dane: geometry.effect_seconds,8,Planned
+F515,6,Event detail,C06E02 Dane: geometry.physical_attack_crosses_front,true,Planned
+F516,6,Event detail,C06E02 Dane: geometry.runs_or_attacks_during_effect,false,Planned
+F517,6,Event detail,C06E02 Dane: geometry.blocks_heat_poison_or_suffocation,false,Planned
+F518,6,Event detail,C06E02 Dane: geometry.reduced_force_still_can_hurt,true,Planned
+F519,6,Event detail,C06E03 Kip: target,cistern defense waterjet,Planned
+F520,6,Event detail,C06E03 Kip: note,"Shield physically removed; within10m, normal aiming arc; physical jet redirects mineral-feeder.",Planned
+F521,6,Event detail,C06E03 Kip: control_seconds,5,Planned
+F522,6,Event detail,C06E03 Kip: geometry.distance_m,9,Planned
+F523,6,Event detail,C06E03 Kip: geometry.prior_sight_distance_m,9,Planned
+F524,6,Event detail,C06E03 Kip: geometry.prior_sight_attention_seconds,1,Planned
+F525,6,Event detail,C06E03 Kip: geometry.visible_at_start,true,Planned
+F526,6,Event detail,C06E03 Kip: geometry.available_at_start,true,Planned
+F527,6,Event detail,C06E03 Kip: geometry.within_normal_mechanical_arc,true,Planned
+F528,6,Event detail,C06E03 Kip: geometry.ready_at_start,true,Planned
+F529,6,Event detail,C06E03 Kip: geometry.target_is_constructed_fixture,true,Planned
+F530,6,Event detail,C06E03 Kip: geometry.shield_removed_physically_if_any,true,Planned
+F531,6,Event detail,C06E03 Kip: outcome,"ordinary legal fixture function, no strengthened output",Planned
+F532,6,Event detail,C06E05 Kip: target,B: cistern anchor,Planned
+F533,6,Event detail,C06E05 Kip: note,Guardian defeated; seal gone; all hostiles out; 18m enclosed chamber; success releases A.,Planned
+F534,6,Event detail,C06E05 Kip: geometry.enclosed_room_max_width_m,18,Planned
+F535,6,Event detail,C06E05 Kip: geometry.intact_anchor,true,Planned
+F536,6,Event detail,C06E05 Kip: geometry.guardian_defeated_or_none_assigned,true,Planned
+F537,6,Event detail,C06E05 Kip: geometry.protective_seal_removed_or_absent,true,Planned
+F538,6,Event detail,C06E05 Kip: geometry.living_hostiles_inside_at_start,0,Planned
+F539,6,Event detail,C06E05 Kip: geometry.boss_chamber,false,Planned
+F540,6,Event detail,C06E05 Kip: channel_seconds,30,Planned
+F541,6,Event detail,C06E05 Kip: outcome,success after uninterrupted30seconds,Planned
+F542,6,Event detail,C06E06 Kip: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F543,6,Event detail,C06E06 Kip: ends,Day 1 15:07:00,Planned
+F544,6,Event detail,C06E07 Tessa: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F545,6,Event detail,C06E07 Tessa: ends,Day 1 15:03:00,Planned
+F546,6,Event detail,C06E08 Owen: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F547,6,Event detail,C06E08 Owen: ends,Day 1 15:01:00,Planned
+F548,6,Event detail,C06E09 Dane: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F549,6,Event detail,C06E09 Dane: ends,Day 1 15:05:00,Planned
+F550,7,Event detail,C07E01 Kip: target,cistern training waterjet,Planned
+F551,7,Event detail,C07E01 Kip: note,Ordinary fixed-output aiming control into a physically safe empty catch within its normal arc; no invented low-power setting and no XP.,Planned
+F552,7,Event detail,C07E01 Kip: control_seconds,5,Planned
+F553,7,Event detail,C07E01 Kip: geometry.distance_m,6,Planned
+F554,7,Event detail,C07E01 Kip: geometry.prior_sight_distance_m,6,Planned
+F555,7,Event detail,C07E01 Kip: geometry.prior_sight_attention_seconds,1,Planned
+F556,7,Event detail,C07E01 Kip: geometry.visible_at_start,true,Planned
+F557,7,Event detail,C07E01 Kip: geometry.available_at_start,true,Planned
+F558,7,Event detail,C07E01 Kip: geometry.within_normal_mechanical_arc,true,Planned
+F559,7,Event detail,C07E01 Kip: geometry.ready_at_start,true,Planned
+F560,7,Event detail,C07E01 Kip: geometry.target_is_constructed_fixture,true,Planned
+F561,7,Event detail,C07E01 Kip: geometry.shield_removed_physically_if_any,true,Planned
+F562,7,Event detail,C07E01 Kip: outcome,"ordinary legal fixture function, no strengthened output",Planned
+F563,7,Event detail,C07E02 Kip: target,cistern training waterjet,Planned
+F564,7,Event detail,C07E02 Kip: note,Ordinary fixed-output aiming control into a physically safe empty catch within its normal arc; no invented low-power setting and no XP.,Planned
+F565,7,Event detail,C07E02 Kip: control_seconds,5,Planned
+F566,7,Event detail,C07E02 Kip: geometry.distance_m,6,Planned
+F567,7,Event detail,C07E02 Kip: geometry.prior_sight_distance_m,6,Planned
+F568,7,Event detail,C07E02 Kip: geometry.prior_sight_attention_seconds,1,Planned
+F569,7,Event detail,C07E02 Kip: geometry.visible_at_start,true,Planned
+F570,7,Event detail,C07E02 Kip: geometry.available_at_start,true,Planned
+F571,7,Event detail,C07E02 Kip: geometry.within_normal_mechanical_arc,true,Planned
+F572,7,Event detail,C07E02 Kip: geometry.ready_at_start,true,Planned
+F573,7,Event detail,C07E02 Kip: geometry.target_is_constructed_fixture,true,Planned
+F574,7,Event detail,C07E02 Kip: geometry.shield_removed_physically_if_any,true,Planned
+F575,7,Event detail,C07E02 Kip: outcome,"ordinary legal fixture function, no strengthened output",Planned
+F576,7,Event detail,C07E03 Kip: target,cistern training waterjet,Planned
+F577,7,Event detail,C07E03 Kip: note,Ordinary fixed-output aiming control into a physically safe empty catch within its normal arc; no invented low-power setting and no XP.,Planned
+F578,7,Event detail,C07E03 Kip: control_seconds,5,Planned
+F579,7,Event detail,C07E03 Kip: geometry.distance_m,6,Planned
+F580,7,Event detail,C07E03 Kip: geometry.prior_sight_distance_m,6,Planned
+F581,7,Event detail,C07E03 Kip: geometry.prior_sight_attention_seconds,1,Planned
+F582,7,Event detail,C07E03 Kip: geometry.visible_at_start,true,Planned
+F583,7,Event detail,C07E03 Kip: geometry.available_at_start,true,Planned
+F584,7,Event detail,C07E03 Kip: geometry.within_normal_mechanical_arc,true,Planned
+F585,7,Event detail,C07E03 Kip: geometry.ready_at_start,true,Planned
+F586,7,Event detail,C07E03 Kip: geometry.target_is_constructed_fixture,true,Planned
+F587,7,Event detail,C07E03 Kip: geometry.shield_removed_physically_if_any,true,Planned
+F588,7,Event detail,C07E03 Kip: outcome,"ordinary legal fixture function, no strengthened output",Planned
+F589,7,Event detail,C07E04 Kip: target,cistern training waterjet,Planned
+F590,7,Event detail,C07E04 Kip: note,Ordinary fixed-output aiming control into a physically safe empty catch within its normal arc; no invented low-power setting and no XP.,Planned
+F591,7,Event detail,C07E04 Kip: control_seconds,5,Planned
+F592,7,Event detail,C07E04 Kip: geometry.distance_m,6,Planned
+F593,7,Event detail,C07E04 Kip: geometry.prior_sight_distance_m,6,Planned
+F594,7,Event detail,C07E04 Kip: geometry.prior_sight_attention_seconds,1,Planned
+F595,7,Event detail,C07E04 Kip: geometry.visible_at_start,true,Planned
+F596,7,Event detail,C07E04 Kip: geometry.available_at_start,true,Planned
+F597,7,Event detail,C07E04 Kip: geometry.within_normal_mechanical_arc,true,Planned
+F598,7,Event detail,C07E04 Kip: geometry.ready_at_start,true,Planned
+F599,7,Event detail,C07E04 Kip: geometry.target_is_constructed_fixture,true,Planned
+F600,7,Event detail,C07E04 Kip: geometry.shield_removed_physically_if_any,true,Planned
+F601,7,Event detail,C07E04 Kip: outcome,"ordinary legal fixture function, no strengthened output",Planned
+F602,7,Event detail,C07E05 Kip: target,cistern training waterjet,Planned
+F603,7,Event detail,C07E05 Kip: note,Ordinary fixed-output aiming control into a physically safe empty catch within its normal arc; no invented low-power setting and no XP.,Planned
+F604,7,Event detail,C07E05 Kip: control_seconds,5,Planned
+F605,7,Event detail,C07E05 Kip: geometry.distance_m,6,Planned
+F606,7,Event detail,C07E05 Kip: geometry.prior_sight_distance_m,6,Planned
+F607,7,Event detail,C07E05 Kip: geometry.prior_sight_attention_seconds,1,Planned
+F608,7,Event detail,C07E05 Kip: geometry.visible_at_start,true,Planned
+F609,7,Event detail,C07E05 Kip: geometry.available_at_start,true,Planned
+F610,7,Event detail,C07E05 Kip: geometry.within_normal_mechanical_arc,true,Planned
+F611,7,Event detail,C07E05 Kip: geometry.ready_at_start,true,Planned
+F612,7,Event detail,C07E05 Kip: geometry.target_is_constructed_fixture,true,Planned
+F613,7,Event detail,C07E05 Kip: geometry.shield_removed_physically_if_any,true,Planned
+F614,7,Event detail,C07E05 Kip: outcome,"ordinary legal fixture function, no strengthened output",Planned
+F615,7,Event detail,C07E06 Kip: target,cistern training waterjet,Planned
+F616,7,Event detail,C07E06 Kip: note,Ordinary fixed-output aiming control into a physically safe empty catch within its normal arc; no invented low-power setting and no XP.,Planned
+F617,7,Event detail,C07E06 Kip: control_seconds,5,Planned
+F618,7,Event detail,C07E06 Kip: geometry.distance_m,6,Planned
+F619,7,Event detail,C07E06 Kip: geometry.prior_sight_distance_m,6,Planned
+F620,7,Event detail,C07E06 Kip: geometry.prior_sight_attention_seconds,1,Planned
+F621,7,Event detail,C07E06 Kip: geometry.visible_at_start,true,Planned
+F622,7,Event detail,C07E06 Kip: geometry.available_at_start,true,Planned
+F623,7,Event detail,C07E06 Kip: geometry.within_normal_mechanical_arc,true,Planned
+F624,7,Event detail,C07E06 Kip: geometry.ready_at_start,true,Planned
+F625,7,Event detail,C07E06 Kip: geometry.target_is_constructed_fixture,true,Planned
+F626,7,Event detail,C07E06 Kip: geometry.shield_removed_physically_if_any,true,Planned
+F627,7,Event detail,C07E06 Kip: outcome,"ordinary legal fixture function, no strengthened output",Planned
+F628,7,Event detail,C07E07 Kip: note,Dedicated quiet recovery interval excluded from focused training time; Tessa holds watch.,Planned
+F629,7,Event detail,C07E07 Kip: ends,Day 1 18:12:00,Planned
+F630,8,Event detail,C08E01 Kip: target,cistern west dart fixture,Planned
+F631,8,Event detail,C08E01 Kip: note,Within9m; currentRank1 proof succeeds before Rank2 granted.,Planned
+F632,8,Event detail,C08E01 Kip: control_seconds,1,Planned
+F633,8,Event detail,C08E01 Kip: geometry.distance_m,9,Planned
+F634,8,Event detail,C08E01 Kip: geometry.prior_sight_distance_m,9,Planned
+F635,8,Event detail,C08E01 Kip: geometry.prior_sight_attention_seconds,1,Planned
+F636,8,Event detail,C08E01 Kip: geometry.visible_at_start,true,Planned
+F637,8,Event detail,C08E01 Kip: geometry.available_at_start,true,Planned
+F638,8,Event detail,C08E01 Kip: geometry.within_normal_mechanical_arc,true,Planned
+F639,8,Event detail,C08E01 Kip: geometry.ready_at_start,true,Planned
+F640,8,Event detail,C08E01 Kip: geometry.target_is_constructed_fixture,true,Planned
+F641,8,Event detail,C08E01 Kip: geometry.shield_removed_physically_if_any,true,Planned
+F642,8,Event detail,C08E01 Kip: outcome,"ordinary legal fixture function, no strengthened output",Planned
+F643,8,Event detail,C08E02 Tessa: target,patient evacuation route,Planned
+F644,8,Event detail,C08E02 Tessa: geometry.path_length_m,8,Planned
+F645,8,Event detail,C08E02 Tessa: geometry.visible_traversable_physical_path,true,Planned
+F646,8,Event detail,C08E02 Tessa: geometry.passes_through_creature_wall_or_restraint,false,Planned
+F647,8,Event detail,C08E02 Tessa: geometry.carries_another_adult,false,Planned
+F648,8,Event detail,C08E02 Tessa: geometry.crosses_otherwise_impossible_gap,false,Planned
+F649,8,Event detail,C08E02 Tessa: geometry.hazard_immunity_assumed,false,Planned
+F650,8,Event detail,C08E03 Dane: target,front of evacuation,Planned
+F651,8,Event detail,C08E03 Dane: geometry.weapon_raised_in_right_hand,true,Planned
+F652,8,Event detail,C08E03 Dane: geometry.effect_seconds,8,Planned
+F653,8,Event detail,C08E03 Dane: geometry.physical_attack_crosses_front,true,Planned
+F654,8,Event detail,C08E03 Dane: geometry.runs_or_attacks_during_effect,false,Planned
+F655,8,Event detail,C08E03 Dane: geometry.blocks_heat_poison_or_suffocation,false,Planned
+F656,8,Event detail,C08E03 Dane: geometry.reduced_force_still_can_hurt,true,Planned
+F657,8,Event detail,C08E04 Kip: target,cistern south dart fixture,Planned
+F658,8,Event detail,C08E04 Kip: note,Earlier inspected at8m; now visible14m Rank2 use. No Sight range increase.,Planned
+F659,8,Event detail,C08E04 Kip: control_seconds,1,Planned
+F660,8,Event detail,C08E04 Kip: geometry.distance_m,14,Planned
+F661,8,Event detail,C08E04 Kip: geometry.prior_sight_distance_m,8,Planned
+F662,8,Event detail,C08E04 Kip: geometry.prior_sight_attention_seconds,1,Planned
+F663,8,Event detail,C08E04 Kip: geometry.visible_at_start,true,Planned
+F664,8,Event detail,C08E04 Kip: geometry.available_at_start,true,Planned
+F665,8,Event detail,C08E04 Kip: geometry.within_normal_mechanical_arc,true,Planned
+F666,8,Event detail,C08E04 Kip: geometry.ready_at_start,true,Planned
+F667,8,Event detail,C08E04 Kip: geometry.target_is_constructed_fixture,true,Planned
+F668,8,Event detail,C08E04 Kip: geometry.shield_removed_physically_if_any,true,Planned
+F669,8,Event detail,C08E04 Kip: outcome,"ordinary legal fixture function, no strengthened output",Planned
+F670,8,Event detail,C08E05 Kip: target,second physical attack lane,Planned
+F671,8,Event detail,C08E05 Kip: setup_seconds,2,Planned
+F672,8,Event detail,C08E05 Kip: physical_impact_seconds_after_start,8,Planned
+F673,8,Event detail,C08E05 Kip: geometry.clear_ground,true,Planned
+F674,8,Event detail,C08E05 Kip: geometry.within_3m,true,Planned
+F675,8,Event detail,C08E05 Kip: geometry.upright_2m_square,true,Planned
+F676,8,Event detail,C08E05 Kip: geometry.stationary,true,Planned
+F677,8,Event detail,C08E05 Kip: geometry.physical_impact_crosses_front,true,Planned
+F678,8,Event detail,C08E05 Kip: geometry.blocks_heat_or_water,false,Planned
+F679,8,Event detail,C08E06 Dane: target,worker behind flank,Planned
+F680,8,Event detail,C08E06 Dane: note,Earlier Bulwark ended; no overlapping own bonus. Ward impact at09:01:38 leaves reduced force for deliberate block within three-second bonus.,Planned
+F681,8,Event detail,C08E06 Dane: geometry.path_length_m,6,Planned
+F682,8,Event detail,C08E06 Dane: geometry.visible_ally,true,Planned
+F683,8,Event detail,C08E06 Dane: geometry.clear_physical_path,true,Planned
+F684,8,Event detail,C08E06 Dane: geometry.functional_weapon_in_right_hand,true,Planned
+F685,8,Event detail,C08E06 Dane: geometry.uses_enhanced_block,true,Planned
+F686,8,Event detail,C08E06 Dane: geometry.block_seconds_after_activation,2,Planned
+F687,8,Event detail,C08E06 Dane: geometry.parryable_physical_attack,true,Planned
+F688,8,Event detail,C08E06 Dane: geometry.all_direction_protection_assumed,false,Planned
+F689,8,Event detail,C08E07 Owen: target,rope-hauler 8cm/0.4cm flank cut,Planned
+F690,8,Event detail,C08E07 Owen: note,Five-second contact; clean dressing supports seal through retreat.,Planned
+F691,8,Event detail,C08E07 Owen: geometry.wound_length_cm,8,Planned
+F692,8,Event detail,C08E07 Owen: geometry.wound_depth_cm,0.4,Planned
+F693,8,Event detail,C08E07 Owen: geometry.external_wound,true,Planned
+F694,8,Event detail,C08E07 Owen: geometry.tissue_present_and_aligned,true,Planned
+F695,8,Event detail,C08E07 Owen: geometry.uninterrupted_touch_seconds,5,Planned
+F696,8,Event detail,C08E07 Owen: geometry.repairs_bone_blood_organs_or_nerves,false,Planned
+F697,8,Event detail,C08E07 Owen: geometry.protected_position_for_channel_required_in_prose,true,Planned
+F698,9,Event detail,C09E01 Tessa: target,fresh shelter approach traces,Planned
+F699,9,Event detail,C09E01 Tessa: geometry.physical_track_inspected,true,Planned
+F700,9,Event detail,C09E01 Tessa: geometry.oldest_trace_minutes,60,Planned
+F701,9,Event detail,C09E01 Tessa: geometry.radius_m,25,Planned
+F702,9,Event detail,C09E01 Tessa: geometry.trace_visible_line_of_sight,true,Planned
+F703,9,Event detail,C09E01 Tessa: geometry.reveals_current_person_location_or_mind,false,Planned
+F704,9,Event detail,C09E02 Kip: target,horizontal waterborne beam lane,Planned
+F705,9,Event detail,C09E02 Kip: note,Beam hits front while worker crosses; water itself is not blocked.,Planned
+F706,9,Event detail,C09E02 Kip: setup_seconds,2,Planned
+F707,9,Event detail,C09E02 Kip: physical_impact_seconds_after_start,8,Planned
+F708,9,Event detail,C09E02 Kip: geometry.clear_ground,true,Planned
+F709,9,Event detail,C09E02 Kip: geometry.within_3m,true,Planned
+F710,9,Event detail,C09E02 Kip: geometry.upright_2m_square,true,Planned
+F711,9,Event detail,C09E02 Kip: geometry.stationary,true,Planned
+F712,9,Event detail,C09E02 Kip: geometry.physical_impact_crosses_front,true,Planned
+F713,9,Event detail,C09E02 Kip: geometry.blocks_heat_or_water,false,Planned
+F714,9,Event detail,C09E03 Dane: target,worker beside crossing,Planned
+F715,9,Event detail,C09E03 Dane: note,Enhanced deliberate parry at09:30:08 meets the already Ward-slowed broken branch within three seconds. No parry of the whole stream.,Planned
+F716,9,Event detail,C09E03 Dane: geometry.path_length_m,6,Planned
+F717,9,Event detail,C09E03 Dane: geometry.visible_ally,true,Planned
+F718,9,Event detail,C09E03 Dane: geometry.clear_physical_path,true,Planned
+F719,9,Event detail,C09E03 Dane: geometry.functional_weapon_in_right_hand,true,Planned
+F720,9,Event detail,C09E03 Dane: geometry.uses_enhanced_block,true,Planned
+F721,9,Event detail,C09E03 Dane: geometry.block_seconds_after_activation,2,Planned
+F722,9,Event detail,C09E03 Dane: geometry.parryable_physical_attack,true,Planned
+F723,9,Event detail,C09E03 Dane: geometry.all_direction_protection_assumed,false,Planned
+F724,9,Event detail,C09E04 Owen: target,rope-hauler flank cut from chapter8,Planned
+F725,9,Event detail,C09E04 Owen: note,Repair before40-minute Staunch expiry; no repeatXP for individual wound.,Planned
+F726,9,Event detail,C09E04 Owen: geometry.wound_length_cm,8,Planned
+F727,9,Event detail,C09E04 Owen: geometry.wound_depth_cm,0.4,Planned
+F728,9,Event detail,C09E04 Owen: geometry.external_wound,true,Planned
+F729,9,Event detail,C09E04 Owen: geometry.tissue_present_and_aligned,true,Planned
+F730,9,Event detail,C09E04 Owen: geometry.uninterrupted_touch_seconds,20,Planned
+F731,9,Event detail,C09E04 Owen: geometry.repairs_bone_blood_organs_or_nerves,false,Planned
+F732,9,Event detail,C09E04 Owen: geometry.protected_position_for_channel_required_in_prose,true,Planned
+F733,9,Event detail,C09E06 Kip: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F734,9,Event detail,C09E06 Kip: ends,Day 2 10:11:00,Planned
+F735,9,Event detail,C09E07 Tessa: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F736,9,Event detail,C09E07 Tessa: ends,Day 2 10:05:00,Planned
+F737,9,Event detail,C09E08 Owen: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F738,9,Event detail,C09E08 Owen: ends,Day 2 10:06:00,Planned
+F739,9,Event detail,C09E09 Dane: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F740,9,Event detail,C09E09 Dane: ends,Day 2 10:22:00,Planned
+F741,10,Event detail,C10E01 Tessa: target,swimming scavenger traces above waterline,Planned
+F742,10,Event detail,C10E01 Tessa: geometry.physical_track_inspected,true,Planned
+F743,10,Event detail,C10E01 Tessa: geometry.oldest_trace_minutes,60,Planned
+F744,10,Event detail,C10E01 Tessa: geometry.radius_m,25,Planned
+F745,10,Event detail,C10E01 Tessa: geometry.trace_visible_line_of_sight,true,Planned
+F746,10,Event detail,C10E01 Tessa: geometry.reveals_current_person_location_or_mind,false,Planned
+F747,10,Event detail,C10E02 Tessa: target,visible dry ledge,Planned
+F748,10,Event detail,C10E02 Tessa: geometry.path_length_m,8,Planned
+F749,10,Event detail,C10E02 Tessa: geometry.visible_traversable_physical_path,true,Planned
+F750,10,Event detail,C10E02 Tessa: geometry.passes_through_creature_wall_or_restraint,false,Planned
+F751,10,Event detail,C10E02 Tessa: geometry.carries_another_adult,false,Planned
+F752,10,Event detail,C10E02 Tessa: geometry.crosses_otherwise_impossible_gap,false,Planned
+F753,10,Event detail,C10E02 Tessa: geometry.hazard_immunity_assumed,false,Planned
+F754,10,Event detail,C10E03 Kip: target,archive defensive bolt fixture,Planned
+F755,10,Event detail,C10E03 Kip: note,Inspected earlier at8m; maintained sight while withdrawing to14m; normal firing arc.,Planned
+F756,10,Event detail,C10E03 Kip: control_seconds,1,Planned
+F757,10,Event detail,C10E03 Kip: geometry.distance_m,14,Planned
+F758,10,Event detail,C10E03 Kip: geometry.prior_sight_distance_m,8,Planned
+F759,10,Event detail,C10E03 Kip: geometry.prior_sight_attention_seconds,1,Planned
+F760,10,Event detail,C10E03 Kip: geometry.visible_at_start,true,Planned
+F761,10,Event detail,C10E03 Kip: geometry.available_at_start,true,Planned
+F762,10,Event detail,C10E03 Kip: geometry.within_normal_mechanical_arc,true,Planned
+F763,10,Event detail,C10E03 Kip: geometry.ready_at_start,true,Planned
+F764,10,Event detail,C10E03 Kip: geometry.target_is_constructed_fixture,true,Planned
+F765,10,Event detail,C10E03 Kip: geometry.shield_removed_physically_if_any,true,Planned
+F766,10,Event detail,C10E03 Kip: outcome,"ordinary legal fixture function, no strengthened output",Planned
+F767,10,Event detail,C10E04 Dane: target,guardian lunge lane,Planned
+F768,10,Event detail,C10E04 Dane: geometry.weapon_raised_in_right_hand,true,Planned
+F769,10,Event detail,C10E04 Dane: geometry.effect_seconds,8,Planned
+F770,10,Event detail,C10E04 Dane: geometry.physical_attack_crosses_front,true,Planned
+F771,10,Event detail,C10E04 Dane: geometry.runs_or_attacks_during_effect,false,Planned
+F772,10,Event detail,C10E04 Dane: geometry.blocks_heat_poison_or_suffocation,false,Planned
+F773,10,Event detail,C10E04 Dane: geometry.reduced_force_still_can_hurt,true,Planned
+F774,10,Event detail,C10E05 Kip: target,same guardian lunge lane,Planned
+F775,10,Event detail,C10E05 Kip: note,"Forms20:08, impact20:10 through Bulwark then Ward. Quarter force still knocks Dane down.",Planned
+F776,10,Event detail,C10E05 Kip: setup_seconds,2,Planned
+F777,10,Event detail,C10E05 Kip: physical_impact_seconds_after_start,4,Planned
+F778,10,Event detail,C10E05 Kip: geometry.clear_ground,true,Planned
+F779,10,Event detail,C10E05 Kip: geometry.within_3m,true,Planned
+F780,10,Event detail,C10E05 Kip: geometry.upright_2m_square,true,Planned
+F781,10,Event detail,C10E05 Kip: geometry.stationary,true,Planned
+F782,10,Event detail,C10E05 Kip: geometry.physical_impact_crosses_front,true,Planned
+F783,10,Event detail,C10E05 Kip: geometry.blocks_heat_or_water,false,Planned
+F784,10,Event detail,C10E06 Owen: target,Dane 10cm/0.4cm right upper-arm cut,Planned
+F785,10,Event detail,C10E06 Owen: geometry.wound_length_cm,10,Planned
+F786,10,Event detail,C10E06 Owen: geometry.wound_depth_cm,0.4,Planned
+F787,10,Event detail,C10E06 Owen: geometry.external_wound,true,Planned
+F788,10,Event detail,C10E06 Owen: geometry.tissue_present_and_aligned,true,Planned
+F789,10,Event detail,C10E06 Owen: geometry.uninterrupted_touch_seconds,20,Planned
+F790,10,Event detail,C10E06 Owen: geometry.repairs_bone_blood_organs_or_nerves,false,Planned
+F791,10,Event detail,C10E06 Owen: geometry.protected_position_for_channel_required_in_prose,true,Planned
+F792,10,Event detail,C10E08 Kip: target,C: archive anchor,Planned
+F793,10,Event detail,C10E08 Kip: note,16m chamber cleared; defended doorway holds all new hostiles outside for30sec. Announced Rank1 proof completes before capacity2 earned.,Planned
+F794,10,Event detail,C10E08 Kip: geometry.enclosed_room_max_width_m,16,Planned
+F795,10,Event detail,C10E08 Kip: geometry.intact_anchor,true,Planned
+F796,10,Event detail,C10E08 Kip: geometry.guardian_defeated_or_none_assigned,true,Planned
+F797,10,Event detail,C10E08 Kip: geometry.protective_seal_removed_or_absent,true,Planned
+F798,10,Event detail,C10E08 Kip: geometry.living_hostiles_inside_at_start,0,Planned
+F799,10,Event detail,C10E08 Kip: geometry.boss_chamber,false,Planned
+F800,10,Event detail,C10E08 Kip: channel_seconds,30,Planned
+F801,10,Event detail,C10E08 Kip: outcome,success after uninterrupted30seconds,Planned
+F802,10,Event detail,C10E09 Kip: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F803,10,Event detail,C10E09 Kip: ends,Day 2 13:09:00,Planned
+F804,10,Event detail,C10E10 Tessa: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F805,10,Event detail,C10E10 Tessa: ends,Day 2 13:06:00,Planned
+F806,10,Event detail,C10E11 Owen: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F807,10,Event detail,C10E11 Owen: ends,Day 2 13:04:00,Planned
+F808,10,Event detail,C10E12 Dane: note,The other three recover first; Dane sits13:10–13:14 while Tessa watches. No Mana recovery during the return walk.,Planned
+F809,10,Event detail,C10E12 Dane: ends,Day 2 13:14:00,Planned
+F810,11,Event detail,C11E01 Dane: target,Jory litter within8m,Planned
+F811,11,Event detail,C11E01 Dane: note,Fractures left wrist catching litter after this maneuver; right sword arm intact. Movement gets him to Jory; catching litter is ordinary bodily action. The weapon-block bonus is unused and does not protect his left wrist.,Planned
+F812,11,Event detail,C11E01 Dane: geometry.path_length_m,6,Planned
+F813,11,Event detail,C11E01 Dane: geometry.visible_ally,true,Planned
+F814,11,Event detail,C11E01 Dane: geometry.clear_physical_path,true,Planned
+F815,11,Event detail,C11E01 Dane: geometry.functional_weapon_in_right_hand,true,Planned
+F816,11,Event detail,C11E01 Dane: geometry.uses_enhanced_block,false,Planned
+F817,11,Event detail,C11E01 Dane: geometry.block_seconds_after_activation,null,Planned
+F818,11,Event detail,C11E01 Dane: geometry.parryable_physical_attack,true,Planned
+F819,11,Event detail,C11E01 Dane: geometry.all_direction_protection_assumed,false,Planned
+F820,11,Event detail,C11E02 Kip: target,predator charge lane,Planned
+F821,11,Event detail,C11E02 Kip: setup_seconds,2,Planned
+F822,11,Event detail,C11E02 Kip: physical_impact_seconds_after_start,8,Planned
+F823,11,Event detail,C11E02 Kip: geometry.clear_ground,true,Planned
+F824,11,Event detail,C11E02 Kip: geometry.within_3m,true,Planned
+F825,11,Event detail,C11E02 Kip: geometry.upright_2m_square,true,Planned
+F826,11,Event detail,C11E02 Kip: geometry.stationary,true,Planned
+F827,11,Event detail,C11E02 Kip: geometry.physical_impact_crosses_front,true,Planned
+F828,11,Event detail,C11E02 Kip: geometry.blocks_heat_or_water,false,Planned
+F829,11,Event detail,C11E03 Tessa: target,clear exit ahead of litter,Planned
+F830,11,Event detail,C11E03 Tessa: geometry.path_length_m,8,Planned
+F831,11,Event detail,C11E03 Tessa: geometry.visible_traversable_physical_path,true,Planned
+F832,11,Event detail,C11E03 Tessa: geometry.passes_through_creature_wall_or_restraint,false,Planned
+F833,11,Event detail,C11E03 Tessa: geometry.carries_another_adult,false,Planned
+F834,11,Event detail,C11E03 Tessa: geometry.crosses_otherwise_impossible_gap,false,Planned
+F835,11,Event detail,C11E03 Tessa: geometry.hazard_immunity_assumed,false,Planned
+F836,11,Event detail,C11E04 Tessa: target,fresh predator approach traces,Planned
+F837,11,Event detail,C11E04 Tessa: geometry.physical_track_inspected,true,Planned
+F838,11,Event detail,C11E04 Tessa: geometry.oldest_trace_minutes,60,Planned
+F839,11,Event detail,C11E04 Tessa: geometry.radius_m,25,Planned
+F840,11,Event detail,C11E04 Tessa: geometry.trace_visible_line_of_sight,true,Planned
+F841,11,Event detail,C11E04 Tessa: geometry.reveals_current_person_location_or_mind,false,Planned
+F842,11,Event detail,C11E05 Dane: target,right-hand sword raised in front of evacuees,Planned
+F843,11,Event detail,C11E05 Dane: geometry.weapon_raised_in_right_hand,true,Planned
+F844,11,Event detail,C11E05 Dane: geometry.effect_seconds,8,Planned
+F845,11,Event detail,C11E05 Dane: geometry.physical_attack_crosses_front,true,Planned
+F846,11,Event detail,C11E05 Dane: geometry.runs_or_attacks_during_effect,false,Planned
+F847,11,Event detail,C11E05 Dane: geometry.blocks_heat_poison_or_suffocation,false,Planned
+F848,11,Event detail,C11E05 Dane: geometry.reduced_force_still_can_hurt,true,Planned
+F849,11,Event detail,C11E07 Kip: target,D: lever-hall anchor,Planned
+F850,11,Event detail,C11E07 Kip: note,18m room cleared by team; all hostiles outside; full30sec guarded contact; capacity2 retains C.,Planned
+F851,11,Event detail,C11E07 Kip: geometry.enclosed_room_max_width_m,18,Planned
+F852,11,Event detail,C11E07 Kip: geometry.intact_anchor,true,Planned
+F853,11,Event detail,C11E07 Kip: geometry.guardian_defeated_or_none_assigned,true,Planned
+F854,11,Event detail,C11E07 Kip: geometry.protective_seal_removed_or_absent,true,Planned
+F855,11,Event detail,C11E07 Kip: geometry.living_hostiles_inside_at_start,0,Planned
+F856,11,Event detail,C11E07 Kip: geometry.boss_chamber,false,Planned
+F857,11,Event detail,C11E07 Kip: channel_seconds,30,Planned
+F858,11,Event detail,C11E07 Kip: outcome,success after uninterrupted30seconds,Planned
+F859,11,Event detail,C11E08 Kip: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F860,11,Event detail,C11E08 Kip: ends,Day 2 15:38:00,Planned
+F861,11,Event detail,C11E09 Tessa: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F862,11,Event detail,C11E09 Tessa: ends,Day 2 15:35:00,Planned
+F863,11,Event detail,C11E10 Owen: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F864,11,Event detail,C11E10 Owen: ends,Day 2 15:31:00,Planned
+F865,11,Event detail,C11E11 Dane: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F866,11,Event detail,C11E11 Dane: ends,Day 2 15:38:00,Planned
+F867,12,Event detail,C12E01 Tessa: target,conditioned hunter traces,Planned
+F868,12,Event detail,C12E01 Tessa: geometry.physical_track_inspected,true,Planned
+F869,12,Event detail,C12E01 Tessa: geometry.oldest_trace_minutes,60,Planned
+F870,12,Event detail,C12E01 Tessa: geometry.radius_m,25,Planned
+F871,12,Event detail,C12E01 Tessa: geometry.trace_visible_line_of_sight,true,Planned
+F872,12,Event detail,C12E01 Tessa: geometry.reveals_current_person_location_or_mind,false,Planned
+F873,12,Event detail,C12E02 Tessa: target,clear garden path,Planned
+F874,12,Event detail,C12E02 Tessa: geometry.path_length_m,8,Planned
+F875,12,Event detail,C12E02 Tessa: geometry.visible_traversable_physical_path,true,Planned
+F876,12,Event detail,C12E02 Tessa: geometry.passes_through_creature_wall_or_restraint,false,Planned
+F877,12,Event detail,C12E02 Tessa: geometry.carries_another_adult,false,Planned
+F878,12,Event detail,C12E02 Tessa: geometry.crosses_otherwise_impossible_gap,false,Planned
+F879,12,Event detail,C12E02 Tessa: geometry.hazard_immunity_assumed,false,Planned
+F880,12,Event detail,C12E03 Kip: target,garden first defensive jet,Planned
+F881,12,Event detail,C12E03 Kip: note,"Available, visible at9m.",Planned
+F882,12,Event detail,C12E03 Kip: control_seconds,5,Planned
+F883,12,Event detail,C12E03 Kip: geometry.distance_m,9,Planned
+F884,12,Event detail,C12E03 Kip: geometry.prior_sight_distance_m,9,Planned
+F885,12,Event detail,C12E03 Kip: geometry.prior_sight_attention_seconds,1,Planned
+F886,12,Event detail,C12E03 Kip: geometry.visible_at_start,true,Planned
+F887,12,Event detail,C12E03 Kip: geometry.available_at_start,true,Planned
+F888,12,Event detail,C12E03 Kip: geometry.within_normal_mechanical_arc,true,Planned
+F889,12,Event detail,C12E03 Kip: geometry.ready_at_start,true,Planned
+F890,12,Event detail,C12E03 Kip: geometry.target_is_constructed_fixture,true,Planned
+F891,12,Event detail,C12E03 Kip: geometry.shield_removed_physically_if_any,true,Planned
+F892,12,Event detail,C12E03 Kip: outcome,"ordinary legal fixture function, no strengthened output",Planned
+F893,12,Event detail,C12E04 Dane: target,Owen within8m,Planned
+F894,12,Event detail,C12E04 Dane: geometry.path_length_m,6,Planned
+F895,12,Event detail,C12E04 Dane: geometry.visible_ally,true,Planned
+F896,12,Event detail,C12E04 Dane: geometry.clear_physical_path,true,Planned
+F897,12,Event detail,C12E04 Dane: geometry.functional_weapon_in_right_hand,true,Planned
+F898,12,Event detail,C12E04 Dane: geometry.uses_enhanced_block,true,Planned
+F899,12,Event detail,C12E04 Dane: geometry.block_seconds_after_activation,1,Planned
+F900,12,Event detail,C12E04 Dane: geometry.parryable_physical_attack,true,Planned
+F901,12,Event detail,C12E04 Dane: geometry.all_direction_protection_assumed,false,Planned
+F902,12,Event detail,C12E05 Kip: target,physical hunter lunge lane,Planned
+F903,12,Event detail,C12E05 Kip: setup_seconds,2,Planned
+F904,12,Event detail,C12E05 Kip: physical_impact_seconds_after_start,8,Planned
+F905,12,Event detail,C12E05 Kip: geometry.clear_ground,true,Planned
+F906,12,Event detail,C12E05 Kip: geometry.within_3m,true,Planned
+F907,12,Event detail,C12E05 Kip: geometry.upright_2m_square,true,Planned
+F908,12,Event detail,C12E05 Kip: geometry.stationary,true,Planned
+F909,12,Event detail,C12E05 Kip: geometry.physical_impact_crosses_front,true,Planned
+F910,12,Event detail,C12E05 Kip: geometry.blocks_heat_or_water,false,Planned
+F911,12,Event detail,C12E06 Dane: target,front of retreat,Planned
+F912,12,Event detail,C12E06 Dane: note,Own earlier bonus ended.,Planned
+F913,12,Event detail,C12E06 Dane: geometry.weapon_raised_in_right_hand,true,Planned
+F914,12,Event detail,C12E06 Dane: geometry.effect_seconds,8,Planned
+F915,12,Event detail,C12E06 Dane: geometry.physical_attack_crosses_front,true,Planned
+F916,12,Event detail,C12E06 Dane: geometry.runs_or_attacks_during_effect,false,Planned
+F917,12,Event detail,C12E06 Dane: geometry.blocks_heat_poison_or_suffocation,false,Planned
+F918,12,Event detail,C12E06 Dane: geometry.reduced_force_still_can_hurt,true,Planned
+F919,12,Event detail,C12E07 Kip: target,garden second defensive bolt,Planned
+F920,12,Event detail,C12E07 Kip: note,Separate fixture previously inspected within10m; now12m.,Planned
+F921,12,Event detail,C12E07 Kip: control_seconds,1,Planned
+F922,12,Event detail,C12E07 Kip: geometry.distance_m,12,Planned
+F923,12,Event detail,C12E07 Kip: geometry.prior_sight_distance_m,9,Planned
+F924,12,Event detail,C12E07 Kip: geometry.prior_sight_attention_seconds,1,Planned
+F925,12,Event detail,C12E07 Kip: geometry.visible_at_start,true,Planned
+F926,12,Event detail,C12E07 Kip: geometry.available_at_start,true,Planned
+F927,12,Event detail,C12E07 Kip: geometry.within_normal_mechanical_arc,true,Planned
+F928,12,Event detail,C12E07 Kip: geometry.ready_at_start,true,Planned
+F929,12,Event detail,C12E07 Kip: geometry.target_is_constructed_fixture,true,Planned
+F930,12,Event detail,C12E07 Kip: geometry.shield_removed_physically_if_any,true,Planned
+F931,12,Event detail,C12E07 Kip: outcome,"ordinary legal fixture function, no strengthened output",Planned
+F932,13,Event detail,C13E01 Kip: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F933,13,Event detail,C13E01 Kip: ends,Day 2 19:07:00,Planned
+F934,13,Event detail,C13E02 Tessa: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F935,13,Event detail,C13E02 Tessa: ends,Day 2 19:05:00,Planned
+F936,13,Event detail,C13E03 Dane: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F937,13,Event detail,C13E03 Dane: ends,Day 2 19:07:00,Planned
+F938,13,Event detail,C13E04 Kip: target,safe practice lane one,Planned
+F939,13,Event detail,C13E04 Kip: setup_seconds,2,Planned
+F940,13,Event detail,C13E04 Kip: physical_impact_seconds_after_start,8,Planned
+F941,13,Event detail,C13E04 Kip: geometry.clear_ground,true,Planned
+F942,13,Event detail,C13E04 Kip: geometry.within_3m,true,Planned
+F943,13,Event detail,C13E04 Kip: geometry.upright_2m_square,true,Planned
+F944,13,Event detail,C13E04 Kip: geometry.stationary,true,Planned
+F945,13,Event detail,C13E04 Kip: geometry.physical_impact_crosses_front,true,Planned
+F946,13,Event detail,C13E04 Kip: geometry.blocks_heat_or_water,false,Planned
+F947,13,Event detail,C13E05 Kip: target,safe practice lane two,Planned
+F948,13,Event detail,C13E05 Kip: setup_seconds,2,Planned
+F949,13,Event detail,C13E05 Kip: physical_impact_seconds_after_start,8,Planned
+F950,13,Event detail,C13E05 Kip: geometry.clear_ground,true,Planned
+F951,13,Event detail,C13E05 Kip: geometry.within_3m,true,Planned
+F952,13,Event detail,C13E05 Kip: geometry.upright_2m_square,true,Planned
+F953,13,Event detail,C13E05 Kip: geometry.stationary,true,Planned
+F954,13,Event detail,C13E05 Kip: geometry.physical_impact_crosses_front,true,Planned
+F955,13,Event detail,C13E05 Kip: geometry.blocks_heat_or_water,false,Planned
+F956,13,Event detail,C13E06 Kip: target,safe practice lane three,Planned
+F957,13,Event detail,C13E06 Kip: setup_seconds,2,Planned
+F958,13,Event detail,C13E06 Kip: physical_impact_seconds_after_start,8,Planned
+F959,13,Event detail,C13E06 Kip: geometry.clear_ground,true,Planned
+F960,13,Event detail,C13E06 Kip: geometry.within_3m,true,Planned
+F961,13,Event detail,C13E06 Kip: geometry.upright_2m_square,true,Planned
+F962,13,Event detail,C13E06 Kip: geometry.stationary,true,Planned
+F963,13,Event detail,C13E06 Kip: geometry.physical_impact_crosses_front,true,Planned
+F964,13,Event detail,C13E06 Kip: geometry.blocks_heat_or_water,false,Planned
+F965,13,Event detail,C13E07 Kip: note,Quiet interval after focused Ward block; not counted as practice.,Planned
+F966,13,Event detail,C13E07 Kip: ends,Day 2 20:54:00,Planned
+F967,14,Event detail,C14E01 Tessa: target,fresh clearance-worker tracks,Planned
+F968,14,Event detail,C14E01 Tessa: geometry.physical_track_inspected,true,Planned
+F969,14,Event detail,C14E01 Tessa: geometry.oldest_trace_minutes,60,Planned
+F970,14,Event detail,C14E01 Tessa: geometry.radius_m,25,Planned
+F971,14,Event detail,C14E01 Tessa: geometry.trace_visible_line_of_sight,true,Planned
+F972,14,Event detail,C14E01 Tessa: geometry.reveals_current_person_location_or_mind,false,Planned
+F973,14,Event detail,C14E02 Kip: target,hot-cavern first bolt fixture,Planned
+F974,14,Event detail,C14E02 Kip: note,Physical strike at territorial hunter; no Ward heat protection.,Planned
+F975,14,Event detail,C14E02 Kip: control_seconds,1,Planned
+F976,14,Event detail,C14E02 Kip: geometry.distance_m,10,Planned
+F977,14,Event detail,C14E02 Kip: geometry.prior_sight_distance_m,10,Planned
+F978,14,Event detail,C14E02 Kip: geometry.prior_sight_attention_seconds,1,Planned
+F979,14,Event detail,C14E02 Kip: geometry.visible_at_start,true,Planned
+F980,14,Event detail,C14E02 Kip: geometry.available_at_start,true,Planned
+F981,14,Event detail,C14E02 Kip: geometry.within_normal_mechanical_arc,true,Planned
+F982,14,Event detail,C14E02 Kip: geometry.ready_at_start,true,Planned
+F983,14,Event detail,C14E02 Kip: geometry.target_is_constructed_fixture,true,Planned
+F984,14,Event detail,C14E02 Kip: geometry.shield_removed_physically_if_any,true,Planned
+F985,14,Event detail,C14E02 Kip: outcome,"ordinary legal fixture function, no strengthened output",Planned
+F986,14,Event detail,C14E03 Tessa: target,visible stone rib path,Planned
+F987,14,Event detail,C14E03 Tessa: geometry.path_length_m,8,Planned
+F988,14,Event detail,C14E03 Tessa: geometry.visible_traversable_physical_path,true,Planned
+F989,14,Event detail,C14E03 Tessa: geometry.passes_through_creature_wall_or_restraint,false,Planned
+F990,14,Event detail,C14E03 Tessa: geometry.carries_another_adult,false,Planned
+F991,14,Event detail,C14E03 Tessa: geometry.crosses_otherwise_impossible_gap,false,Planned
+F992,14,Event detail,C14E03 Tessa: geometry.hazard_immunity_assumed,false,Planned
+F993,14,Event detail,C14E04 Dane: target,clearance worker within8m,Planned
+F994,14,Event detail,C14E04 Dane: geometry.path_length_m,6,Planned
+F995,14,Event detail,C14E04 Dane: geometry.visible_ally,true,Planned
+F996,14,Event detail,C14E04 Dane: geometry.clear_physical_path,true,Planned
+F997,14,Event detail,C14E04 Dane: geometry.functional_weapon_in_right_hand,true,Planned
+F998,14,Event detail,C14E04 Dane: geometry.uses_enhanced_block,true,Planned
+F999,14,Event detail,C14E04 Dane: geometry.block_seconds_after_activation,1,Planned
+F1000,14,Event detail,C14E04 Dane: geometry.parryable_physical_attack,true,Planned
+F1001,14,Event detail,C14E04 Dane: geometry.all_direction_protection_assumed,false,Planned
+F1002,14,Event detail,C14E05 Kip: target,physical hunter lunge lane,Planned
+F1003,14,Event detail,C14E05 Kip: setup_seconds,2,Planned
+F1004,14,Event detail,C14E05 Kip: physical_impact_seconds_after_start,8,Planned
+F1005,14,Event detail,C14E05 Kip: geometry.clear_ground,true,Planned
+F1006,14,Event detail,C14E05 Kip: geometry.within_3m,true,Planned
+F1007,14,Event detail,C14E05 Kip: geometry.upright_2m_square,true,Planned
+F1008,14,Event detail,C14E05 Kip: geometry.stationary,true,Planned
+F1009,14,Event detail,C14E05 Kip: geometry.physical_impact_crosses_front,true,Planned
+F1010,14,Event detail,C14E05 Kip: geometry.blocks_heat_or_water,false,Planned
+F1011,14,Event detail,C14E06 Dane: target,front of worker evacuation,Planned
+F1012,14,Event detail,C14E06 Dane: geometry.weapon_raised_in_right_hand,true,Planned
+F1013,14,Event detail,C14E06 Dane: geometry.effect_seconds,8,Planned
+F1014,14,Event detail,C14E06 Dane: geometry.physical_attack_crosses_front,true,Planned
+F1015,14,Event detail,C14E06 Dane: geometry.runs_or_attacks_during_effect,false,Planned
+F1016,14,Event detail,C14E06 Dane: geometry.blocks_heat_poison_or_suffocation,false,Planned
+F1017,14,Event detail,C14E06 Dane: geometry.reduced_force_still_can_hurt,true,Planned
+F1018,14,Event detail,C14E07 Kip: target,hot-cavern second gate fixture,Planned
+F1019,14,Event detail,C14E07 Kip: note,Existing5-second suppression at previously inspected fixture.,Planned
+F1020,14,Event detail,C14E07 Kip: control_seconds,5,Planned
+F1021,14,Event detail,C14E07 Kip: geometry.distance_m,13,Planned
+F1022,14,Event detail,C14E07 Kip: geometry.prior_sight_distance_m,9,Planned
+F1023,14,Event detail,C14E07 Kip: geometry.prior_sight_attention_seconds,1,Planned
+F1024,14,Event detail,C14E07 Kip: geometry.visible_at_start,true,Planned
+F1025,14,Event detail,C14E07 Kip: geometry.available_at_start,true,Planned
+F1026,14,Event detail,C14E07 Kip: geometry.within_normal_mechanical_arc,true,Planned
+F1027,14,Event detail,C14E07 Kip: geometry.ready_at_start,true,Planned
+F1028,14,Event detail,C14E07 Kip: geometry.target_is_constructed_fixture,true,Planned
+F1029,14,Event detail,C14E07 Kip: geometry.shield_removed_physically_if_any,true,Planned
+F1030,14,Event detail,C14E07 Kip: outcome,"ordinary legal fixture function, no strengthened output",Planned
+F1031,14,Event detail,C14E08 Owen: target,first rescued workers 11cm/0.5cm cut,Planned
+F1032,14,Event detail,C14E08 Owen: geometry.wound_length_cm,11,Planned
+F1033,14,Event detail,C14E08 Owen: geometry.wound_depth_cm,0.5,Planned
+F1034,14,Event detail,C14E08 Owen: geometry.external_wound,true,Planned
+F1035,14,Event detail,C14E08 Owen: geometry.tissue_present_and_aligned,true,Planned
+F1036,14,Event detail,C14E08 Owen: geometry.uninterrupted_touch_seconds,5,Planned
+F1037,14,Event detail,C14E08 Owen: geometry.repairs_bone_blood_organs_or_nerves,false,Planned
+F1038,14,Event detail,C14E08 Owen: geometry.protected_position_for_channel_required_in_prose,true,Planned
+F1039,14,Event detail,C14E09 Owen: target,same eligible wound,Planned
+F1040,14,Event detail,C14E09 Owen: geometry.wound_length_cm,11,Planned
+F1041,14,Event detail,C14E09 Owen: geometry.wound_depth_cm,0.5,Planned
+F1042,14,Event detail,C14E09 Owen: geometry.external_wound,true,Planned
+F1043,14,Event detail,C14E09 Owen: geometry.tissue_present_and_aligned,true,Planned
+F1044,14,Event detail,C14E09 Owen: geometry.uninterrupted_touch_seconds,20,Planned
+F1045,14,Event detail,C14E09 Owen: geometry.repairs_bone_blood_organs_or_nerves,false,Planned
+F1046,14,Event detail,C14E09 Owen: geometry.protected_position_for_channel_required_in_prose,true,Planned
+F1047,14,Event detail,C14E10 Owen: target,second rescued workers 14cm/0.6cm cut,Planned
+F1048,14,Event detail,C14E10 Owen: geometry.wound_length_cm,14,Planned
+F1049,14,Event detail,C14E10 Owen: geometry.wound_depth_cm,0.6,Planned
+F1050,14,Event detail,C14E10 Owen: geometry.external_wound,true,Planned
+F1051,14,Event detail,C14E10 Owen: geometry.tissue_present_and_aligned,true,Planned
+F1052,14,Event detail,C14E10 Owen: geometry.uninterrupted_touch_seconds,5,Planned
+F1053,14,Event detail,C14E10 Owen: geometry.repairs_bone_blood_organs_or_nerves,false,Planned
+F1054,14,Event detail,C14E10 Owen: geometry.protected_position_for_channel_required_in_prose,true,Planned
+F1055,14,Event detail,C14E11 Owen: target,same eligible wound,Planned
+F1056,14,Event detail,C14E11 Owen: note,Mend starts3min after previous; no bone/blood/heatstroke cure.,Planned
+F1057,14,Event detail,C14E11 Owen: geometry.wound_length_cm,14,Planned
+F1058,14,Event detail,C14E11 Owen: geometry.wound_depth_cm,0.6,Planned
+F1059,14,Event detail,C14E11 Owen: geometry.external_wound,true,Planned
+F1060,14,Event detail,C14E11 Owen: geometry.tissue_present_and_aligned,true,Planned
+F1061,14,Event detail,C14E11 Owen: geometry.uninterrupted_touch_seconds,20,Planned
+F1062,14,Event detail,C14E11 Owen: geometry.repairs_bone_blood_organs_or_nerves,false,Planned
+F1063,14,Event detail,C14E11 Owen: geometry.protected_position_for_channel_required_in_prose,true,Planned
+F1064,14,Event detail,C14E13 Kip: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F1065,14,Event detail,C14E13 Kip: ends,Day 3 09:07:00,Planned
+F1066,14,Event detail,C14E14 Tessa: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F1067,14,Event detail,C14E14 Tessa: ends,Day 3 09:06:00,Planned
+F1068,14,Event detail,C14E15 Owen: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F1069,14,Event detail,C14E15 Owen: ends,Day 3 09:12:00,Planned
+F1070,14,Event detail,C14E16 Dane: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F1071,14,Event detail,C14E16 Dane: ends,Day 3 09:07:00,Planned
+F1072,15,Event detail,C15E01 Tessa: target,clear annex scout route,Planned
+F1073,15,Event detail,C15E01 Tessa: geometry.path_length_m,8,Planned
+F1074,15,Event detail,C15E01 Tessa: geometry.visible_traversable_physical_path,true,Planned
+F1075,15,Event detail,C15E01 Tessa: geometry.passes_through_creature_wall_or_restraint,false,Planned
+F1076,15,Event detail,C15E01 Tessa: geometry.carries_another_adult,false,Planned
+F1077,15,Event detail,C15E01 Tessa: geometry.crosses_otherwise_impossible_gap,false,Planned
+F1078,15,Event detail,C15E01 Tessa: geometry.hazard_immunity_assumed,false,Planned
+F1079,15,Event detail,C15E02 Kip: target,annex defensive fixture,Planned
+F1080,15,Event detail,C15E02 Kip: note,Valid available target10m; line of sight lost after1sec; paid10 remains.,Planned
+F1081,15,Event detail,C15E02 Kip: control_seconds,1,Planned
+F1082,15,Event detail,C15E02 Kip: geometry.distance_m,10,Planned
+F1083,15,Event detail,C15E02 Kip: geometry.prior_sight_distance_m,10,Planned
+F1084,15,Event detail,C15E02 Kip: geometry.prior_sight_attention_seconds,1,Planned
+F1085,15,Event detail,C15E02 Kip: geometry.visible_at_start,true,Planned
+F1086,15,Event detail,C15E02 Kip: geometry.available_at_start,true,Planned
+F1087,15,Event detail,C15E02 Kip: geometry.within_normal_mechanical_arc,true,Planned
+F1088,15,Event detail,C15E02 Kip: geometry.ready_at_start,true,Planned
+F1089,15,Event detail,C15E02 Kip: geometry.target_is_constructed_fixture,true,Planned
+F1090,15,Event detail,C15E02 Kip: geometry.shield_removed_physically_if_any,true,Planned
+F1091,15,Event detail,C15E02 Kip: outcome,paid control interrupted by loss of sight after1second,Planned
+F1092,15,Event detail,C15E03 Dane: target,Kip within8m,Planned
+F1093,15,Event detail,C15E03 Dane: geometry.path_length_m,6,Planned
+F1094,15,Event detail,C15E03 Dane: geometry.visible_ally,true,Planned
+F1095,15,Event detail,C15E03 Dane: geometry.clear_physical_path,true,Planned
+F1096,15,Event detail,C15E03 Dane: geometry.functional_weapon_in_right_hand,true,Planned
+F1097,15,Event detail,C15E03 Dane: geometry.uses_enhanced_block,true,Planned
+F1098,15,Event detail,C15E03 Dane: geometry.block_seconds_after_activation,1,Planned
+F1099,15,Event detail,C15E03 Dane: geometry.parryable_physical_attack,true,Planned
+F1100,15,Event detail,C15E03 Dane: geometry.all_direction_protection_assumed,false,Planned
+F1101,15,Event detail,C15E04 Kip: target,annex anchor,Planned
+F1102,15,Event detail,C15E04 Kip: note,"Room genuinely cleared at start; new hostile crosses doorway20sec later. Paid20; interruption no claim, C/D retained until physicaldestructionC.",Planned
+F1103,15,Event detail,C15E04 Kip: geometry.enclosed_room_max_width_m,14,Planned
+F1104,15,Event detail,C15E04 Kip: geometry.intact_anchor,true,Planned
+F1105,15,Event detail,C15E04 Kip: geometry.guardian_defeated_or_none_assigned,true,Planned
+F1106,15,Event detail,C15E04 Kip: geometry.protective_seal_removed_or_absent,true,Planned
+F1107,15,Event detail,C15E04 Kip: geometry.living_hostiles_inside_at_start,0,Planned
+F1108,15,Event detail,C15E04 Kip: geometry.boss_chamber,false,Planned
+F1109,15,Event detail,C15E04 Kip: channel_seconds,20,Planned
+F1110,15,Event detail,C15E04 Kip: outcome,interrupted by new hostile entering at20seconds; no refund or new ownership,Planned
+F1111,15,Event detail,C15E05 Dane: target,withdrawal front,Planned
+F1112,15,Event detail,C15E05 Dane: note,Interpose bonus ended long ago.,Planned
+F1113,15,Event detail,C15E05 Dane: geometry.weapon_raised_in_right_hand,true,Planned
+F1114,15,Event detail,C15E05 Dane: geometry.effect_seconds,8,Planned
+F1115,15,Event detail,C15E05 Dane: geometry.physical_attack_crosses_front,true,Planned
+F1116,15,Event detail,C15E05 Dane: geometry.runs_or_attacks_during_effect,false,Planned
+F1117,15,Event detail,C15E05 Dane: geometry.blocks_heat_poison_or_suffocation,false,Planned
+F1118,15,Event detail,C15E05 Dane: geometry.reduced_force_still_can_hurt,true,Planned
+F1119,15,Event detail,C15E06 Kip: target,physical strike retreat lane,Planned
+F1120,15,Event detail,C15E06 Kip: setup_seconds,2,Planned
+F1121,15,Event detail,C15E06 Kip: physical_impact_seconds_after_start,8,Planned
+F1122,15,Event detail,C15E06 Kip: geometry.clear_ground,true,Planned
+F1123,15,Event detail,C15E06 Kip: geometry.within_3m,true,Planned
+F1124,15,Event detail,C15E06 Kip: geometry.upright_2m_square,true,Planned
+F1125,15,Event detail,C15E06 Kip: geometry.stationary,true,Planned
+F1126,15,Event detail,C15E06 Kip: geometry.physical_impact_crosses_front,true,Planned
+F1127,15,Event detail,C15E06 Kip: geometry.blocks_heat_or_water,false,Planned
+F1128,15,Event detail,C15E07 Owen: target,Kip new 10cm/0.5cm flank cut,Planned
+F1129,15,Event detail,C15E07 Owen: geometry.wound_length_cm,10,Planned
+F1130,15,Event detail,C15E07 Owen: geometry.wound_depth_cm,0.5,Planned
+F1131,15,Event detail,C15E07 Owen: geometry.external_wound,true,Planned
+F1132,15,Event detail,C15E07 Owen: geometry.tissue_present_and_aligned,true,Planned
+F1133,15,Event detail,C15E07 Owen: geometry.uninterrupted_touch_seconds,20,Planned
+F1134,15,Event detail,C15E07 Owen: geometry.repairs_bone_blood_organs_or_nerves,false,Planned
+F1135,15,Event detail,C15E07 Owen: geometry.protected_position_for_channel_required_in_prose,true,Planned
+F1136,16,Event detail,C16E01 Kip: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F1137,16,Event detail,C16E01 Kip: ends,Day 3 11:09:00,Planned
+F1138,16,Event detail,C16E02 Tessa: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F1139,16,Event detail,C16E02 Tessa: ends,Day 3 11:02:00,Planned
+F1140,16,Event detail,C16E03 Owen: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F1141,16,Event detail,C16E03 Owen: ends,Day 3 11:04:00,Planned
+F1142,16,Event detail,C16E04 Dane: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F1143,16,Event detail,C16E04 Dane: ends,Day 3 11:07:00,Planned
+F1144,16,Event detail,C16E05 Kip: target,safe practice lane four,Planned
+F1145,16,Event detail,C16E05 Kip: setup_seconds,2,Planned
+F1146,16,Event detail,C16E05 Kip: physical_impact_seconds_after_start,8,Planned
+F1147,16,Event detail,C16E05 Kip: geometry.clear_ground,true,Planned
+F1148,16,Event detail,C16E05 Kip: geometry.within_3m,true,Planned
+F1149,16,Event detail,C16E05 Kip: geometry.upright_2m_square,true,Planned
+F1150,16,Event detail,C16E05 Kip: geometry.stationary,true,Planned
+F1151,16,Event detail,C16E05 Kip: geometry.physical_impact_crosses_front,true,Planned
+F1152,16,Event detail,C16E05 Kip: geometry.blocks_heat_or_water,false,Planned
+F1153,16,Event detail,C16E06 Kip: note,Quiet recovery excluded from the thirty focused Ward minutes.,Planned
+F1154,16,Event detail,C16E06 Kip: ends,Day 3 11:58:00,Planned
+F1155,17,Event detail,C17E01 Kip: target,drainage defense lane,Planned
+F1156,17,Event detail,C17E01 Kip: note,Rank1forms20:02; feint20:03; real physicalhit20:08 inside10s lifetime. Correct stationary facing retained; then Rank2earned.,Planned
+F1157,17,Event detail,C17E01 Kip: setup_seconds,2,Planned
+F1158,17,Event detail,C17E01 Kip: physical_impact_seconds_after_start,8,Planned
+F1159,17,Event detail,C17E01 Kip: geometry.clear_ground,true,Planned
+F1160,17,Event detail,C17E01 Kip: geometry.within_3m,true,Planned
+F1161,17,Event detail,C17E01 Kip: geometry.upright_2m_square,true,Planned
+F1162,17,Event detail,C17E01 Kip: geometry.stationary,true,Planned
+F1163,17,Event detail,C17E01 Kip: geometry.physical_impact_crosses_front,true,Planned
+F1164,17,Event detail,C17E01 Kip: geometry.blocks_heat_or_water,false,Planned
+F1165,17,Event detail,C17E02 Tessa: target,fresh guardian approach traces,Planned
+F1166,17,Event detail,C17E02 Tessa: geometry.physical_track_inspected,true,Planned
+F1167,17,Event detail,C17E02 Tessa: geometry.oldest_trace_minutes,60,Planned
+F1168,17,Event detail,C17E02 Tessa: geometry.radius_m,25,Planned
+F1169,17,Event detail,C17E02 Tessa: geometry.trace_visible_line_of_sight,true,Planned
+F1170,17,Event detail,C17E02 Tessa: geometry.reveals_current_person_location_or_mind,false,Planned
+F1171,17,Event detail,C17E03 Tessa: target,clear approach to conduit support,Planned
+F1172,17,Event detail,C17E03 Tessa: geometry.path_length_m,8,Planned
+F1173,17,Event detail,C17E03 Tessa: geometry.visible_traversable_physical_path,true,Planned
+F1174,17,Event detail,C17E03 Tessa: geometry.passes_through_creature_wall_or_restraint,false,Planned
+F1175,17,Event detail,C17E03 Tessa: geometry.carries_another_adult,false,Planned
+F1176,17,Event detail,C17E03 Tessa: geometry.crosses_otherwise_impossible_gap,false,Planned
+F1177,17,Event detail,C17E03 Tessa: geometry.hazard_immunity_assumed,false,Planned
+F1178,17,Event detail,C17E04 Dane: target,front of workers sealing hostile conduit,Planned
+F1179,17,Event detail,C17E04 Dane: geometry.weapon_raised_in_right_hand,true,Planned
+F1180,17,Event detail,C17E04 Dane: geometry.effect_seconds,8,Planned
+F1181,17,Event detail,C17E04 Dane: geometry.physical_attack_crosses_front,true,Planned
+F1182,17,Event detail,C17E04 Dane: geometry.runs_or_attacks_during_effect,false,Planned
+F1183,17,Event detail,C17E04 Dane: geometry.blocks_heat_poison_or_suffocation,false,Planned
+F1184,17,Event detail,C17E04 Dane: geometry.reduced_force_still_can_hurt,true,Planned
+F1185,17,Event detail,C17E05 Kip: target,drainage defense first jet,Planned
+F1186,17,Event detail,C17E05 Kip: note,"Available physical fixture, not the core or livingroot.",Planned
+F1187,17,Event detail,C17E05 Kip: control_seconds,5,Planned
+F1188,17,Event detail,C17E05 Kip: geometry.distance_m,9,Planned
+F1189,17,Event detail,C17E05 Kip: geometry.prior_sight_distance_m,9,Planned
+F1190,17,Event detail,C17E05 Kip: geometry.prior_sight_attention_seconds,1,Planned
+F1191,17,Event detail,C17E05 Kip: geometry.visible_at_start,true,Planned
+F1192,17,Event detail,C17E05 Kip: geometry.available_at_start,true,Planned
+F1193,17,Event detail,C17E05 Kip: geometry.within_normal_mechanical_arc,true,Planned
+F1194,17,Event detail,C17E05 Kip: geometry.ready_at_start,true,Planned
+F1195,17,Event detail,C17E05 Kip: geometry.target_is_constructed_fixture,true,Planned
+F1196,17,Event detail,C17E05 Kip: geometry.shield_removed_physically_if_any,true,Planned
+F1197,17,Event detail,C17E05 Kip: outcome,"ordinary legal fixture function, no strengthened output",Planned
+F1198,17,Event detail,C17E06 Dane: target,front of safe outlet crew,Planned
+F1199,17,Event detail,C17E06 Dane: note,"50sec since previousstart; first8sec effect ended, legal45secCD.",Planned
+F1200,17,Event detail,C17E06 Dane: geometry.weapon_raised_in_right_hand,true,Planned
+F1201,17,Event detail,C17E06 Dane: geometry.effect_seconds,8,Planned
+F1202,17,Event detail,C17E06 Dane: geometry.physical_attack_crosses_front,true,Planned
+F1203,17,Event detail,C17E06 Dane: geometry.runs_or_attacks_during_effect,false,Planned
+F1204,17,Event detail,C17E06 Dane: geometry.blocks_heat_poison_or_suffocation,false,Planned
+F1205,17,Event detail,C17E06 Dane: geometry.reduced_force_still_can_hurt,true,Planned
+F1206,17,Event detail,C17E07 Kip: target,drainage defense second gate,Planned
+F1207,17,Event detail,C17E07 Kip: note,Separate ready fixture; ordinary mechanism5sec.,Planned
+F1208,17,Event detail,C17E07 Kip: control_seconds,5,Planned
+F1209,17,Event detail,C17E07 Kip: geometry.distance_m,12,Planned
+F1210,17,Event detail,C17E07 Kip: geometry.prior_sight_distance_m,9,Planned
+F1211,17,Event detail,C17E07 Kip: geometry.prior_sight_attention_seconds,1,Planned
+F1212,17,Event detail,C17E07 Kip: geometry.visible_at_start,true,Planned
+F1213,17,Event detail,C17E07 Kip: geometry.available_at_start,true,Planned
+F1214,17,Event detail,C17E07 Kip: geometry.within_normal_mechanical_arc,true,Planned
+F1215,17,Event detail,C17E07 Kip: geometry.ready_at_start,true,Planned
+F1216,17,Event detail,C17E07 Kip: geometry.target_is_constructed_fixture,true,Planned
+F1217,17,Event detail,C17E07 Kip: geometry.shield_removed_physically_if_any,true,Planned
+F1218,17,Event detail,C17E07 Kip: outcome,"ordinary legal fixture function, no strengthened output",Planned
+F1219,17,Event detail,C17E09 Kip: target,E: gatewalk anchor,Planned
+F1220,17,Event detail,C17E09 Kip: note,"18m cleared room; allhostilesout;30sec contact; D retained, C destroyed.",Planned
+F1221,17,Event detail,C17E09 Kip: geometry.enclosed_room_max_width_m,18,Planned
+F1222,17,Event detail,C17E09 Kip: geometry.intact_anchor,true,Planned
+F1223,17,Event detail,C17E09 Kip: geometry.guardian_defeated_or_none_assigned,true,Planned
+F1224,17,Event detail,C17E09 Kip: geometry.protective_seal_removed_or_absent,true,Planned
+F1225,17,Event detail,C17E09 Kip: geometry.living_hostiles_inside_at_start,0,Planned
+F1226,17,Event detail,C17E09 Kip: geometry.boss_chamber,false,Planned
+F1227,17,Event detail,C17E09 Kip: channel_seconds,30,Planned
+F1228,17,Event detail,C17E09 Kip: outcome,success after uninterrupted30seconds,Planned
+F1229,17,Event detail,C17E10 Kip: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F1230,17,Event detail,C17E10 Kip: ends,Day 4 07:12:00,Planned
+F1231,17,Event detail,C17E11 Tessa: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F1232,17,Event detail,C17E11 Tessa: ends,Day 4 07:05:00,Planned
+F1233,17,Event detail,C17E12 Owen: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F1234,17,Event detail,C17E12 Owen: ends,Day 4 07:01:00,Planned
+F1235,17,Event detail,C17E13 Dane: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F1236,17,Event detail,C17E13 Dane: ends,Day 4 07:09:00,Planned
+F1237,18,Event detail,C18E01 Tessa: target,visible guardian flank route,Planned
+F1238,18,Event detail,C18E01 Tessa: geometry.path_length_m,8,Planned
+F1239,18,Event detail,C18E01 Tessa: geometry.visible_traversable_physical_path,true,Planned
+F1240,18,Event detail,C18E01 Tessa: geometry.passes_through_creature_wall_or_restraint,false,Planned
+F1241,18,Event detail,C18E01 Tessa: geometry.carries_another_adult,false,Planned
+F1242,18,Event detail,C18E01 Tessa: geometry.crosses_otherwise_impossible_gap,false,Planned
+F1243,18,Event detail,C18E01 Tessa: geometry.hazard_immunity_assumed,false,Planned
+F1244,18,Event detail,C18E02 Dane: target,Tessa within8m,Planned
+F1245,18,Event detail,C18E02 Dane: note, Separate early deliberate block at08:10:03; Ward takes the later physical strike at08:10:13.,Planned
+F1246,18,Event detail,C18E02 Dane: geometry.path_length_m,6,Planned
+F1247,18,Event detail,C18E02 Dane: geometry.visible_ally,true,Planned
+F1248,18,Event detail,C18E02 Dane: geometry.clear_physical_path,true,Planned
+F1249,18,Event detail,C18E02 Dane: geometry.functional_weapon_in_right_hand,true,Planned
+F1250,18,Event detail,C18E02 Dane: geometry.uses_enhanced_block,true,Planned
+F1251,18,Event detail,C18E02 Dane: geometry.block_seconds_after_activation,1,Planned
+F1252,18,Event detail,C18E02 Dane: geometry.parryable_physical_attack,true,Planned
+F1253,18,Event detail,C18E02 Dane: geometry.all_direction_protection_assumed,false,Planned
+F1254,18,Event detail,C18E03 Kip: target,physical guardian strike lane,Planned
+F1255,18,Event detail,C18E03 Kip: setup_seconds,2,Planned
+F1256,18,Event detail,C18E03 Kip: physical_impact_seconds_after_start,8,Planned
+F1257,18,Event detail,C18E03 Kip: geometry.clear_ground,true,Planned
+F1258,18,Event detail,C18E03 Kip: geometry.within_3m,true,Planned
+F1259,18,Event detail,C18E03 Kip: geometry.upright_2m_square,true,Planned
+F1260,18,Event detail,C18E03 Kip: geometry.stationary,true,Planned
+F1261,18,Event detail,C18E03 Kip: geometry.physical_impact_crosses_front,true,Planned
+F1262,18,Event detail,C18E03 Kip: geometry.blocks_heat_or_water,false,Planned
+F1263,18,Event detail,C18E04 Kip: target,approach defensive bolt,Planned
+F1264,18,Event detail,C18E04 Kip: note,"Previouslyinspected at9m, availableat12m; no bossbodytarget.",Planned
+F1265,18,Event detail,C18E04 Kip: control_seconds,1,Planned
+F1266,18,Event detail,C18E04 Kip: geometry.distance_m,12,Planned
+F1267,18,Event detail,C18E04 Kip: geometry.prior_sight_distance_m,9,Planned
+F1268,18,Event detail,C18E04 Kip: geometry.prior_sight_attention_seconds,1,Planned
+F1269,18,Event detail,C18E04 Kip: geometry.visible_at_start,true,Planned
+F1270,18,Event detail,C18E04 Kip: geometry.available_at_start,true,Planned
+F1271,18,Event detail,C18E04 Kip: geometry.within_normal_mechanical_arc,true,Planned
+F1272,18,Event detail,C18E04 Kip: geometry.ready_at_start,true,Planned
+F1273,18,Event detail,C18E04 Kip: geometry.target_is_constructed_fixture,true,Planned
+F1274,18,Event detail,C18E04 Kip: geometry.shield_removed_physically_if_any,true,Planned
+F1275,18,Event detail,C18E04 Kip: outcome,"ordinary legal fixture function, no strengthened output",Planned
+F1276,18,Event detail,C18E05 Dane: target,front of withdrawal,Planned
+F1277,18,Event detail,C18E05 Dane: geometry.weapon_raised_in_right_hand,true,Planned
+F1278,18,Event detail,C18E05 Dane: geometry.effect_seconds,8,Planned
+F1279,18,Event detail,C18E05 Dane: geometry.physical_attack_crosses_front,true,Planned
+F1280,18,Event detail,C18E05 Dane: geometry.runs_or_attacks_during_effect,false,Planned
+F1281,18,Event detail,C18E05 Dane: geometry.blocks_heat_poison_or_suffocation,false,Planned
+F1282,18,Event detail,C18E05 Dane: geometry.reduced_force_still_can_hurt,true,Planned
+F1283,18,Event detail,C18E07 Kip: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F1284,18,Event detail,C18E07 Kip: ends,Day 4 08:35:00,Planned
+F1285,18,Event detail,C18E08 Tessa: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F1286,18,Event detail,C18E08 Tessa: ends,Day 4 08:32:00,Planned
+F1287,18,Event detail,C18E09 Dane: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F1288,18,Event detail,C18E09 Dane: ends,Day 4 08:37:00,Planned
+F1289,19,Event detail,C19E01 Kip: target,boss first strike lane,Planned
+F1290,19,Event detail,C19E01 Kip: note,Forms09:00:02; physicalimpact09:00:04; Wardshatters.,Planned
+F1291,19,Event detail,C19E01 Kip: setup_seconds,2,Planned
+F1292,19,Event detail,C19E01 Kip: physical_impact_seconds_after_start,4,Planned
+F1293,19,Event detail,C19E01 Kip: geometry.clear_ground,true,Planned
+F1294,19,Event detail,C19E01 Kip: geometry.within_3m,true,Planned
+F1295,19,Event detail,C19E01 Kip: geometry.upright_2m_square,true,Planned
+F1296,19,Event detail,C19E01 Kip: geometry.stationary,true,Planned
+F1297,19,Event detail,C19E01 Kip: geometry.physical_impact_crosses_front,true,Planned
+F1298,19,Event detail,C19E01 Kip: geometry.blocks_heat_or_water,false,Planned
+F1299,19,Event detail,C19E02 Dane: target,Kip within8m,Planned
+F1300,19,Event detail,C19E02 Dane: note, Separate deliberate block at09:00:02; Ward takes a different later physical strike at09:00:04.,Planned
+F1301,19,Event detail,C19E02 Dane: geometry.path_length_m,6,Planned
+F1302,19,Event detail,C19E02 Dane: geometry.visible_ally,true,Planned
+F1303,19,Event detail,C19E02 Dane: geometry.clear_physical_path,true,Planned
+F1304,19,Event detail,C19E02 Dane: geometry.functional_weapon_in_right_hand,true,Planned
+F1305,19,Event detail,C19E02 Dane: geometry.uses_enhanced_block,true,Planned
+F1306,19,Event detail,C19E02 Dane: geometry.block_seconds_after_activation,1,Planned
+F1307,19,Event detail,C19E02 Dane: geometry.parryable_physical_attack,true,Planned
+F1308,19,Event detail,C19E02 Dane: geometry.all_direction_protection_assumed,false,Planned
+F1309,19,Event detail,C19E03 Tessa: target,clear flank route; physicalshieldbreak by spear,Planned
+F1310,19,Event detail,C19E03 Tessa: geometry.path_length_m,8,Planned
+F1311,19,Event detail,C19E03 Tessa: geometry.visible_traversable_physical_path,true,Planned
+F1312,19,Event detail,C19E03 Tessa: geometry.passes_through_creature_wall_or_restraint,false,Planned
+F1313,19,Event detail,C19E03 Tessa: geometry.carries_another_adult,false,Planned
+F1314,19,Event detail,C19E03 Tessa: geometry.crosses_otherwise_impossible_gap,false,Planned
+F1315,19,Event detail,C19E03 Tessa: geometry.hazard_immunity_assumed,false,Planned
+F1316,19,Event detail,C19E04 Kip: target,boss fixture A,Planned
+F1317,19,Event detail,C19E04 Kip: note,"PreviouslySightinspectedwithin10m, shieldphysicallybroken; visiblewithin15m; ordinaryarc.",Planned
+F1318,19,Event detail,C19E04 Kip: control_seconds,1,Planned
+F1319,19,Event detail,C19E04 Kip: geometry.distance_m,13,Planned
+F1320,19,Event detail,C19E04 Kip: geometry.prior_sight_distance_m,9,Planned
+F1321,19,Event detail,C19E04 Kip: geometry.prior_sight_attention_seconds,1,Planned
+F1322,19,Event detail,C19E04 Kip: geometry.visible_at_start,true,Planned
+F1323,19,Event detail,C19E04 Kip: geometry.available_at_start,true,Planned
+F1324,19,Event detail,C19E04 Kip: geometry.within_normal_mechanical_arc,true,Planned
+F1325,19,Event detail,C19E04 Kip: geometry.ready_at_start,true,Planned
+F1326,19,Event detail,C19E04 Kip: geometry.target_is_constructed_fixture,true,Planned
+F1327,19,Event detail,C19E04 Kip: geometry.shield_removed_physically_if_any,true,Planned
+F1328,19,Event detail,C19E04 Kip: outcome,"ordinary legal fixture function, no strengthened output",Planned
+F1329,19,Event detail,C19E05 Kip: target,boss fixture B,Planned
+F1330,19,Event detail,C19E05 Kip: note,Separate previouslyinspected readyfixture; sameeligibilityrules.,Planned
+F1331,19,Event detail,C19E05 Kip: control_seconds,1,Planned
+F1332,19,Event detail,C19E05 Kip: geometry.distance_m,14,Planned
+F1333,19,Event detail,C19E05 Kip: geometry.prior_sight_distance_m,9,Planned
+F1334,19,Event detail,C19E05 Kip: geometry.prior_sight_attention_seconds,1,Planned
+F1335,19,Event detail,C19E05 Kip: geometry.visible_at_start,true,Planned
+F1336,19,Event detail,C19E05 Kip: geometry.available_at_start,true,Planned
+F1337,19,Event detail,C19E05 Kip: geometry.within_normal_mechanical_arc,true,Planned
+F1338,19,Event detail,C19E05 Kip: geometry.ready_at_start,true,Planned
+F1339,19,Event detail,C19E05 Kip: geometry.target_is_constructed_fixture,true,Planned
+F1340,19,Event detail,C19E05 Kip: geometry.shield_removed_physically_if_any,true,Planned
+F1341,19,Event detail,C19E05 Kip: outcome,"ordinary legal fixture function, no strengthened output",Planned
+F1342,19,Event detail,C19E06 Kip: target,boss second strike lane,Planned
+F1343,19,Event detail,C19E06 Kip: note,Forms14sec; realimpact29sec usesRank2 twenty-secondlifetime; onlyoneimpacthalf.,Planned
+F1344,19,Event detail,C19E06 Kip: setup_seconds,2,Planned
+F1345,19,Event detail,C19E06 Kip: physical_impact_seconds_after_start,17,Planned
+F1346,19,Event detail,C19E06 Kip: geometry.clear_ground,true,Planned
+F1347,19,Event detail,C19E06 Kip: geometry.within_3m,true,Planned
+F1348,19,Event detail,C19E06 Kip: geometry.upright_2m_square,true,Planned
+F1349,19,Event detail,C19E06 Kip: geometry.stationary,true,Planned
+F1350,19,Event detail,C19E06 Kip: geometry.physical_impact_crosses_front,true,Planned
+F1351,19,Event detail,C19E06 Kip: geometry.blocks_heat_or_water,false,Planned
+F1352,19,Event detail,C19E07 Owen: target,Dane new 8cm/0.5cm right forearm cut,Planned
+F1353,19,Event detail,C19E07 Owen: note,Five seconds uninterrupted contact at17–22sec; Dane does not block or cast during this interval. Seal lasts after contact; left wrist not repaired.,Planned
+F1354,19,Event detail,C19E07 Owen: geometry.wound_length_cm,8,Planned
+F1355,19,Event detail,C19E07 Owen: geometry.wound_depth_cm,0.5,Planned
+F1356,19,Event detail,C19E07 Owen: geometry.external_wound,true,Planned
+F1357,19,Event detail,C19E07 Owen: geometry.tissue_present_and_aligned,true,Planned
+F1358,19,Event detail,C19E07 Owen: geometry.uninterrupted_touch_seconds,5,Planned
+F1359,19,Event detail,C19E07 Owen: geometry.repairs_bone_blood_organs_or_nerves,false,Planned
+F1360,19,Event detail,C19E07 Owen: geometry.protected_position_for_channel_required_in_prose,true,Planned
+F1361,19,Event detail,C19E08 Tessa: target,secondclearflankroute,Planned
+F1362,19,Event detail,C19E08 Tessa: note,18secgap>=15secCD; nocarryinganotheradult.,Planned
+F1363,19,Event detail,C19E08 Tessa: geometry.path_length_m,8,Planned
+F1364,19,Event detail,C19E08 Tessa: geometry.visible_traversable_physical_path,true,Planned
+F1365,19,Event detail,C19E08 Tessa: geometry.passes_through_creature_wall_or_restraint,false,Planned
+F1366,19,Event detail,C19E08 Tessa: geometry.carries_another_adult,false,Planned
+F1367,19,Event detail,C19E08 Tessa: geometry.crosses_otherwise_impossible_gap,false,Planned
+F1368,19,Event detail,C19E08 Tessa: geometry.hazard_immunity_assumed,false,Planned
+F1369,19,Event detail,C19E09 Dane: target,frontofsecondWardlane,Planned
+F1370,19,Event detail,C19E09 Dane: note,"Interposeended; effect22–30sec, impact29sec crossesbothpanels. Half×half=quarterphysicalforce, stillinjurious.",Planned
+F1371,19,Event detail,C19E09 Dane: geometry.weapon_raised_in_right_hand,true,Planned
+F1372,19,Event detail,C19E09 Dane: geometry.effect_seconds,8,Planned
+F1373,19,Event detail,C19E09 Dane: geometry.physical_attack_crosses_front,true,Planned
+F1374,19,Event detail,C19E09 Dane: geometry.runs_or_attacks_during_effect,false,Planned
+F1375,19,Event detail,C19E09 Dane: geometry.blocks_heat_poison_or_suffocation,false,Planned
+F1376,19,Event detail,C19E09 Dane: geometry.reduced_force_still_can_hurt,true,Planned
+F1377,19,Event detail,C19E10 Kip: target,boss fixture C,Planned
+F1378,19,Event detail,C19E10 Kip: note,Separate inspectedfixture; finalphysicalstrike at29sec afterRavelrefusesstop; noOverrideofbody/core.,Planned
+F1379,19,Event detail,C19E10 Kip: control_seconds,1,Planned
+F1380,19,Event detail,C19E10 Kip: geometry.distance_m,11.5,Planned
+F1381,19,Event detail,C19E10 Kip: geometry.prior_sight_distance_m,9,Planned
+F1382,19,Event detail,C19E10 Kip: geometry.prior_sight_attention_seconds,1,Planned
+F1383,19,Event detail,C19E10 Kip: geometry.visible_at_start,true,Planned
+F1384,19,Event detail,C19E10 Kip: geometry.available_at_start,true,Planned
+F1385,19,Event detail,C19E10 Kip: geometry.within_normal_mechanical_arc,true,Planned
+F1386,19,Event detail,C19E10 Kip: geometry.ready_at_start,true,Planned
+F1387,19,Event detail,C19E10 Kip: geometry.target_is_constructed_fixture,true,Planned
+F1388,19,Event detail,C19E10 Kip: geometry.shield_removed_physically_if_any,true,Planned
+F1389,19,Event detail,C19E10 Kip: geometry.prior_sight_at,Day 4 09:00:23,Planned
+F1390,19,Event detail,C19E10 Kip: outcome,"ordinary legal fixture function, no strengthened output",Planned
+F1391,19,Event detail,C19E11 Owen: target,same eligible right forearm cut,Planned
+F1392,19,Event detail,C19E11 Owen: note,Twenty seconds of protected aftercare after the fight; no instant battle healing.,Planned
+F1393,19,Event detail,C19E11 Owen: geometry.wound_length_cm,8,Planned
+F1394,19,Event detail,C19E11 Owen: geometry.wound_depth_cm,0.5,Planned
+F1395,19,Event detail,C19E11 Owen: geometry.external_wound,true,Planned
+F1396,19,Event detail,C19E11 Owen: geometry.tissue_present_and_aligned,true,Planned
+F1397,19,Event detail,C19E11 Owen: geometry.uninterrupted_touch_seconds,20,Planned
+F1398,19,Event detail,C19E11 Owen: geometry.repairs_bone_blood_organs_or_nerves,false,Planned
+F1399,19,Event detail,C19E11 Owen: geometry.protected_position_for_channel_required_in_prose,true,Planned
+F1400,20,Event detail,C20E01 Kip: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F1401,20,Event detail,C20E01 Kip: ends,Day 4 09:44:00,Planned
+F1402,20,Event detail,C20E02 Tessa: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F1403,20,Event detail,C20E02 Tessa: ends,Day 4 09:36:00,Planned
+F1404,20,Event detail,C20E03 Owen: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F1405,20,Event detail,C20E03 Owen: ends,Day 4 09:37:00,Planned
+F1406,20,Event detail,C20E04 Dane: note,"Protected, seated, no casting/movement/attack; another awake person keeps watch.",Planned
+F1407,20,Event detail,C20E04 Dane: ends,Day 4 09:38:00,Planned
+F1408,20,Event detail,C20E05 Tessa: target,visible gatewalkroute; runephysicallybrokenwithspear,Planned
+F1409,20,Event detail,C20E05 Tessa: geometry.path_length_m,8,Planned
+F1410,20,Event detail,C20E05 Tessa: geometry.visible_traversable_physical_path,true,Planned
+F1411,20,Event detail,C20E05 Tessa: geometry.passes_through_creature_wall_or_restraint,false,Planned
+F1412,20,Event detail,C20E05 Tessa: geometry.carries_another_adult,false,Planned
+F1413,20,Event detail,C20E05 Tessa: geometry.crosses_otherwise_impossible_gap,false,Planned
+F1414,20,Event detail,C20E05 Tessa: geometry.hazard_immunity_assumed,false,Planned
+F1415,20,Event detail,C20E06 Dane: target,frontofworkerswithgate-loadrig,Planned
+F1416,20,Event detail,C20E06 Dane: geometry.weapon_raised_in_right_hand,true,Planned
+F1417,20,Event detail,C20E06 Dane: geometry.effect_seconds,8,Planned
+F1418,20,Event detail,C20E06 Dane: geometry.physical_attack_crosses_front,true,Planned
+F1419,20,Event detail,C20E06 Dane: geometry.runs_or_attacks_during_effect,false,Planned
+F1420,20,Event detail,C20E06 Dane: geometry.blocks_heat_poison_or_suffocation,false,Planned
+F1421,20,Event detail,C20E06 Dane: geometry.reduced_force_still_can_hurt,true,Planned
+F1422,20,Event detail,C20E07 Kip: target,main gate brake,Planned
+F1423,20,Event detail,C20E07 Kip: note,Waterlevelalreadydropped17; runephysicallybroken20; Sightwithin10mreportsAvailable; ordinaryrelease5sec whileJoryrigcarriesload.,Planned
+F1424,20,Event detail,C20E07 Kip: control_seconds,5,Planned
+F1425,20,Event detail,C20E07 Kip: geometry.distance_m,8,Planned
+F1426,20,Event detail,C20E07 Kip: geometry.prior_sight_distance_m,8,Planned
+F1427,20,Event detail,C20E07 Kip: geometry.prior_sight_attention_seconds,1,Planned
+F1428,20,Event detail,C20E07 Kip: geometry.visible_at_start,true,Planned
+F1429,20,Event detail,C20E07 Kip: geometry.available_at_start,true,Planned
+F1430,20,Event detail,C20E07 Kip: geometry.within_normal_mechanical_arc,true,Planned
+F1431,20,Event detail,C20E07 Kip: geometry.ready_at_start,true,Planned
+F1432,20,Event detail,C20E07 Kip: geometry.target_is_constructed_fixture,true,Planned
+F1433,20,Event detail,C20E07 Kip: geometry.shield_removed_physically_if_any,true,Planned
+F1434,20,Event detail,C20E07 Kip: outcome,"ordinary legal fixture function, no strengthened output",Planned
+F1435,,Declared validation,Planning claim,Every paid cast has sufficient current Mana.,Numeric planning check
+F1436,,Declared validation,Planning claim,Listed per-person cooldowns pass across chapter boundaries.,Numeric planning check
+F1437,,Declared validation,Planning claim,Repeated Override fixture reuse respects end-plus15seconds.,Numeric planning check
+F1438,,Declared validation,Planning claim,No level event changes current Mana.,Numeric planning check
+F1439,,Declared validation,Planning claim,No recorded cast overlaps that persons quiet recovery interval.,Numeric planning check
+F1440,,Declared validation,Planning claim,"3700XP gives Kip9/100, Tessa10/200, Owen12/700, Dane12/700.",Numeric planning check
+F1441,,Declared validation,Planning claim,All three ranked skills receive distinct120 focused minutes; rest excluded.,Numeric planning check
+F1442,,Declared validation,Planning claim,"Failed assaultKip25/70, bossentry75/75, bossexit15/80, bookexit70/80.",Numeric planning check
+F1443,,Declared validation,Planning claim,Room chain obeys capacity1 until chapter10 and capacity2 thereafter.,Numeric planning check
+F1444,,Declared validation,Planning claim,Opening pre-debits35/50/45 and retreat exit25/30/25 for Tessa/Owen/Dane.,Numeric planning check
+F1445,,Declared validation,Planning claim,"Separate non-farming awards occur once per planned challenge, not per cast/claim/wound.",Numeric planning check
+F1446,,Review still required,Not established,"Actual prose geometry, causality and pacing",Open
+F1447,,Review still required,Not established,Whether rest security survives final prose,Open
+F1448,,Review still required,Not established,Full first-reader experience,Open
+F1449,,Review still required,Not established,"Audio, storefront readiness or PocketFM delivery",Open
+F1450,,Adoption requirement,Requirement,Preserve or explicitly revise planned conditions when the actual scene is drafted.,Review required
+F1451,,Adoption requirement,Requirement,"Read final prose, then record actual state separately; never promote a planned event by copying its status.",Review required
+F1452,,Adoption requirement,Requirement,Run the whole-book pass before Pocket FM adaptation and upload.,Review required
+ACT-001-title,1,Actual title,title,"Legendary, Level One",Confirmed from final text
+ACT-001-source_file,1,Actual source_file,source_file,chapters/chapter-01/episode-001.txt,Confirmed from final text
+ACT-001-source_sha256,1,Actual source_sha256,source_sha256,26d994aecffe589453af10fc671aa841f0f8738d856e785ac164147e7267da4c,Confirmed from final text
+ACT-001-time,1,Actual time,time,"Same opening retreat, immediately after first launcher use and crossing. No exact clock printed; no eligible quiet recovery or XP award yet.",Confirmed from final text
+ACT-001-location,1,Actual location,location,"Beyond the marked junction, moving north along the near wall toward the bend/service door. Kip and Owen carry Jory; Tessa ahead; rearguard between litter and live hunter.",Confirmed from final text
+ACT-001-roster.001,1,Actual roster,roster.001,Kip Quillman,Confirmed from final text
+ACT-001-roster.002,1,Actual roster,roster.002,Tessa Ward,Confirmed from final text
+ACT-001-roster.003,1,Actual roster,roster.003,Owen Pike,Confirmed from final text
+ACT-001-roster.004,1,Actual roster,roster.004,Dane Mercer (not yet named to Kip),Confirmed from final text
+ACT-001-roster.005,1,Actual roster,roster.005,Jory Hale,Confirmed from final text
+ACT-001-abilities.Kip.Dominion Sight.rank,1,Actual abilities,abilities.Kip.Dominion Sight.rank,1,Confirmed from final text
+ACT-001-abilities.Kip.Dominion Sight.cost,1,Actual abilities,abilities.Kip.Dominion Sight.cost,0,Confirmed from final text
+ACT-001-abilities.Kip.Dominion Sight.inspection_seconds,1,Actual abilities,abilities.Kip.Dominion Sight.inspection_seconds,1,Confirmed from final text
+ACT-001-abilities.Kip.Dominion Sight.range_metres,1,Actual abilities,abilities.Kip.Dominion Sight.range_metres,10,Confirmed from final text
+ACT-001-abilities.Kip.Dominion Sight.targets,1,Actual abilities,abilities.Kip.Dominion Sight.targets,"Visible dungeon fixtures and Claim anchors; not people, hidden objects or private panels.",Confirmed from final text
+ACT-001-abilities.Kip.Override.rank,1,Actual abilities,abilities.Kip.Override.rank,1,Confirmed from final text
+ACT-001-abilities.Kip.Override.cost,1,Actual abilities,abilities.Kip.Override.cost,10,Confirmed from final text
+ACT-001-abilities.Kip.Override.range_metres,1,Actual abilities,abilities.Kip.Override.range_metres,10,Confirmed from final text
+ACT-001-abilities.Kip.Override.duration_seconds,1,Actual abilities,abilities.Kip.Override.duration_seconds,5,Confirmed from final text
+ACT-001-abilities.Kip.Override.same_fixture_cooldown_after_control_seconds,1,Actual abilities,abilities.Kip.Override.same_fixture_cooldown_after_control_seconds,15,Confirmed from final text
+ACT-001-abilities.Kip.Override.active_limit,1,Actual abilities,abilities.Kip.Override.active_limit,1,Confirmed from final text
+ACT-001-abilities.Kip.Override.limits,1,Actual abilities,abilities.Kip.Override.limits,"Available visible constructed defense; normal arc, fuel and reset. No creation, reload, repair or body control.",Confirmed from final text
+ACT-001-abilities.Kip.Override.actual_use,1,Actual abilities,abilities.Kip.Override.actual_use,One launcher activation; one bolt spent. Control ended; exact elapsed cooldown is not printed.,Confirmed from final text
+ACT-001-abilities.Kip.Claim Room.rank,1,Actual abilities,abilities.Kip.Claim Room.rank,1,Confirmed from final text
+ACT-001-abilities.Kip.Claim Room.cost,1,Actual abilities,abilities.Kip.Claim Room.cost,20,Confirmed from final text
+ACT-001-abilities.Kip.Claim Room.touch_seconds,1,Actual abilities,abilities.Kip.Claim Room.touch_seconds,30,Confirmed from final text
+ACT-001-abilities.Kip.Claim Room.room_max_metres,1,Actual abilities,abilities.Kip.Claim Room.room_max_metres,20,Confirmed from final text
+ACT-001-abilities.Kip.Claim Room.capacity,1,Actual abilities,abilities.Kip.Claim Room.capacity,1,Confirmed from final text
+ACT-001-abilities.Kip.Claim Room.limits,1,Actual abilities,abilities.Kip.Claim Room.limits,"Intact Claimable anchor; guardian defeated, seal absent, no living hostiles inside. Interruptions spend paid Mana. No automatic healing or barrier.",Confirmed from final text
+ACT-001-abilities.Kip.Claim Room.actual_use,1,Actual abilities,abilities.Kip.Claim Room.actual_use,Available but unused.,Confirmed from final text
+ACT-001-abilities.Tessa.Quickstep.rank,1,Actual abilities,abilities.Tessa.Quickstep.rank,2,Confirmed from final text
+ACT-001-abilities.Tessa.Quickstep.cost,1,Actual abilities,abilities.Tessa.Quickstep.cost,10,Confirmed from final text
+ACT-001-abilities.Tessa.Quickstep.cooldown_seconds,1,Actual abilities,abilities.Tessa.Quickstep.cooldown_seconds,15,Confirmed from final text
+ACT-001-abilities.Tessa.Quickstep.distance_metres,1,Actual abilities,abilities.Tessa.Quickstep.distance_metres,12,Confirmed from final text
+ACT-001-abilities.Tessa.Quickstep.duration_seconds,1,Actual abilities,abilities.Tessa.Quickstep.duration_seconds,1,Confirmed from final text
+ACT-001-abilities.Tessa.Quickstep.limits,1,Actual abilities,abilities.Tessa.Quickstep.limits,"Traversable physical route; no teleport, impossible gap or carrying another adult.",Confirmed from final text
+ACT-001-abilities.Tessa.Quickstep.actual_use,1,Actual abilities,abilities.Tessa.Quickstep.actual_use,One paid use after Kip arrives.,Confirmed from final text
+ACT-001-abilities.Tessa.Trail Sight.rank,1,Actual abilities,abilities.Tessa.Trail Sight.rank,2,Confirmed from final text
+ACT-001-abilities.Tessa.Trail Sight.cost,1,Actual abilities,abilities.Tessa.Trail Sight.cost,15,Confirmed from final text
+ACT-001-abilities.Tessa.Trail Sight.cooldown_seconds,1,Actual abilities,abilities.Tessa.Trail Sight.cooldown_seconds,45,Confirmed from final text
+ACT-001-abilities.Tessa.Trail Sight.duration_seconds,1,Actual abilities,abilities.Tessa.Trail Sight.duration_seconds,30,Confirmed from final text
+ACT-001-abilities.Tessa.Trail Sight.range_metres,1,Actual abilities,abilities.Tessa.Trail Sight.range_metres,25,Confirmed from final text
+ACT-001-abilities.Tessa.Trail Sight.track_age_max_hours,1,Actual abilities,abilities.Tessa.Trail Sight.track_age_max_hours,2,Confirmed from final text
+ACT-001-abilities.Tessa.Trail Sight.limits,1,Actual abilities,abilities.Tessa.Trail Sight.limits,"Visible surviving traces from inspected source; no live location, thoughts or walls.",Confirmed from final text
+ACT-001-abilities.Tessa.Trail Sight.actual_use,1,Actual abilities,abilities.Tessa.Trail Sight.actual_use,Not used after Kip arrives.,Confirmed from final text
+ACT-001-abilities.Owen.Staunch.rank,1,Actual abilities,abilities.Owen.Staunch.rank,2,Confirmed from final text
+ACT-001-abilities.Owen.Staunch.cost,1,Actual abilities,abilities.Owen.Staunch.cost,10,Confirmed from final text
+ACT-001-abilities.Owen.Staunch.cooldown_seconds,1,Actual abilities,abilities.Owen.Staunch.cooldown_seconds,15,Confirmed from final text
+ACT-001-abilities.Owen.Staunch.touch_seconds,1,Actual abilities,abilities.Owen.Staunch.touch_seconds,5,Confirmed from final text
+ACT-001-abilities.Owen.Staunch.seal_minutes,1,Actual abilities,abilities.Owen.Staunch.seal_minutes,40,Confirmed from final text
+ACT-001-abilities.Owen.Staunch.limits,1,Actual abilities,abilities.Owen.Staunch.limits,"One external wound; no blood replacement, internal healing or revival; strain or blow can break seal.",Confirmed from final text
+ACT-001-abilities.Owen.Mend.rank,1,Actual abilities,abilities.Owen.Mend.rank,2,Confirmed from final text
+ACT-001-abilities.Owen.Mend.cost,1,Actual abilities,abilities.Owen.Mend.cost,20,Confirmed from final text
+ACT-001-abilities.Owen.Mend.cooldown_seconds,1,Actual abilities,abilities.Owen.Mend.cooldown_seconds,60,Confirmed from final text
+ACT-001-abilities.Owen.Mend.touch_seconds,1,Actual abilities,abilities.Owen.Mend.touch_seconds,20,Confirmed from final text
+ACT-001-abilities.Owen.Mend.wound_max_length_cm,1,Actual abilities,abilities.Owen.Mend.wound_max_length_cm,20,Confirmed from final text
+ACT-001-abilities.Owen.Mend.wound_max_depth_cm,1,Actual abilities,abilities.Owen.Mend.wound_max_depth_cm,1,Confirmed from final text
+ACT-001-abilities.Owen.Mend.limits,1,Actual abilities,abilities.Owen.Mend.limits,"Aligned present skin and shallow muscle; no bone, organs, major vessels, nerves, regrowth or lost blood.",Confirmed from final text
+ACT-001-abilities.Owen.Mend.actual_use,1,Actual abilities,abilities.Owen.Mend.actual_use,No cast after Kip arrives. Jory fracture persists.,Confirmed from final text
+ACT-001-abilities.Dane.Interpose.rank,1,Actual abilities,abilities.Dane.Interpose.rank,2,Confirmed from final text
+ACT-001-abilities.Dane.Interpose.cost,1,Actual abilities,abilities.Dane.Interpose.cost,15,Confirmed from final text
+ACT-001-abilities.Dane.Interpose.cooldown_seconds,1,Actual abilities,abilities.Dane.Interpose.cooldown_seconds,15,Confirmed from final text
+ACT-001-abilities.Dane.Interpose.distance_metres,1,Actual abilities,abilities.Dane.Interpose.distance_metres,8,Confirmed from final text
+ACT-001-abilities.Dane.Interpose.block_window_seconds,1,Actual abilities,abilities.Dane.Interpose.block_window_seconds,3,Confirmed from final text
+ACT-001-abilities.Dane.Interpose.block_strength_multiplier,1,Actual abilities,abilities.Dane.Interpose.block_strength_multiplier,2,Confirmed from final text
+ACT-001-abilities.Dane.Interpose.limits,1,Actual abilities,abilities.Dane.Interpose.limits,"Clear physical path to visible ally/threat; next deliberate block, not stronger bones or teleport.",Confirmed from final text
+ACT-001-abilities.Dane.Bulwark.rank,1,Actual abilities,abilities.Dane.Bulwark.rank,2,Confirmed from final text
+ACT-001-abilities.Dane.Bulwark.cost,1,Actual abilities,abilities.Dane.Bulwark.cost,20,Confirmed from final text
+ACT-001-abilities.Dane.Bulwark.cooldown_seconds,1,Actual abilities,abilities.Dane.Bulwark.cooldown_seconds,45,Confirmed from final text
+ACT-001-abilities.Dane.Bulwark.duration_seconds,1,Actual abilities,abilities.Dane.Bulwark.duration_seconds,8,Confirmed from final text
+ACT-001-abilities.Dane.Bulwark.front_width_metres,1,Actual abilities,abilities.Dane.Bulwark.front_width_metres,3,Confirmed from final text
+ACT-001-abilities.Dane.Bulwark.front_height_metres,1,Actual abilities,abilities.Dane.Bulwark.front_height_metres,2,Confirmed from final text
+ACT-001-abilities.Dane.Bulwark.physical_force_multiplier,1,Actual abilities,abilities.Dane.Bulwark.physical_force_multiplier,0.5,Confirmed from final text
+ACT-001-abilities.Dane.Bulwark.limits,1,Actual abilities,abilities.Dane.Bulwark.limits,"Raised weapon, concentration and facing; no heat, poison or rear protection. Mutually exclusive with own Interpose.",Confirmed from final text
+ACT-001-abilities.Dane.Bulwark.actual_use,1,Actual abilities,abilities.Dane.Bulwark.actual_use,No cast after Kip arrives.,Confirmed from final text
+ACT-001-owned_rooms.Kip,1,Actual owned_rooms,owned_rooms.Kip,None recorded,Confirmed from final text
+ACT-001-owned_rooms.Tessa,1,Actual owned_rooms,owned_rooms.Tessa,None recorded,Confirmed from final text
+ACT-001-owned_rooms.Owen,1,Actual owned_rooms,owned_rooms.Owen,None recorded,Confirmed from final text
+ACT-001-owned_rooms.Dane,1,Actual owned_rooms,owned_rooms.Dane,None recorded,Confirmed from final text
+ACT-001-fatigue.Kip,1,Actual fatigue,fatigue.Kip,Arrival soreness and untrained litter carrying; alert and mobile. No completed quiet recovery minute.,Confirmed from final text
+ACT-001-fatigue.companions,1,Actual fatigue,fatigue.companions,Already retreating from danger; no new quantified fatigue or rest benefit established.,Confirmed from final text
+ACT-001-relationships.Kip and group,1,Actual relationships,relationships.Kip and group,"Kip chose to help carry Jory, warned allies before using the launcher and accepted practical guidance. Cooperation has begun; no earned deep trust or disclosed class rarity.",Confirmed from final text
+ACT-001-relationships.Dane and Jory,1,Actual relationships,relationships.Dane and Jory,Rearguard stays between the live hunter and the litter. His name has not yet been given to Kip.,Confirmed from final text
+ACT-001-unresolved_threats.001,1,Actual unresolved_threats,unresolved_threats.001,The live wounded hunter still follows; the rearguard needs a safe retreat.,Confirmed from final text
+ACT-001-unresolved_threats.002,1,Actual unresolved_threats,unresolved_threats.002,No secured refuge or exit established; Kip remains stranded in Cinderwell.,Confirmed from final text
+ACT-001-resource_events.001.person,1,Actual resource_events,resource_events.001.person,Kip,Confirmed from final text
+ACT-001-resource_events.001.event,1,Actual resource_events,resource_events.001.event,First legal launcher Override,Confirmed from final text
+ACT-001-resource_events.001.before,1,Actual resource_events,resource_events.001.before,40,Confirmed from final text
+ACT-001-resource_events.001.cost,1,Actual resource_events,resource_events.001.cost,10,Confirmed from final text
+ACT-001-resource_events.001.recovery,1,Actual resource_events,resource_events.001.recovery,0,Confirmed from final text
+ACT-001-resource_events.001.after,1,Actual resource_events,resource_events.001.after,30,Confirmed from final text
+ACT-001-resource_events.001.maximum,1,Actual resource_events,resource_events.001.maximum,40,Confirmed from final text
+ACT-001-resource_events.002.person,1,Actual resource_events,resource_events.002.person,Tessa,Confirmed from final text
+ACT-001-resource_events.002.event,1,Actual resource_events,resource_events.002.event,Quickstep during retreat after Kip arrives,Confirmed from final text
+ACT-001-resource_events.002.before,1,Actual resource_events,resource_events.002.before,35,Confirmed from final text
+ACT-001-resource_events.002.cost,1,Actual resource_events,resource_events.002.cost,10,Confirmed from final text
+ACT-001-resource_events.002.recovery,1,Actual resource_events,resource_events.002.recovery,0,Confirmed from final text
+ACT-001-resource_events.002.after,1,Actual resource_events,resource_events.002.after,25,Confirmed from final text
+ACT-001-resource_events.002.maximum,1,Actual resource_events,resource_events.002.maximum,60,Confirmed from final text
+ACT-001-xp_events,1,Actual xp_events,xp_events,None recorded,Confirmed from final text
+ACT-001-practice,1,Actual practice,practice,No focused practice or rank change established.,Confirmed from final text
+ACT-001-injuries.001,1,Actual injuries,injuries.001,"Kip: open superficial palm-length forearm cut from broken stone, bleeding toward cuff; shoulder soreness from arrival; no healing yet.",Confirmed from final text
+ACT-001-injuries.002,1,Actual injuries,injuries.002,Jory: splinted lower-leg fracture persists; earlier shin skin cut already closed.,Confirmed from final text
+ACT-001-injuries.003,1,Actual injuries,injuries.003,"Hunter: bolt embedded in exposed foreleg, still alive and following.",Confirmed from final text
+ACT-001-objects.001,1,Actual objects,objects.001,One launcher bolt discharged; empty channel observed; bolt remains in hunter.,Confirmed from final text
+ACT-001-objects.002,1,Actual objects,objects.002,Jory remains on litter carried by Kip/Owen.,Confirmed from final text
+ACT-001-objects.003,1,Actual objects,objects.003,Tessa retains short spear; Dane retains sword in right hand.,Confirmed from final text
+ACT-001-objects.004,1,Actual objects,objects.004,"Kip retains work clothing, keys and wallet; phone remains on Earth in van, not recovered.",Confirmed from final text
+ACT-001-knowledge.Kip.001,1,Actual knowledge,knowledge.Kip.001,"Knows own legendary Dungeon Sovereign class, level one, initial forty Mana and current thirty.",Confirmed from final text
+ACT-001-knowledge.Kip.002,1,Actual knowledge,knowledge.Kip.002,Knows Dominion Sight inspection and Override ten-Mana/ten-metre/five-second existing-fixture limit; Claim Room remains unused.,Confirmed from final text
+ACT-001-knowledge.Kip.003,1,Actual knowledge,knowledge.Kip.003,"Knows names/roles Tessa scout, Owen field healer, Jory porter; rearguard name not learned yet.",Confirmed from final text
+ACT-001-knowledge.Kip.004,1,Actual knowledge,knowledge.Kip.004,Heard Cinderwell; saw Quickstep as rapid physical movement; has no full companion class descriptions.,Confirmed from final text
+ACT-001-knowledge.Tessa/Owen/Dane.001,1,Actual knowledge,knowledge.Tessa/Owen/Dane.001,"Saw Kip help carry and trigger one launcher after warning allies; private class, rarity, level and Mana not disclosed.",Confirmed from final text
+ACT-001-knowledge.Tessa/Owen/Dane.002,1,Actual knowledge,knowledge.Tessa/Owen/Dane.002,Kip has not yet introduced his name or Earth biography aloud.,Confirmed from final text
+ACT-001-knowledge.reader.001,1,Actual knowledge,knowledge.reader.001,"Saw immediate private legendary class panel, choice to carry Jory, one legal paid power use, live wounded pursuer and no final escape.",Confirmed from final text
+ACT-001-private_flags.001,1,Actual private_flags,private_flags.001,"Companion Mana/XP derived from approved pre-arrival baselines and the actual one Quickstep, not disclosed in narration.",Confirmed from final text
+ACT-001-private_flags.002,1,Actual private_flags,private_flags.002,No one receives a retreat reward before the linked challenge resolves.,Confirmed from final text
+ACT-001-private_flags.003,1,Actual private_flags,private_flags.003,"No new magic, claimed room, rest refill, weapon or inventory power established.",Confirmed from final text
+ACT-001-ending,1,Actual ending,ending,All five remain alive and in retreat beyond the junction. Kip and Owen carry Jory toward the service-door bend while the rearguard delays the living wounded hunter; no refuge or escape is secured.,Confirmed from final text
+ACT-001-open_issues,1,Actual open_issues,open_issues,None recorded,Confirmed from final text
