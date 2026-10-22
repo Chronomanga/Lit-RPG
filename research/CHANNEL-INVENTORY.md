@@ -1,0 +1,36 @@
+# Channel Videos inventory and coverage
+
+Catalog retrieved October 21, 2026 from https://www.youtube.com/@D.R.R.HatchLitRPGAuthor/videos . The flat catalog returned 26 entries, below a retrieval limit of 100. This covers the Videos catalog returned on that date, not Shorts, live streams, paid courses, linked interviews in full, future uploads, or every historical channel item.
+
+All 26 returned caption texts were read end to end. Eleven came from automatic English JSON3 tracks, six from browser exports labeled auto-generated, and nine from vidIQ English transcript responses with track classification unspecified. No video audio or visual information was independently reviewed. A complete returned transcript can still omit speech or on-screen content. Notes record specific truncations and limitations.
+
+The supplied Bing page identifies entry 25, P21E51HFTJg; it is not a twenty-seventh channel video. The separately supplied Sanderson lecture is listed in SOURCES.md.
+
+| # | Video | Catalog duration | Text reviewed | Notes |
+| --- | --- | --- | --- | --- |
+| 1 | [I Was Writing My LitRPG Novels Completely Wrong](https://www.youtube.com/watch?v=IaAuvdKIgx4) | 10:29 | Full returned text; Browser, auto-generated English | [HATCH-PROCESS-AND-LAUNCH.md](HATCH-PROCESS-AND-LAUNCH.md) |
+| 2 | [How This Novel Hit Rising Stars in Just 10 Days](https://www.youtube.com/watch?v=on0rhiB7VW8) | 22:27 | Full returned text; vidIQ English; track type unspecified | [HATCH-LAUNCH-FOLLOWUP.md](HATCH-LAUNCH-FOLLOWUP.md) |
+| 3 | [Your RoyalRoad Book Is Invisible. Here's The Fix.](https://www.youtube.com/watch?v=k4-FBSBqB6Y) | 18:07 | Full returned text; vidIQ English; track type unspecified | [HATCH-LAUNCH-FOLLOWUP.md](HATCH-LAUNCH-FOLLOWUP.md) |
+| 4 | [Why Your RoyalRoad Story Is Dying in Week 1](https://www.youtube.com/watch?v=bLdnEG4gygI) | 16:53 | Full returned text; Browser, auto-generated English | [HATCH-PROCESS-AND-LAUNCH.md](HATCH-PROCESS-AND-LAUNCH.md) |
+| 5 | [Why Nobody Is Reading Your Royal Road Story](https://www.youtube.com/watch?v=GNfJng2KTnU) | 21:47 | Full returned text; vidIQ English; track type unspecified | [HATCH-LAUNCH-FOLLOWUP.md](HATCH-LAUNCH-FOLLOWUP.md) |
+| 6 | [If You Loved Dungeon Crawler Carl, Read THIS Next (A Hidden Gem NO ONE Is Talking About)](https://www.youtube.com/watch?v=spbY0uGqzcA) | 3:03 | Full returned text; vidIQ English; track type unspecified | [HATCH-SYSTEMS-AND-VISIBILITY.md](HATCH-SYSTEMS-AND-VISIBILITY.md) |
+| 7 | [If You Love Weak to Overpowered LitRPG...This Series Was Built For You](https://www.youtube.com/watch?v=WwOsHPbpkp8) | 0:47 | Full returned text; Browser, auto-generated English | [HATCH-PROCESS-AND-LAUNCH.md](HATCH-PROCESS-AND-LAUNCH.md) |
+| 8 | [The Royal Road List That Can Take You From 20 Views to Thousands](https://www.youtube.com/watch?v=q3-RlbZHrW4) | 14:08 | Full returned text; vidIQ English; track type unspecified | [HATCH-SYSTEMS-AND-VISIBILITY.md](HATCH-SYSTEMS-AND-VISIBILITY.md) |
+| 9 | [I Asked 45 LitRPG Authors Their Biggest Struggle (Same Answer Every Time)](https://www.youtube.com/watch?v=CZ_y_P1LaAg) | 24:23 | Full returned text; vidIQ English; track type unspecified | [HATCH-SYSTEMS-AND-VISIBILITY.md](HATCH-SYSTEMS-AND-VISIBILITY.md) |
+| 10 | [Why Most LitRPG Endings Fall Flat (You're Missing This) | Lesson 9: LitRPG Bestselling Outline](https://www.youtube.com/watch?v=ZPq19W8Wk3Y) | 11:25 | Full returned text; vidIQ English; track type unspecified | [HATCH-CORE-AND-BING.md](HATCH-CORE-AND-BING.md) |
+| 11 | [9 Failed LitRPG Novels. Then This Happened.](https://www.youtube.com/watch?v=Ig29OSpMZnE) | 1:51 | Full returned text; Automatic English JSON3 | [HATCH-PROCESS-AND-LAUNCH.md](HATCH-PROCESS-AND-LAUNCH.md) |
+| 12 | [The Chapters Most LitRPG Authors Are Too Scared to Write | Lesson 8: LitRPG Bestselling Outline](https://www.youtube.com/watch?v=LJ5Wn5q7p6o) | 8:00 | Full returned text; Automatic English JSON3 | [HATCH-CRAFT.md](HATCH-CRAFT.md) |
+| 13 | [Why Most LitRPG Authors Lose Readers in the Middle | Lesson 7: LitRPG Bestselling Outline](https://www.youtube.com/watch?v=rVdslbTP8sc) | 11:21 | Full returned text; Automatic English JSON3 | [HATCH-CRAFT.md](HATCH-CRAFT.md) |
+| 14 | [Why Most LitRPG Authors Get These Act One Chapters Wrong (Lesson 6: The LitRPG Bestselling Outline)](https://www.youtube.com/watch?v=BUWE0kq-pWA) | 13:43 | Full returned text; Automatic English JSON3 | [HATCH-CRAFT.md](HATCH-CRAFT.md) |
+| 15 | [Why "Fake" Conflict Sells More LitRPG Books (Lesson 5: LitRPG Bestselling Outline Formula)](https://www.youtube.com/watch?v=VwWU9NkuPgI) | 9:46 | Full returned text; Automatic English JSON3 | [HATCH-CRAFT.md](HATCH-CRAFT.md) |
+| 16 | [The 1 LitRPG Trope New Authors Avoid, But Shouldn't (Lesson 4: LitRPG Bestselling Outline Formula)](https://www.youtube.com/watch?v=yqu3GWPUvFc) | 6:42 | Full returned text; vidIQ English; track type unspecified | [HATCH-CORE-AND-BING.md](HATCH-CORE-AND-BING.md) |
+| 17 | [8 LitRPG Power Mechanics That Make Readers Addicted (Lesson 3: LitRPG Bestselling Outline Formula)](https://www.youtube.com/watch?v=ZpdO49AH0fU) | 7:24 | Full returned text; Automatic English JSON3 | [HATCH-CRAFT.md](HATCH-CRAFT.md) |
+| 18 | [Why Most LitRPG Authors Botch Their Opening | The Fix (Lesson 2: LitRPG Bestselling Outline Formula)](https://www.youtube.com/watch?v=vvwhtGd4Tq0) | 7:45 | Full returned text; Automatic English JSON3 | [HATCH-CRAFT.md](HATCH-CRAFT.md) |
+| 19 | [I Studied 50 LitRPG Bestsellers: Here's the 41 Patterns They Share](https://www.youtube.com/watch?v=Yg6F1xapikU) | 1:56 | Full returned text; Browser, auto-generated English | [HATCH-PROCESS-AND-LAUNCH.md](HATCH-PROCESS-AND-LAUNCH.md) |
+| 20 | [LitRPG Protagonist Patterns That Actually Sell | (Lesson 1: LitRPG Bestselling Outline Formula)](https://www.youtube.com/watch?v=l_6SIPfc7zc) | 8:52 | Full returned text; Automatic English JSON3 | [HATCH-CRAFT.md](HATCH-CRAFT.md) |
+| 21 | [How to Write LitRPG: The System & Power Progression Essentials (Course Lesson)](https://www.youtube.com/watch?v=3nuPVvGhKsk) | 8:15 | Full returned text; vidIQ English; track type unspecified | [HATCH-CORE-AND-BING.md](HATCH-CORE-AND-BING.md) |
+| 22 | [Your LitRPG Protagonist is Boring (5 Traits Readers Actually Crave)](https://www.youtube.com/watch?v=3frdVHT6Hac) | 8:14 | Full returned text; Automatic English JSON3 | [HATCH-CRAFT.md](HATCH-CRAFT.md) |
+| 23 | [Francisco Testimonial for Dakota Hatch, a LitRPG Author Guide](https://www.youtube.com/watch?v=gxKteh346FQ) | 3:03 | Full returned text; Automatic English JSON3 | [HATCH-PROCESS-AND-LAUNCH.md](HATCH-PROCESS-AND-LAUNCH.md) |
+| 24 | [How To Get On Rising Stars On Royal Road w/ LitRPG](https://www.youtube.com/watch?v=BxriLI3JHT4) | 11:23 | Full returned text; Automatic English JSON3 | [HATCH-PROCESS-AND-LAUNCH.md](HATCH-PROCESS-AND-LAUNCH.md) |
+| 25 | [How to Start a LitRPG (The 5-Chapter Formula)](https://www.youtube.com/watch?v=P21E51HFTJg) | 7:46 | Full returned text; Browser, auto-generated English | [HATCH-CORE-AND-BING.md](HATCH-CORE-AND-BING.md) |
+| 26 | [How to Sell LitRPG Books (No Socials Launch Guide)](https://www.youtube.com/watch?v=VdaXsYjzaXE) | 10:09 | Full returned text; Browser, auto-generated English | [HATCH-PROCESS-AND-LAUNCH.md](HATCH-PROCESS-AND-LAUNCH.md) |
